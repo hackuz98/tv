@@ -1,0 +1,494 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/blob/master/Latino_guide.xml.gz"#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="TV",RCN
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8#EXTINF:-1,CARACOL
+http://160.20.165.246:8000/play/a00x/index.m3u8#EXTINF:-1 tvg-id="Caracol.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="TV",Caracol
+http://167.114.156.136:25461/INFINITV/ZX89NM22/157#EXTINF:-1 tvg-id="Canal 1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="TV",Canal 1 HD
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8#EXTINF:-1 tvg-id="Canal Institucional.co" tvg-name="Canal Institucional" tvg-logo=tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/138.png",Señal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL#EXTINF:-1 tvg-id="Canal Institucional.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/138.png" group-title="TV",Señal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8#EXTINF:-1 tvg-id="SeÃ±al Colombia.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/137.png",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL#EXTINF:-1 tvg-id="SeÃ±al Colombia.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/137.png" group-title="TV",Señal Colombia HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8#EXTINF:-1 tvg-id="Canal Trece.co" tvg-logo="https://i.imgur.com/nEBsIlf.png" group-title="TV",Trece HD
+https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8#EXTINF:-1 tvg-id="TrecePlus.co" tvg-logo="https://i.imgur.com/jySvMsw.png" group-title="TV",Trece + HD
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8#EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/MJzuRAN.png",RCN Mas
+https://linear-286.frequency.stream/dist/vix/dist/vix/286/hls/master/playlist.m3u8#EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/MJzuRAN.png",RCN Mas
+https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png",Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="TV",Telepacífico HD
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8#EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="TV", 212 | Discovery Home & Health
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8#EXTINF:-1 tvg-id="Discovery HandH.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/229.png" group-title="TV",Discovery Home & Health
+http://190.149.66.90:4000/play/a04a/index.m3u8#EXTINF:-1 tvg-id="Discovery HandH.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/229.png" group-title="TV",Discovery Home & Health
+http://45.166.92.22:58001/play/a027/index.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",Discovery Home & Health
+http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8#EXTINF:-1 ,Discovery Home & Health
+http://45.5.117.182:8000/play/a0iw/index.m3u8#EXTINF:-1 group-title="TV",Discovery Home & Health HD
+http://190.149.66.90:4000/play/a03o/index.m3u8#EXTINF:-1 group-title="TV",Discovery Home & Health HD
+http://45.166.92.22:58001/play/a015/index.m3u8#EXTINF:-1,Home & Health HD
+http://200.125.170.120:8000/play/a04j#EXTINF:-1 group-title="TV",El Gourmet
+http://190.149.66.90:4000/play/a02d/index.m3u8#EXTINF:-1 group-title="TV",El Gourmet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/219#EXTINF:-1,El Gourmet
+http://200.125.170.120:8000/play/a040#EXTINF:-1 group-title="TV", 177 El Gourmet HD
+http://45.160.15.130:2909/play/177#EXTINF:-1 tvg-id="TLC.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/740.png" group-title="TV",TLC
+http://167.114.156.136:25461/INFINITV/ZX89NM22/124#EXTINF:-1 tvg-id="TLC.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/740.png" group-title="TV",TLC
+http://190.149.66.90:4000/play/a039/index.m3u8#EXTINF:-1 tvg-id="TLC.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/740.png" group-title="TV",TLC
+http://45.166.92.22:58001/play/a04o/index.m3u8#EXTINF:-1,TLC
+http://200.125.170.120:8000/play/a09v#EXTINF:-1 group-title="TV", 174 E !
+http://45.160.15.130:2909/play/174#EXTINF:-1 tvg-id="E!.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="TV",E!
+http://190.149.66.90:4000/play/a033/index.m3u8#EXTINF:-1 tvg-id="E!.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="TV",E!
+http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8#EXTINF:-1,E!
+http://160.20.165.246:8000/play/a00l/index.m3u8#EXTINF:-1 tvg-id="E!.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="TV",E! HD
+http://190.149.66.90:4000/play/a01k/index.m3u8#EXTINF:-1,UNIVERSAL REALITY HD
+http://200.125.170.120:8000/play/a04q#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/120254749.png" group-title="TV",Universal Reality HD
+http://190.149.66.90:4000/play/a03v/index.m3u8#EXTINF:-1 tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" group-title="TV",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV",Telemundo
+http://190.149.66.90:4000/play/a00u/index.m3u8#EXTINF:-1 group-title="TV", 149 Telemundo V+
+http://45.160.15.130:2909/play/149#EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV",Telemundo HD
+http://190.149.66.90:4000/play/a01n/index.m3u8#EXTINF:-1 tvg-id="Telemundo.co" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV",Telemundo HD
+http://45.166.92.22:58001/play/a00r/index.m3u8#EXTINF:-1,Telemundo HD
+http://200.125.170.120:8000/play/a031#EXTINF:-1 tvg-id="USA | Telemundo Internacional" tvg-name="USA | Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="TV", 62 | Telemundo Internacional
+http://bantel.iptvperu.tv:1935/transcoderip/telemundo_t4/playlist.m3u8#EXTINF:-1 tvg-id="TELEMUNDO REGIONAL.co" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="TV",Telemundo Internacional
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8#EXTINF:-1,Telemundo Internacional
+http://160.20.165.246:8000/play/a002/index.m3u8#EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="TV",Bandamax
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="Â¡Hola! TV.co" tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="TV",Hola! TV
+http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8#EXTINF:-1,HOLA! TV HD
+http://200.125.170.120:8000/play/a04k#EXTINF:-1 tvg-id="Â¡Hola! TV.co" tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="TV",Hola! TV HD
+http://190.149.66.90:4000/play/a03p/index.m3u8#EXTINF:-1 tvg-id="Â¡Hola! TV.co" tvg-logo="https://i.imgur.com/i0Qexxd.png" group-title="TV",Hola! TV HD
+http://45.166.92.22:58001/play/a016/index.m3u8#EXTINF:-1 tvg-id="USA | Más Chic" tvg-name="USA | Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="TV", 205 | Más Chic
+http://138.59.177.34:8000/play/a00r/index.m3u8#EXTINF:-1 tvg-id="MasChicPanregional.ar" tvg-logo="https://i.imgur.com/pOyBwD1.png" group-title="TV",Más Chic
+http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8#EXTINF:-1,Mas Chic
+http://200.125.170.120:8000/play/a004#EXTINF:-1 tvg-id="USA | Food Network" tvg-name="USA | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="TV", 217 | Food Network
+http://190.61.55.186:1010/play/a00x/index.m3u8#EXTINF:-1 group-title="TV",BABY SHARK
+https://linear-355.frequency.stream/dist/vix/dist/vix/355/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="USA | BabyFirst" tvg-name="USA | BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20220912114022" group-title="TV", 139 | BabyFirst
+http://138.59.177.34:8000/play/a03y/index.m3u8#EXTINF:-1 group-title="TV", Baby First
+http://167.114.156.136:25461/INFINITV/ZX89NM22/150#EXTINF:-1 group-title="TV",Baby First
+http://190.149.66.90:4000/play/a028/index.m3u8#EXTINF:-1,Baby First
+http://200.125.170.120:8000/play/a03v#EXTINF:-1 group-title="TV", 008 BabyFirst V+
+http://45.160.15.130:2909/play/008#EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="TV", 140 | BabyTV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8#EXTINF:-1 group-title="TV", Baby TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/60#EXTINF:-1,Baby TV
+http://200.125.170.120:8000/play/a002#EXTINF:-1 tvg-id="USA | BabyTV" tvg-name="USA | BabyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="TV", BabyTV
+http://138.59.177.34:8000/play/a00p/index.m3u8#EXTINF:-1 tvg-id="USA | Discovery Kids" tvg-name="USA | Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="TV", 143 | Discovery Kids
+http://190.61.55.186:1010/play/a001/index.m3u8#EXTINF:-1 group-title="TV", Discovery Kids
+http://167.114.156.136:25461/INFINITV/ZX89NM22/210#EXTINF:-1,DISCOVERY KIDS
+http://160.20.165.246:8000/play/a016/index.m3u8#EXTINF:-1 tvg-id="Discovery Kids.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/330.png" group-title="TV",Discovery Kids
+http://190.149.66.90:4000/play/a045/index.m3u8#EXTINF:-1 ,Discovery Kids
+http://45.5.117.182:8000/play/a0ir/index.m3u8#EXTINF:-1 group-title="TV", 005 Discovery Kids HD
+http://45.160.15.130:2909/play/005#EXTINF:-1,Discovery Kids HD
+http://200.125.170.120:8000/play/a00j#EXTINF:-1 group-title="TV", 005 Discovery Kids HD
+http://45.160.15.130:2909/play/005#EXTINF:-1,Discovery Kids HD
+http://200.125.170.120:8000/play/a00j#EXTINF:-1 tvg-id="USA | Cartoon Network" tvg-name="USA | Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="TV", 135 | Cartoon Network
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8#EXTINF:-1 tvg-id="Cartoon Network.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/304.png" group-title="TV",Cartoon Network
+http://190.149.66.90:4000/play/a00o/index.m3u8#EXTINF:-1 ,Cartoon Network
+http://45.5.117.182:8000/play/a0en/index.m3u8#EXTINF:-1 group-title="TV", 009 Cartoon Network HD
+http://45.160.15.130:2909/play/009#EXTINF:-1 tvg-id="Cartoon Network.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/304.png" group-title="TV",Cartoon Network HD
+http://190.149.66.90:4000/play/a00b/index.m3u8#EXTINF:-1 group-title="TV", CARTOON NT HD
+http://45.166.92.22:58001/play/a03y/index.m3u8#EXTINF:-1 ,CARTOON NT HD
+http://45.5.117.182:8000/play/a0e7/index.m3u8#EXTINF:-1,CARTOON NT HD
+http://200.125.170.120:8000/play/a00x#EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/308.png" group-title="TV",Nickelodeon
+http://190.149.66.90:4000/play/a046/index.m3u8#EXTINF:-1 tvg-id="Nick.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/308.png" group-title="TV",Nickelodeon
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8#EXTINF:-1 ,Nickelodeon
+http://45.5.117.182:8000/play/a0is/index.m3u8#EXTINF:-1 group-title="TV", 014 Nick HD
+http://45.160.15.130:2909/play/014#EXTINF:-1 group-title="TV",Nick SIM HD
+http://190.149.66.90:4000/play/a03k/index.m3u8#EXTINF:-1 ,Nick SIM HD
+http://45.5.117.182:8000/play/a0i7/index.m3u8#EXTINF:-1,Nick SIM HD
+http://200.125.170.120:8000/play/a04g#EXTINF:-1 tvg-id="Disney Channel.co" tvg-icon="https://www.directv.com.co/content/dam/public-sites/channels/314.png" group-title="TV",Disney
+http://190.149.66.90:4000/play/a047/index.m3u8#EXTINF:-1 ,Disney
+http://45.5.117.182:8000/play/a0it/index.m3u8#EXTINF:-1,Disney
+http://200.125.170.120:8000/play/a057#EXTINF:-1 group-title="TV", 010 Disney HD
+http://45.160.15.130:2909/play/010#EXTINF:-1 tvg-id="DISNEY CHANNEL HD.co" tvg-icon="https://www.directv.com.co/content/dam/public-sites/channels/314.png" group-title="TV",Disney HD
+http://45.166.92.22:58001/play/a04q/index.m3u8#EXTINF:-1 tvg-id="USA | Adult Swim" tvg-name="USA | Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/300px-Adult_Swim_2003_logo.svg.png" group-title="TV", 165 | Adult Swim
+http://138.59.177.34:8000/play/a029/index.m3u8#EXTINF:-1 group-title="TV",Adult Swim
+http://190.149.66.90:4000/play/a00t/index.m3u8#EXTINF:-1 tvg-id="truTVLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="TV",Adult Swim
+http://stream.flynetwifi.com:1935/live/mobile-041/playlist.m3u8#EXTINF:-1,Adult Swim
+http://200.125.170.120:8000/play/a0ct#EXTINF:-1 tvg-id="USA | DreamWorks" tvg-name="USA | DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="TV", 148 | DreamWorks
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTLDjMQH8ITplcMrTpfwocenBJD_9wfl90grBr9mOSvCF3U1ZST_51u1yapdw8tc1Rw" group-title="TV",DreamWorks
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8#EXTINF:-1 tvg-id="DISNEY JUNIOR.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/315.png" group-title="TV",Disney JR
+http://190.149.66.90:4000/play/a00r/index.m3u8#EXTINF:-1 ,Disney JR
+http://45.5.117.182:8000/play/a0eq/index.m3u8#EXTINF:-1,Disney JR
+http://200.125.170.120:8000/play/a0cq#EXTINF:-1 group-title="TV", 006 Disney Junior V+
+http://45.160.15.130:2909/play/006#EXTINF:-1 tvg-id="Nick Jr.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/309_CO.png" group-title="TV",Nick Jr
+http://190.149.66.90:4000/play/a00p/index.m3u8#EXTINF:-1,Nick Jr
+http://200.125.170.120:8000/play/a0co#EXTINF:-1 group-title="TV", 015 Nick Jr V+
+http://45.160.15.130:2909/play/015#EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="TV", 136 | Cartoonito
+http://138.59.177.34:8000/play/a025/index.m3u8#EXTINF:-1 group-title="TV", Cartoonito
+http://190.149.66.90:4000/play/a00q/index.m3u8#EXTINF:-1 tvg-id="CARTOONITO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="TV",Cartoonito
+http://45.166.92.22:58001/play/a02u/index.m3u8#EXTINF:-1,Cartoonito
+http://200.125.170.120:8000/play/a0cp#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="TV",Cartoonito
+http://stream.flynetwifi.com:1935/live/mobile-055/playlist.m3u8#EXTINF:-1 tvg-id="USA | Tooncast" tvg-name="USA | Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="TV", 137 | Tooncast
+http://138.59.177.34:8000/play/a04x/index.m3u8#EXTINF:-1 tvg-id="TOONCAST.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Toncst.png" group-title="TV",Tooncast
+http://190.149.66.90:4000/play/a02z/index.m3u8#EXTINF:-1,Tooncast
+http://200.125.170.120:8000/play/a09l#EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="TV", 132 | ZooMoo
+http://138.59.177.34:8000/play/a00q/index.m3u8#EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/321.png" group-title="TV",Zoo Moo
+http://stream.flynetwifi.com:1935/live/mobile-069/playlist.m3u8#EXTINF:-1 tvg-id="USA | ZooMoo" tvg-name="USA | ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/120px-ZooMoo_logo.svg.png" group-title="TV", ZooMoo
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8#EXTINF:-1,ZooMoo
+http://200.125.170.120:8000/play/a003#EXTINF:-1 tvg-id="USA | TNT" tvg-name="USA | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="TV", 107 | TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/100px-TNT_Logo_2016.svg.png" group-title="TV",TNT
+http://190.149.66.90:4000/play/a015/index.m3u8#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/100px-TNT_Logo_2016.svg.png" group-title="TV",TNT
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8#EXTINF:-1 group-title="TV", 109 TNT HD
+http://45.160.15.130:2909/play/109#EXTINF:-1 tvg-id="TNT.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/100px-TNT_Logo_2016.svg.png" group-title="TV",TNT HD
+http://190.149.66.90:4000/play/a03m/index.m3u8#EXTINF:-1,TNT HD
+http://200.125.170.120:8000/play/a04h#EXTINF:-1 tvg-id="USA | Studio Universal" tvg-name="USA | Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="TV", 82 | Studio Universal
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8#EXTINF:-1,STUDIO UNIVERSAL
+http://160.20.165.246:8000/play/a01c/index.m3u8#EXTINF:-1 tvg-id="Studio Universal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="TV",Studio Universal
+http://190.149.66.90:4000/play/a04m/index.m3u8#EXTINF:-1 tvg-id="Studio Universal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="TV",Studio Universal
+http://stream.flynetwifi.com:1935/live/mobile-026/playlist.m3u8#EXTINF:-1 group-title="TV", 098 Studio Universal HD
+http://45.160.15.130:2909/play/098#EXTINF:-1 tvg-id="Studio Universal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="TV",Studio Universal HD
+http://190.149.66.90:4000/play/a01i/index.m3u8#EXTINF:-1,Studio Universal HD
+http://200.125.170.120:8000/play/a02v#EXTINF:-1 tvg-logo="TCM.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="TV",TCM
+http://190.149.66.90:4000/play/a02m/index.m3u8#EXTINF:-1 tvg-logo="TCM.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="TV",TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8#EXTINF:-1,TCM
+http://200.125.170.120:8000/play/a04b#EXTINF:-1 group-title="TV", 110 TCM V+
+http://45.160.15.130:2909/play/110#EXTINF:-1 tvg-id="USA | Space" tvg-name="USA | Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="TV", 66 | Space
+http://138.59.177.34:8000/play/a02c/index.m3u8#EXTINF:-1 tvg-id="Space.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="TV",Space
+http://190.149.66.90:4000/play/a00w/index.m3u8#EXTINF:-1 tvg-id="Space.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="TV",Space
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8#EXTINF:-1 group-title="TV", 119 Space HD
+http://45.160.15.130:2909/play/119#EXTINF:-1,SPACE HD
+http://200.125.170.120:8000/play/a05t#EXTINF:-1 tvg-id="Space.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="TV",Space HD
+http://190.149.66.90:4000/play/a04s/index.m3u8#EXTINF:-1 tvg-id="Space.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="TV",Space HD
+http://45.166.92.22:58001/play/a02o/index.m3u8#EXTINF:-1 tvg-id="USA | Sony Movies" tvg-name="USA | Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="TV", 73 | Sony Movies
+http://bantel.iptvperu.tv:1935/transcoderip/SonyMovies_t4/playlist.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="TV",Sony Movies HD
+http://190.149.66.90:4000/play/a01q/index.m3u8#EXTINF:-1,Sony Movies HD
+http://200.125.170.120:8000/play/a02o#EXTINF:-1 tvg-id="USA | AMC" tvg-name="USA | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="TV", 65 | AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8#EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://static.wikia.nocookie.net/thewalkingdead/images/8/8a/Amc_logo.jpg/revision/latest/scale-to-width-down/250?cb=20120204194225&path-prefix=es" group-title="TV",AMC
+http://190.149.66.90:4000/play/a016/index.m3u8#EXTINF:-1 ,AMC
+http://45.5.117.182:8000/play/a0f5/index.m3u8#EXTINF:-1 tvg-id="AMC.co" tvg-logo="https://static.wikia.nocookie.net/thewalkingdead/images/8/8a/Amc_logo.jpg/revision/latest/scale-to-width-down/250?cb=20120204194225&path-prefix=es" group-title="TV",AMC HD
+http://190.149.66.90:4000/play/a01m/index.m3u8#EXTINF:-1,AMC HD
+http://200.125.170.120:8000/play/a02k#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/1200px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="TV",Paramount
+http://190.149.66.90:4000/play/a007/index.m3u8#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/1200px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="TV",Paramount
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8#EXTINF:-1 ,Paramount
+http://45.5.117.182:8000/play/a0e3/index.m3u8#EXTINF:-1 group-title="TV", 099 Paramount HD
+http://45.160.15.130:2909/play/099#EXTINF:-1 group-title="TV", Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8#EXTINF:-1 tvg-id="Paramount Channel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/1200px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="TV",Paramount HD
+http://190.149.66.90:4000/play/a04z/index.m3u8#EXTINF:-1,Paramount HD
+http://200.125.170.120:8000/play/a060#EXTINF:-1 tvg-id="USA | Cinecanal" tvg-name="USA | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="TV", 70 | Cinecanal
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8#EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="TV",Cinecanal
+http://190.149.66.90:4000/play/a04n/index.m3u8#EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="TV",Cinecanal
+http://45.166.92.22:58001/play/a02f/index.m3u8#EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="TV",Cinecanal
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8#EXTINF:-1 group-title="TV", 107 Cinecanal HD
+http://45.160.15.130:2909/play/107#EXTINF:-1,CINECANAL HD
+http://200.125.170.120:8000/play/a0a3#EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="TV",Cinecanal HD
+http://190.149.66.90:4000/play/a03h/index.m3u8#EXTINF:-1 tvg-id="Cinecanal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="TV",Cinecanal HD
+http://45.166.92.22:58001/play/a04b/index.m3u8#EXTINF:-1 tvg-id="USA | Cinemax" tvg-name="USA | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="TV", 100 | Cinemax
+http://190.61.55.186:1010/play/a022/index.m3u8#EXTINF:-1 tvg-id="Cinemax.co" tvg-logo="https://logowik.com/content/uploads/images/cinemax-yellow7289.jpg" group-title="TV",CineMax
+http://190.149.66.90:4000/play/a04l/index.m3u8#EXTINF:-1,CineMax
+http://200.125.170.120:8000/play/a05l#EXTINF:-1 group-title="TV", 112 Cinemax HD
+http://45.160.15.130:2909/play/112#EXTINF:-1 tvg-id="MX | Golden" tvg-name="MX | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="TV", 110 | Golden
+http://138.59.177.34:8000/play/a04d/index.m3u8#EXTINF:-1 tvg-id="GOLDEN LATINO.co" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="TV",Golden
+http://190.149.66.90:4000/play/a02l/index.m3u8#EXTINF:-1 tvg-id="GOLDEN LATINO.co" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="TV",Golden
+http://167.114.156.136:25461/INFINITV/ZX89NM22/181#EXTINF:-1 tvg-id="GOLDEN LATINO.co" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="TV",Golden
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8#EXTINF:-1 tvg-id="GOLDEN LATINO.co" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="TV",Golden
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8#EXTINF:-1,Golden
+http://200.125.170.120:8000/play/a04a#EXTINF:-1 tvg-id="MX | Golden Premier" tvg-name="MX | Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="TV", 112 | Golden Premier
+http://138.59.177.34:8000/play/a018/index.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="TV",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="TV", 115 | Multipremier
+http://138.59.177.34:8000/play/a06o/index.m3u8#EXTINF:-1,MULTIPREMIER
+http://160.20.165.246:8000/play/a00b/index.m3u8#EXTINF:-1 tvg-id="MultiPremier.mx" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="TV",MultiPremier
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8#EXTINF:-1 group-title="TV",Multipremier
+http://190.149.66.90:4000/play/a04j/index.m3u8#EXTINF:-1,Multipremier
+http://200.125.170.120:8000/play/a05j#EXTINF:-1 tvg-logo="https://mbanetworks.tv/wp-content/uploads/2022/08/a3cine-300x300.png" group-title="TV",A3 Cine
+http://stream.flynetwifi.com:1935/live/mobile-028/playlist.m3u8#EXTINF:-1 tvg-id="De PelÃ­cula.co" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="TV",De Pelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="TV",De Pelicula Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="MX | Claro Cinema" tvg-name="MX | Claro Cinema" tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=86830508" group-title="TV", 78 | Claro Cinema
+http://138.59.177.34:8000/play/a05b/index.m3u8#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="TV",Claro Cinema
+http://190.149.66.90:4000/play/a03d/index.m3u8#EXTINF:-1 tvg-id="AzCinema.mx" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="TV",Az Cinema
+http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8#EXTINF:-1 tvg-id="MX | Cine Latino" tvg-name="MX | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="TV", 109 | Cine Latino
+http://138.59.177.34:8000/play/a06p/index.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg" group-title="TV",Cine Latino
+http://190.149.66.90:4000/play/a04k/index.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg" group-title="TV",Cine Latino
+http://45.166.92.22:58001/play/a02c/index.m3u8#EXTINF:-1,Cine Latino
+http://200.125.170.120:8000/play/a05k#EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="TV", 202 | Film & Arts
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8#EXTINF:-1 tvg-id="USA | film&arts" tvg-name="USA | film&arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png" group-title="TV", Film & Arts
+http://45.5.117.182:8000/play/a0fl/index.m3u8#EXTINF:-1 group-title="TV",Film & Arts
+http://190.149.66.90:4000/play/a005/index.m3u8#EXTINF:-1,Film & arts HD
+http://200.125.170.120:8000/play/a02y#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="TV",Universal Cinema HD
+http://45.166.92.22:58001/play/a01t/index.m3u8#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://200.125.170.120:8000/play/a067#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png" group-title="TV",Universal Cinema Este HD
+http://190.149.66.90:4000/play/a056/index.m3u8#EXTINF:-1 tvg-id="USA | HBO" tvg-name="USA | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="TV", 101 | HBO
+http://138.59.177.34:8000/play/a01m/index.m3u8#EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="TV",HBO
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8#EXTINF:-1 group-title="TV", 017 HBO HD
+http://45.160.15.130:2909/play/017#EXTINF:-1 group-title="TV", HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8#EXTINF:-1 tvg-id="HBO.co" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-hd-este_m.png" group-title="TV",HBO HD
+http://190.149.66.90:4000/play/a00c/index.m3u8#EXTINF:-1,HBO HD
+http://200.125.170.120:8000/play/a00y#EXTINF:-1 tvg-id="USA | HBO 2" tvg-name="USA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="TV", 102 | HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8#EXTINF:-1 tvg-id="HBO 2.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="TV",HBO2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8#EXTINF:-1 group-title="TV", 021 HBO 2 HD
+http://45.160.15.130:2909/play/021#EXTINF:-1 group-title="TV", HBO2 HD
+http://45.166.92.22:58001/play/a03t/index.m3u8#EXTINF:-1 tvg-id="HBO 2.co" tvg-logo="https://logowik.com/content/uploads/images/hbo-2-hd-nl3042.logowik.com.webp" group-title="TV",HBO2 HD
+http://190.149.66.90:4000/play/a00d/index.m3u8#EXTINF:-1,HBO2 HD
+http://200.125.170.120:8000/play/a00z#EXTINF:-1 tvg-id="USA | HBO Family" tvg-name="USA | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="TV", 104 | HBO Family
+http://138.59.177.34:8000/play/a01p/index.m3u8#EXTINF:-1 ,HBO Family
+http://45.5.117.182:8000/play/a0ep/index.m3u8#EXTINF:-1 group-title="TV", 018 HBO Family HD
+http://45.160.15.130:2909/play/018#EXTINF:-1 group-title="TV",HBO Family HD
+http://190.149.66.90:4000/play/a00f/index.m3u8#EXTINF:-1,HBO Family HD
+http://200.125.170.120:8000/play/a011#EXTINF:-1 tvg-id="USA | HBO Xtreme" tvg-name="USA | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="TV", 105 | HBO Xtreme
+http://138.59.177.34:8000/play/a01q/index.m3u8#EXTINF:-1 group-title="TV", HBO XTREME
+http://45.166.92.22:58001/play/a03w/index.m3u8#EXTINF:-1 group-title="TV",HBO XTREME
+http://190.149.66.90:4000/play/a00g/index.m3u8#EXTINF:-1,HBO XTREME
+http://200.125.170.120:8000/play/a012#EXTINF:-1 group-title="TV", 020 HBO Xtreme HD
+http://45.160.15.130:2909/play/020#EXTINF:-1 tvg-id="USA | HBO+" tvg-name="USA | HBO +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="TV", 103 | HBO +
+http://138.59.177.34:8000/play/a01o/index.m3u8#EXTINF:-1 group-title="TV", 019 HBO Plus V+
+http://45.160.15.130:2909/play/019#EXTINF:-1 group-title="TV",HBO Plus HD
+http://190.149.66.90:4000/play/a00e/index.m3u8#EXTINF:-1 group-title="TV",HBO Plus HD
+http://45.166.92.22:58001/play/a03u/index.m3u8#EXTINF:-1,HBO Plus HD
+http://200.125.170.120:8000/play/a010#EXTINF:-1 tvg-id="USA | HBO Pop" tvg-name="USA | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="TV", 106 | HBO Pop
+http://38.41.8.1:8000/play/a00d#EXTINF:-1 tvg-id="USA | FX" tvg-name="USA | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="TV", 92 | FX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8#EXTINF:-1 group-title="TV",FX
+http://190.149.66.90:4000/play/a029/index.m3u8#EXTINF:-1 group-title="TV",FX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/70#EXTINF:-1 group-title="TV", 093 FX HD
+http://45.160.15.130:2909/play/093#EXTINF:-1 group-title="TV",FX HD
+http://190.149.66.90:4000/play/a01o/index.m3u8#EXTINF:-1 group-title="TV",FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8#EXTINF:-1,FX HD
+http://200.125.170.120:8000/play/a032#EXTINF:-1,SONY
+http://160.20.165.246:8000/play/a00o/index.m3u8#EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony
+http://190.149.66.90:4000/play/a031/index.m3u8#EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony
+http://stream.flynetwifi.com:1935/live/mobile-035/playlist.m3u8#EXTINF:-1 tvg-id="USA | Sony Channel" tvg-name="USA | Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="TV", 72 | Sony Channel
+http://bantel.iptvperu.tv:1935/transcoderip/sonychannel_t4/playlist.m3u8#EXTINF:-1,SONY HD
+http://200.125.170.120:8000/play/a0a2#EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony HD
+http://190.149.66.90:4000/play/a03g/index.m3u8#EXTINF:-1 tvg-id="Sony.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV",Sony HD
+http://45.166.92.22:58001/play/a04a/index.m3u8#EXTINF:-1 tvg-id="USA | Star Channel" tvg-name="USA | Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="TV", 91 | Star Channel
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8#EXTINF:-1 group-title="TV",STAR CHANNEL
+http://190.149.66.90:4000/play/a048/index.m3u8#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="TV",Star Channel
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8#EXTINF:-1 group-title="TV",STAR CHANNEL HD
+http://190.149.66.90:4000/play/a03e/index.m3u8#EXTINF:-1 group-title="TV",STAR CHANNEL HD
+http://45.166.92.22:58001/play/a048/index.m3u8#EXTINF:-1,STAR CHANNEL HD
+http://200.125.170.120:8000/play/a0a0#EXTINF:-1 group-title="TV",USA
+http://167.114.156.136:25461/INFINITV/ZX89NM22/80#EXTINF:-1 group-title="TV",USA
+http://190.149.66.90:4000/play/a035/index.m3u8#EXTINF:-1,USA
+http://160.20.165.246:8000/play/a01e/index.m3u8#EXTINF:-1,USA
+http://200.125.170.120:8000/play/a09r#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",USA Español
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8#EXTINF:-1 group-title="TV", 101 SyFy V+
+http://45.160.15.130:2909/play/101#EXTINF:-1 group-title="TV",Warner
+http://190.149.66.90:4000/play/a032/index.m3u8#EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="TV", 86 | Warner Channel
+http://138.59.177.34:8000/play/a05d/index.m3u8#EXTINF:-1 group-title="TV", Warner Channel
+http://167.114.156.136:25461/INFINITV/ZX89NM22/59#EXTINF:-1 tvg-id="USA | Warner Channel" tvg-name="USA | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="TV", Warner Channel
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8#EXTINF:-1 group-title="TV",WARNER HD
+http://190.149.66.90:4000/play/a03f/index.m3u8#EXTINF:-1,WARNER HD
+http://200.125.170.120:8000/play/a0a1#EXTINF:-1 tvg-id="USA | TNT Series" tvg-name="USA | TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="TV", 108 | TNT Series
+http://168.227.22.18:1935/live/mobile-046/playlist.m3u8#EXTINF:-1 tvg-id="TNT Series.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TV",TNT Series
+http://190.149.66.90:4000/play/a00x/index.m3u8#EXTINF:-1 tvg-id="TNT Series.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TV",TNT Series
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8#EXTINF:-1 group-title="TV", 108 TNT Series HD
+http://45.160.15.130:2909/play/108#EXTINF:-1 tvg-id="TNT Series.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="TV",TNT Series HD
+http://190.149.66.90:4000/play/a050/index.m3u8#EXTINF:-1,TNT Series HD
+http://200.125.170.120:8000/play/a061#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://200.125.170.120:8000/play/a04o#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/398064723.png" group-title="TV",Universal Premiere HD
+http://190.149.66.90:4000/play/a03t/index.m3u8#EXTINF:-1 tvg-id="USA | Universal Premiere Oeste" tvg-name="USA | Universal Premiere Oeste" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1684337481747-universal-premiere.png" group-title="TV", 99.2 | Universal Premiere Oeste
+http://138.59.177.34:8000/play/a05t/index.m3u8#EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="TV", 67 | AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8#EXTINF:-1 tvg-id="USA | AXN" tvg-name="USA | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="TV", AXN
+http://bantel.iptvperu.tv:1935/transcoderip/axn_t4/playlist.m3u8#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="TV",AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8#EXTINF:-1,AXN
+http://160.20.165.246:8000/play/a00n/index.m3u8#EXTINF:-1 group-title="TV",AXN HD
+http://190.149.66.90:4000/play/a04r/index.m3u8#EXTINF:-1 group-title="TV",AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8#EXTINF:-1,AXN HD
+http://200.125.170.120:8000/play/a05s#EXTINF:-1 tvg-id="USA | A&E" tvg-name="USA | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="TV", 64 | A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",A&E
+http://stream.flynetwifi.com:1935/live/mobile-158/playlist.m3u8#EXTINF:-1 ,A&E
+http://45.5.117.182:8000/play/a0hr/index.m3u8#EXTINF:-1,A&E
+http://160.20.165.246:8000/play/a00k/index.m3u8#EXTINF:-1 group-title="TV", 102 A&E HD
+http://45.160.15.130:2909/play/102#EXTINF:-1 group-title="TV",A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8#EXTINF:-1 ,A&E HD
+http://45.5.117.182:8000/play/a0fm/index.m3u8#EXTINF:-1,A&E HD
+http://200.125.170.120:8000/play/a02z#EXTINF:-1,Universal
+http://200.125.170.120:8000/play/a05h#EXTINF:-1 tvg-shift="-6"  group-title="TV",Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8#EXTINF:-1 tvg-id="USA | Universal TV" tvg-name="USA | Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="TV", 94 | Universal TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8#EXTINF:-1 tvg-id="Universal TV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV",Universal TV
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8#EXTINF:-1 tvg-id="Universal TV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="TV",Universal TV
+http://190.149.66.90:4000/play/a04h/index.m3u8#EXTINF:-1 group-title="TV", 088 Universal TV HD
+http://45.160.15.130:2909/play/088#EXTINF:-1 tvg-id="ATRES SERIES HD.co" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/58.jpg" group-title="TV",A3 Series
+http://stream.flynetwifi.com:1935/live/mobile-047/playlist.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="TV",Golden Multiplex
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="TV", 54 | RCN Novelas
+http://138.59.177.34:8000/play/a040/index.m3u8#EXTINF:-1 tvg-id="CO | RCN Novelas" tvg-name="CO | RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/205px-RCN_Novelas_logo_2019.png" group-title="TV", RCN Novelas
+http://168.227.22.18:1935/live/mobile-066/playlist.m3u8#EXTINF:-1 group-title="TV" tvg-id="RCN Novelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas
+http://190.149.66.90:4000/play/a02a/index.m3u8#EXTINF:-1 tvg-id="RCN Novelas.co" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="TV",RCN Novelas
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8#EXTINF:-1,RCN Novelas
+http://200.125.170.120:8000/play/a03x#EXTINF:-1 tvg-id="USA | TNT Novelas" tvg-name="USA | TNT Novelas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="TV", 57 | TNT Novelas
+http://138.59.177.34:8000/play/a02e/index.m3u8#EXTINF:-1,TNT Novelas
+http://200.125.170.120:8000/play/a0cy#EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="TV", 55 | Pasiones
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8#EXTINF:-1,PASIONES
+http://160.20.165.246:8000/play/a00g/index.m3u8#EXTINF:-1 group-title="TV", 150 Pasiones HD
+http://45.160.15.130:2909/play/150#EXTINF:-1 group-title="TV",Pasiones HD
+http://190.149.66.90:4000/play/a053/index.m3u8#EXTINF:-1 tvg-id="Pasiones.us" tvg-logo="https://i.imgur.com/BCWbGf9.png" group-title="TV",Pasiones HD
+http://stream.flynetwifi.com:1935/live/mobile-014/playlist.m3u8#EXTINF:-1,Pasiones HD
+http://200.125.170.120:8000/play/a064#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="TV",Tlnovelas
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="TV", 175 | Comedy Central 
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",Comedy Central
+http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8#EXTINF:-1 group-title="TV",Comedy Central HD
+http://190.149.66.90:4000/play/a03q/index.m3u8#EXTINF:-1,Comedy Central HD
+http://200.125.170.120:8000/play/a04l#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="TV", 174 | Distrito Comedia
+http://45.5.117.182:8000/play/ihf9/index.m3u8#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="TV",Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8#EXTINF:-1,UNIVERSAL COMEDY HD
+http://200.125.170.120:8000/play/a04s#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/172050409.png" group-title="TV",Universal Comedy HD
+http://190.149.66.90:4000/play/a03x/index.m3u8#EXTINF:-1 tvg-id="USA | Lifetime" tvg-name="USA | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="TV", 199 | Lifetime
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8#EXTINF:-1 group-title="TV",LIFE TIME
+http://190.149.66.90:4000/play/a010/index.m3u8#EXTINF:-1,LIFE TIME
+http://200.125.170.120:8000/play/a0d0#EXTINF:-1 tvg-id="Lifetime.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="TV",Lifetime
+http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8#EXTINF:-1 group-title="TV", 100 Lifetime V+
+http://45.160.15.130:2909/play/100#EXTINF:-1 tvg-id="ESP | Atreseries" tvg-name="ESP | Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="TV", 84 | Atreseries
+http://138.59.177.34:8000/play/a00y/index.m3u8#EXTINF:-1 tvg-id="ESP | A3series" tvg-name="ESP | A3series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="TV", 96 | Atreseries
+http://45.228.232.204:16000/play/a03e/index.m3u8#EXTINF:-1 tvg-id="ESP | Atreseries" tvg-name="ESP | Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="TV", Atreseries
+http://168.227.22.18:1935/live/mobile-047/playlist.m3u8#EXTINF:-1 tvg-id="USA | HGTV" tvg-name="USA | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="TV", 206 | HGTV
+http://138.59.177.34:8000/play/a00u/index.m3u8#EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="TV", 63 | Investigation Discovery
+http://138.59.177.34:8000/play/a06g/index.m3u8#EXTINF:-1 group-title="TV", Investigation Discovery
+http://167.114.156.136:25461/INFINITV/ZX89NM22/220#EXTINF:-1 group-title="TV",Investigation Discovery
+http://190.149.66.90:4000/play/a04b/index.m3u8#EXTINF:-1 group-title="TV",Investigation Discovery HD
+http://190.149.66.90:4000/play/a055/index.m3u8#EXTINF:-1 group-title="TV",Investigation Discovery HD
+http://45.166.92.22:58001/play/a01s/index.m3u8#EXTINF:-1 group-title="TV", 079 ID HD
+http://45.160.15.130:2909/play/079#EXTINF:-1,UNIVERSAL CRIME HD
+http://200.125.170.120:8000/play/a04r#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/780277389.png" group-title="TV",Universal Crime HD
+http://190.149.66.90:4000/play/a03w/index.m3u8#EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="TV", 319 | Animal Planet
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8#EXTINF:-1 group-title="TV", Animal Planet
+http://167.114.156.136:25461/INFINITV/ZX89NM22/75#EXTINF:-1,ANIMAL PLANET
+http://160.20.165.246:8000/play/a010/index.m3u8#EXTINF:-1 ,Animal Planet
+http://45.5.117.182:8000/play/a0hu/index.m3u8#EXTINF:-1 group-title="TV", 025 Animal Planet HD
+http://45.160.15.130:2909/play/025#EXTINF:-1 tvg-id="Animal Planet.co" tv-logo="https://www.directv.com.co/content/dam/public-sites/channels/1734.png" group-title="TV",Animal Planet HD
+http://190.149.66.90:4000/play/a01j/index.m3u8#EXTINF:-1 tvg-id="Animal Planet.co" tv-logo="https://www.directv.com.co/content/dam/public-sites/channels/1734.png" group-title="TV",Animal Planet HD
+http://45.166.92.22:58001/play/a00m/index.m3u8#EXTINF:-1 ,Animal Planet HD
+http://45.5.117.182:8000/play/a0fj/index.m3u8#EXTINF:-1,Animal Planet HD
+http://200.125.170.120:8000/play/a02g#EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="TV", 314 | Discovery Channel
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8#EXTINF:-1,DISCOVERY CHANNEL
+http://160.20.165.246:8000/play/a011/index.m3u8#EXTINF:-1 group-title="TV",Discovery Channel
+http://190.149.66.90:4000/play/a036/index.m3u8#EXTINF:-1 ,Discovery Channel
+http://45.5.117.182:8000/play/a0ht/index.m3u8#EXTINF:-1,Discovery Channel
+http://200.125.170.120:8000/play/a09s#EXTINF:-1 group-title="TV", 024 Discovery Channel HD
+http://45.160.15.130:2909/play/024#EXTINF:-1 group-title="TV",Discovery Channel HD
+http://190.149.66.90:4000/play/a051/index.m3u8#EXTINF:-1 group-title="TV",Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8#EXTINF:-1 ,Discovery Channel HD
+http://45.5.117.182:8000/play/a0ju/index.m3u8#EXTINF:-1,Discovery Channel HD
+http://200.125.170.120:8000/play/a062#EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="TV", 320 | National Geographic
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8#EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="TV", National Geographic
+http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8#EXTINF:-1 group-title="TV",National Geographic
+http://190.149.66.90:4000/play/a00z/index.m3u8#EXTINF:-1 group-title="TV",National Geographic
+http://45.166.92.22:58001/play/a032/index.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",National Geographic
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8#EXTINF:-1 ,National Geographic
+http://45.5.117.182:8000/play/a0ey/index.m3u8#EXTINF:-1 tvg-shift="-6"  group-title="TV",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8#EXTINF:-1 group-title="TV", 027 Nat Geo HD
+http://45.160.15.130:2909/play/027#EXTINF:-1 group-title="TV",Nat Geo HD
+http://190.149.66.90:4000/play/a04y/index.m3u8#EXTINF:-1,Nat Geo HD
+http://200.125.170.120:8000/play/a05z#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="TV", 321 | History
+http://bantel.iptvperu.tv:1935/transcoderip/History_t4/playlist.m3u8#EXTINF:-1,HISTORY
+http://160.20.165.246:8000/play/a00m/index.m3u8#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="TV",History
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8#EXTINF:-1 group-title="TV",History
+http://190.149.66.90:4000/play/a038/index.m3u8#EXTINF:-1 group-title="TV",History HD
+http://190.149.66.90:4000/play/a01c/index.m3u8#EXTINF:-1 group-title="TV",History HD
+http://45.166.92.22:58001/play/a038/index.m3u8#EXTINF:-1,History HD
+http://200.125.170.120:8000/play/a0dc#EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="TV", 322 | History 2
+http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8#EXTINF:-1 group-title="TV",History 2
+http://190.149.66.90:4000/play/a02c/index.m3u8#EXTINF:-1 tvg-id="History2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="TV",History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8#EXTINF:-1,H2
+http://200.125.170.120:8000/play/a03z#EXTINF:-1 group-title="TV", 033 History 2 HD
+http://45.160.15.130:2909/play/033#EXTINF:-1 group-title="TV",HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="TV", 316 | Discovery Turbo
+http://pe.shortgod.com/volvimos2024/tv11.php?id=80#EXTINF:-1 group-title="TV",Discovery Turbo
+http://190.149.66.90:4000/play/a049/index.m3u8#EXTINF:-1 group-title="TV",Discovery Turbo
+http://45.166.92.22:58001/play/a026/index.m3u8#EXTINF:-1 group-title="TV",Discovery Turbo
+http://167.114.156.136:25461/INFINITV/ZX89NM22/229#EXTINF:-1,Discovery Turbo
+http://200.125.170.120:8000/play/a059#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",Turbo
+http://stream.flynetwifi.com:1935/live/mobile-109/playlist.m3u8#EXTINF:-1 group-title="TV", 207 Discovery Turbo V+
+http://45.160.15.130:2909/play/207#EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="TV", 318 | Discovery Theater
+http://138.59.177.34:8000/play/a05m/index.m3u8#EXTINF:-1 group-title="TV",Discovery Theater HD
+http://45.166.92.22:58001/play/a014/index.m3u8#EXTINF:-1 group-title="TV",DISC THEATHER HD
+http://190.149.66.90:4000/play/a03n/index.m3u8#EXTINF:-1,DISC THEATHER HD
+http://200.125.170.120:8000/play/a04i#EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="TV", 315 | Discovery Science
+http://138.59.177.34:8000/play/a00v/index.m3u8#EXTINF:-1 group-title="TV",Discovery Science
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216#EXTINF:-1,Discovery Science
+http://200.125.170.120:8000/play/a008#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="TV", 317 | Discovery World
+http://138.59.177.34:8000/play/a078/index.m3u8#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/1738.png" group-title="TV",Discovery World HD
+http://190.149.66.90:4000/play/a052/index.m3u8#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.co" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/1738.png" group-title="TV",Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8#EXTINF:-1 ,Discovery World HD
+http://45.5.117.182:8000/play/a0jv/index.m3u8#EXTINF:-1,Discovery World HD
+http://200.125.170.120:8000/play/a063#EXTINF:-1 group-title="TV",ESPN
+http://190.149.66.90:4000/play/a03a/index.m3u8#EXTINF:-1 group-title="TV", 212 ESPN HD
+http://45.160.15.130:2909/play/212#EXTINF:-1 group-title="TV",ESPN HD
+http://190.149.66.90:4000/play/a04u/index.m3u8#EXTINF:-1,ESPN HD
+http://200.125.170.120:8000/play/a05v#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="TV", 222 | ESPN 2
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8#EXTINF:-1 group-title="TV",ESPN 2
+http://190.149.66.90:4000/play/a03b/index.m3u8#EXTINF:-1,ESPN 2 HD
+http://200.125.170.120:8000/play/a05x#EXTINF:-1 group-title="TV",ESPN 3
+http://190.149.66.90:4000/play/a02g/index.m3u8#EXTINF:-1 group-title="TV", 216 ESPN 3 HD
+http://45.160.15.130:2909/play/216#EXTINF:-1,ESPN 3 HD
+http://200.125.170.120:8000/play/a05w#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="TV", 224 | ESPN 4
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN4_t2.stream/playlist.m3u8#EXTINF:-1 group-title="TV", 218 ESPN 4 HD
+http://45.160.15.130:2909/play/218#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png" group-title="TV", 225 | ESPN 5
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN5_t2.stream/playlist.m3u8#EXTINF:-1 ,ESPN 5
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19139/index.m3u8#EXTINF:-1 ,ESPN 5
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19141/index.m3u8#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png" group-title="TV", 226 | ESPN 6
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8#EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="TV", 227 | ESPN 7
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="TV", 242 | Win Sports+
+http://pe.shortgod.com/volvimos2024/tv11.php?id=66#EXTINF:-1 group-title="TV",Tigo Sports
+https://linear-556.frequency.stream/dist/vix/dist/vix/556/hls/master/playlist.m3u8#EXTINF:-1 group-title="TV",Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8#EXTINF:-1 group-title="TV",Tigo Sports HD
+http://190.149.66.90:4000/play/a03j/index.m3u8#EXTINF:-1,Tigo Sports HD
+http://200.125.170.120:8000/play/a04f#EXTINF:-1 group-title="TV",Claro Sports 1
+http://190.149.66.90:4000/play/a04c/index.m3u8#EXTINF:-1 group-title="TV",Claro Sports 1 HD
+http://190.149.66.90:4000/play/a008/index.m3u8#EXTINF:-1 tvg-id="MX | Claro Sports 2" tvg-name="MX | Claro Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="TV", 229 | Claro Sports 2
+http://138.59.177.34:8000/play/a01j/index.m3u8#EXTINF:-1 group-title="TV",Claro Sports 2
+http://190.149.66.90:4000/play/a02f/index.m3u8#EXTINF:-1 group-title="TV",Claro Sports 2 HD
+http://190.149.66.90:4000/play/a009/index.m3u8#EXTINF:-1 ,FOX SPORTS
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19142/index.m3u8#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="TV",Fox Sports
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8#EXTINF:-1 ,Fox Sports
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19138/index.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",Fox Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8#EXTINF:-1 group-title="TV", 210 Fox Sports 2 HD
+http://45.160.15.130:2909/play/210#EXTINF:-1 group-title="TV",Fox Sports 3
+http://190.149.66.90:4000/play/a011/index.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",Fox Sports 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8#EXTINF:-1 group-title="TV", 211 Fox Sports 3 HD
+http://45.160.15.130:2909/play/211#EXTINF:-1 group-title="TV",FOX SPORTS 3 HD
+http://190.149.66.90:4000/play/a04x/index.m3u8#EXTINF:-1 group-title="TV",FOX SPORTS 3 HD
+http://45.166.92.22:58001/play/a01j/index.m3u8#EXTINF:-1,FOX SPORTS 3 HD
+http://200.125.170.120:8000/play/a05y#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="TV", 230 | TNT Sports
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8#EXTINF:-1 group-title="TV", 233 TNT SPORTS HD
+http://45.160.15.130:2909/play/233#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/320px-TNT_Sports_Logo.svg.png" group-title="TV",TNT Sports HD
+http://stream.flynetwifi.com:1935/live/mobile-143/playlist.m3u8#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="TV",Bein Sports XTRA
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="TV",Bein Sports XTRA
+https://linear-256.frequency.stream/dist/vix/dist/vix/256/hls/master/playlist.m3u8#EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="TV", 231 | TyC Sports
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="TV",TyC Sports
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8#EXTINF:-1 group-title="TV",WWE network
+http://167.114.156.136:25461/INFINITV/ZX89NM22/209#EXTINF:-1 group-title="TV",Latin America Sport
+http://190.149.66.90:4000/play/a02i/index.m3u8#EXTINF:-1,Latin America Sport
+http://200.125.170.120:8000/play/a046#EXTINF:-1 tvg-id="USA | Golf Channel" tvg-name="USA | Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/200px-Golf_Channel_Logo_2018.png" group-title="TV", 219 | Golf Channel
+http://138.59.177.34:8000/play/a03b/index.m3u8#EXTINF:-1 group-title="TV", Golf Channel HD
+http://190.149.66.90:4000/play/a01u/index.m3u8#EXTINF:-1,Golf Channel HD
+http://200.125.170.120:8000/play/a038#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="TV",DW Español HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="TV", 192 | CNN en Español
+http://138.59.177.34:8000/play/a02n/index.m3u8#EXTINF:-1 tvg-id="USA | CNN en Español" tvg-name="USA | CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="TV", CNN en Español
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="TV",CNN en Español
+http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8#EXTINF:-1 group-title="TV",EURONEWS
+https://linear-255.frequency.stream/dist/vix/dist/vix/255/hls/master/playlist.m3u8#EXTINF:-1 group-title="TV",France24
+http://190.149.66.90:4000/play/a019/index.m3u8#EXTINF:-1 group-title="TV",France24
+http://45.166.92.22:58001/play/a057/index.m3u8#EXTINF:-1,France24
+http://200.125.170.120:8000/play/a0d9#EXTINF:-1 group-title="TV",BBC World
+http://190.149.66.90:4000/play/a018/index.m3u8#EXTINF:-1,NTN 24
+http://160.20.165.246:8000/play/a00y/index.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",CNBC
+http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8#EXTINF:-1,CNBC
+http://200.125.170.120:8000/play/a05o#EXTINF:-1 group-title="TV",FOX NEWS HD
+http://45.166.92.22:58001/play/a04p/index.m3u8#EXTINF:-1 tvg-id="VE | Telesur" tvg-name="VE | Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="TV", 179 | Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="TV",Telesur
+http://stream.flynetwifi.com:1935/live/mobile-116/playlist.m3u8#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="TV",Russia Today
+http://stream.flynetwifi.com:1935/live/mobile-009/playlist.m3u8#EXTINF:-1,RT
+http://45.191.196.10:8000/play/a015#EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="TV", 264 | MTV
+http://138.59.177.34:8000/play/a02u/index.m3u8#EXTINF:-1 tvg-id="USA | MTV" tvg-name="USA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="TV", MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8#EXTINF:-1 group-title="TV",MTV
+http://190.149.66.90:4000/play/a04f/index.m3u8#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",MTV
+http://stream.flynetwifi.com:1935/live/mobile-063/playlist.m3u8#EXTINF:-1 group-title="TV", 132 MTV HD
+http://45.160.15.130:2909/play/132#EXTINF:-1 group-title="TV",MTV HD
+http://190.149.66.90:4000/play/a01e/index.m3u8#EXTINF:-1,MTV HD
+http://200.125.170.120:8000/play/a0de#EXTINF:-1 group-title="TV",MTV SIM HD
+http://190.149.66.90:4000/play/a03r/index.m3u8#EXTINF:-1 tvg-id="USA | HTV" tvg-name="USA | HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="TV", 269 | HTV
+http://138.59.177.34:8000/play/a04c/index.m3u8#EXTINF:-1 group-title="TV",HTV
+http://45.166.92.22:58001/play/a051/index.m3u8#EXTINF:-1,HTV
+http://200.125.170.120:8000/play/a049#EXTINF:-1 tvg-id="USA | MTV Hits" tvg-name="USA | MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png" group-title="TV", 267 | MTV Hits
+http://138.59.177.34:8000/play/a02i/index.m3u8#EXTINF:-1 group-title="TV",MTV Hits
+http://190.149.66.90:4000/play/a012/index.m3u8#EXTINF:-1 group-title="TV", Telehit
+http://167.114.156.136:25461/INFINITV/ZX89NM22/95#EXTINF:-1 tvg-id="TeleHit.mx" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="TV",Telehit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8#EXTINF:-1 group-title="TV",Claro Musica
+http://190.149.66.90:4000/play/a02j/index.m3u8#EXTINF:-1 tvg-id="USA | MTV 00s" tvg-name="USA | MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="TV", 266 | MTV 00s
+http://138.59.177.34:8000/play/a05r/index.m3u8#EXTINF:-1 group-title="TV",MTV 00s
+http://190.149.66.90:4000/play/a02k/index.m3u8#EXTINF:-1 group-title="TV",MTV 00s HD
+http://190.149.66.90:4000/play/a03s/index.m3u8#EXTINF:-1 tvg-id="USA | MTV 80s" tvg-name="USA | MTV 80s" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="TV", 265 | MTV 80s
+http://138.59.177.34:8000/play/a02j/index.m3u8#EXTINF:-1 group-title="TV",MTV 80s
+http://190.149.66.90:4000/play/a013/index.m3u8#EXTINF:-1 tvg-id="CR | Enlace" tvg-name="CR | Enlace" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/320px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="TV", 358 | Enlace
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8#EXTINF:-1,ENLACE
+http://160.20.165.246:8000/play/a00u/index.m3u8#EXTINF:-1 group-title="TV", 042 Enlace V+
+http://45.160.15.130:2909/play/042#EXTINF:-1 tvg-id="AR | Orbe 21" tvg-name="AR | Orbe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/245px-Canal_Orbe_21_logo.svg.png" group-title="TV", 330 | Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8#EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="TV", 332 | EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8#EXTINF:-1 tvg-id="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-name="USA | EWTN (Red de Televisión de la Palabra Eterna)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/New_EWTN_logo.jpg/200px-New_EWTN_logo.jpg" group-title="TV", EWTN
+https://1654596987.rsc.cdn77.org/1654596987/tracks-v2a1/mono.m3u8#EXTINF:-1 group-title="TV",EWTN
+http://190.149.66.90:4000/play/a01b/index.m3u8#EXTINF:-1 group-title="TV",EWTN
+http://45.166.92.22:58001/play/a050/index.m3u8#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="TV",EWTN
+http://stream.flynetwifi.com:1935/live/mobile-012/playlist.m3u8#EXTINF:-1,EWTN
+http://160.20.165.246:8000/play/a00v/index.m3u8#EXTINF:-1,EWTN
+http://200.125.170.120:8000/play/a0db
