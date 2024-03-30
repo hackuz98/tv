@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/colombiapremium.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/colombiapremium.xml.gz"
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/logo_canal_rcn_color_cmyk-01_1.jpg" group-title="Nacional",RCN
 http://190.217.20.100:10800/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/logo_canal_rcn_color_cmyk-01_1.jpg" group-title="Nacional",RCN
