@@ -942,6 +942,8 @@ http://181.188.216.5:18000/play/a0op/index.m3u8
 #EXTINF:-1 group-title="-",Warner Channel HD
 http://181.188.216.5:18000/play/a006/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports
+http://190.2.213.254:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",Win Sports
 http://186.167.114.171:7136/play/a0t1/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports
 http://38.41.8.1:8000/play/a0un
@@ -953,6 +955,8 @@ http://186.167.114.171:7136/play/a0l4/index.m3u8
 http://38.41.8.1:8000/play/a0tp
 #EXTINF:-1 group-title="-",Win Sports+
 http://186.194.160.110:9002/play/a053/index.m3u8
+#EXTINF:-1 group-title="-",Win Sports+ HD
+http://190.2.213.254:8000/play/a0cb/index.m3u8
 #EXTINF:-1 group-title="-",Win Sports+ HD
 http://186.194.160.110:9002/play/a0js/index.m3u8
 #EXTINF:-1 group-title="-",ZooMoo
