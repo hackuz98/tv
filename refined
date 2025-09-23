@@ -103,11 +103,11 @@ http://181.119.85.222:8000/play/a034/index.m3u8
 http://190.60.53.205:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777666_C276C345F6941321.png" ,Teleislas FHD
 http://190.14.238.115:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="NUESTRA.TELE.co" tvg-logo="" ,Nuestra Tele SD
+#EXTINF:-1 tvg-id="NUESTRA.TELE.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,Nuestra Tele SD
 http://181.78.71.4:9003/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="NUESTRA.TELE.co" tvg-logo="" ,Nuestra Tele SD
+#EXTINF:-1 tvg-id="NUESTRA.TELE.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,Nuestra Tele SD
 http://45.191.232.63:9002/play/a0cf/index.m3u8
-#EXTINF:-1 tvg-id="NUESTRA.TELE.co" tvg-logo="" ,Nuestra Tele SD
+#EXTINF:-1 tvg-id="NUESTRA.TELE.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,Nuestra Tele SD
 http://190.60.40.165:1010/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="RCN.Novelas.co" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/06/12060356_830827B833FF4FD1.png" ,RCN Novelas SD
 http://186.148.181.144:8000/play/a05y/index.m3u8
@@ -135,11 +135,11 @@ http://181.78.7.90:12500/play/a0ds/index.m3u8
 http://191.102.90.228:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="RCN.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,RCN FHD
 http://181.78.71.4:9003/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="" ,RCN 2 FHD
+#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png" ,RCN 2 FHD
 http://181.78.7.90:12500/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="" ,RCN 2 FHD
+#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png" ,RCN 2 FHD
 http://186.194.160.110:9002/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="" ,RCN 2 FHD
+#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png" ,RCN 2 FHD
 http://181.78.78.105:18065/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol SD
 http://186.194.160.110:9002/play/a068/index.m3u8
@@ -159,11 +159,11 @@ http://181.78.71.4:9003/play/a01h/index.m3u8
 http://190.60.49.245:4000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol FHD
 http://181.78.78.105:18065/play/a07y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Caracol 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CaracolHD2-2023.png" ,Caracol 2 FHD
 http://190.60.49.245:4000/play/a08w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Caracol 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CaracolHD2-2023.png" ,Caracol 2 FHD
 http://181.78.78.105:18065/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Caracol 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CaracolHD2-2023.png" ,Caracol 2 FHD
 http://191.97.15.194:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Caracol 2 UNK
 http://190.60.41.167:8000/play/a01d/index.m3u8
@@ -359,11 +359,11 @@ http://190.60.49.245:4000/play/a0io/index.m3u8
 http://181.78.71.4:9003/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.H&amp;H.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" ,Discovery Home & Health FHD
 http://190.60.49.245:4000/play/a0a2/index.m3u8
-#EXTINF:-1 tvg-id="TLC.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.pn" ,TLC SD
+#EXTINF:-1 tvg-id="TLC.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png" ,TLC SD
 http://181.78.71.4:9003/play/a060/index.m3u8
-#EXTINF:-1 tvg-id="TLC.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.pn" ,TLC SD
+#EXTINF:-1 tvg-id="TLC.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png" ,TLC SD
 http://181.78.71.71:18000/play/a074/index.m3u8
-#EXTINF:-1 tvg-id="TLC.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.pn" ,TLC SD
+#EXTINF:-1 tvg-id="TLC.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png" ,TLC SD
 http://190.60.49.245:4000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-id="TLC.co" tvg-logo="" ,TLC UNK
 http://181.78.8.199:8000/play/a0ch/index.m3u8
@@ -395,11 +395,11 @@ http://190.60.49.245:4000/play/a0jz/index.m3u8
 http://181.78.71.4:9003/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551512_B3F3A42DB87F57A4.png" ,Food Network SD
 http://45.191.232.57:9002/play/a0mm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
 http://190.60.40.165:1010/play/a0ag/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
 http://186.148.175.138:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
 http://45.191.232.60:9002/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/wobi-logo-png_seeklogo-469596.png" ,WOBI SD
 http://181.78.71.4:9003/play/a04d/index.m3u8
@@ -451,21 +451,21 @@ http://181.78.71.4:9003/play/a06r/index.m3u8
 http://181.78.7.90:12500/play/a0m2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Las estrellas FHD
 http://190.60.49.245:4000/play/a0nj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas SD
 http://181.78.71.4:9003/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas SD
 http://186.148.181.148:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas SD
 http://181.78.71.4:9003/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas HD
 http://179.1.14.75:14007/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas HD
 http://45.233.168.222:8000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas FHD
 http://186.194.160.110:9002/play/a0gs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas FHD
 http://190.14.238.115:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" ,Tlnovelas FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas FHD
 http://190.60.53.205:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="PASIONES.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" ,Pasiones SD
 http://186.148.181.158:8000/play/a031/index.m3u8
@@ -1227,19 +1227,19 @@ http://181.119.86.68:8000/play/b015/index.m3u8
 http://190.60.41.167:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-logo="" ,Cable Noticias UNK
 http://190.60.41.190:45000/play/a09g/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.pn" ,NTN24 SD
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 SD
 http://190.60.49.245:4000/play/a0mx/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.pn" ,NTN24 SD
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 SD
 http://181.78.71.4:9003/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.pn" ,NTN24 SD
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 SD
 http://181.78.71.4:9003/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.pn" ,NTN24 HD
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 HD
 http://190.14.238.115:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.pn" ,NTN24 FHD
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 FHD
 http://177.93.52.115:8000/play/a0b7/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.pn" ,NTN24 FHD
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 FHD
 http://190.60.48.166:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.pn" ,NTN24 FHD
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 FHD
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="BBC.World.News.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/84/15847199_AF8754416D1FD691.png" ,BBC World SD
 http://45.191.232.60:9002/play/a0h1/index.m3u8
