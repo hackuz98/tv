@@ -395,11 +395,11 @@ http://190.60.49.245:4000/play/a0jz/index.m3u8
 http://181.78.71.4:9003/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551512_B3F3A42DB87F57A4.png" ,Food Network SD
 http://45.191.232.57:9002/play/a0mm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0b/Hn_discovery-world-hd_m.png/revision/latest?cb=20200526235551&path-prefix=es" ,Discovery World FHD
 http://190.60.40.165:1010/play/a0ag/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0b/Hn_discovery-world-hd_m.png/revision/latest?cb=20200526235551&path-prefix=es" ,Discovery World FHD
 http://186.148.175.138:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" ,Discovery World FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0b/Hn_discovery-world-hd_m.png/revision/latest?cb=20200526235551&path-prefix=es" ,Discovery World FHD
 http://45.191.232.60:9002/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/46/1/wobi-logo-png_seeklogo-469596.png" ,WOBI SD
 http://181.78.71.4:9003/play/a04d/index.m3u8
@@ -583,17 +583,17 @@ http://186.148.181.159:8000/play/a02j/index.m3u8
 http://186.148.181.148:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Hogar TV UNK
 http://190.60.41.167:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" ,Distrito Comedia SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" ,Distrito Comedia SD
 http://181.78.71.4:9003/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" ,Distrito Comedia SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" ,Distrito Comedia SD
 http://190.60.49.245:4000/play/a0lp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" ,Distrito Comedia SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" ,Distrito Comedia SD
 http://181.78.7.90:12500/play/a0gc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" ,Distrito Comedia FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" ,Distrito Comedia FHD
 http://186.194.160.110:9002/play/a0go/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" ,Distrito Comedia FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" ,Distrito Comedia FHD
 http://181.119.85.222:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" ,Distrito Comedia FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" ,Distrito Comedia FHD
 http://190.60.53.205:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Distrito Comedia UNK
 http://200.69.92.195:8000/play/a01f/index.m3u8
@@ -673,15 +673,15 @@ http://181.78.71.4:9003/play/a074/index.m3u8
 http://186.148.181.159:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="History.Channel.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png" ,History FHD
 http://186.148.181.157:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/2560px-Discovery_Science_-_Logo_2012.svg.png" ,Discovery Science SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science SD
 http://181.78.71.4:9003/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/2560px-Discovery_Science_-_Logo_2012.svg.png" ,Discovery Science SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science SD
 http://191.102.90.224:8000/play/a0dr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/2560px-Discovery_Science_-_Logo_2012.svg.png" ,Discovery Science SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science SD
 http://152.231.30.109:8000/play/a0dr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/2560px-Discovery_Science_-_Logo_2012.svg.png" ,Discovery Science HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science HD
 http://186.31.37.99:8000/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/2560px-Discovery_Science_-_Logo_2012.svg.png" ,Discovery Science FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science FHD
 http://181.78.85.59:2500/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="History.2.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png" ,H2 SD
 http://181.78.71.4:9003/play/a01x/index.m3u8
@@ -787,17 +787,17 @@ http://190.60.49.245:4000/play/a0e7/index.m3u8
 http://191.102.90.228:8000/play/a0ei/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" ,Clover SD
 http://191.102.90.226:8000/play/a0ei/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM SD
 http://190.60.49.245:4000/play/a0lm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM SD
 http://181.78.71.4:9003/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM SD
 http://181.78.71.4:9003/play/a051/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM FHD
 http://181.78.71.49:12000/play/a0uk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM FHD
 http://181.78.71.49:1011/play/a0uk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,TCM FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM FHD
 http://181.78.71.49:1025/play/a0uk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/860/591/png-clipart-multipremier-52mx-television-multicinema-mvs-comunicaciones-cine-miscellaneous-television.png" ,Multipremier SD
 http://177.93.52.30:8001/play/a03b/index.m3u8
@@ -869,21 +869,21 @@ http://190.60.49.245:4000/play/a0jf/index.m3u8
 http://179.63.189.149:5555/play/a0gj/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png" ,Comedy Central FHD
 http://181.78.71.4:9003/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/usa-network-logo-png_seeklogo-433408.png" ,USA SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA SD
 http://181.78.71.4:9003/play/a04y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/usa-network-logo-png_seeklogo-433408.png" ,USA SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA SD
 http://181.78.71.71:18000/play/a099/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/usa-network-logo-png_seeklogo-433408.png" ,USA SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA SD
 http://190.60.49.245:4000/play/a0lj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/usa-network-logo-png_seeklogo-433408.png" ,USA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA HD
 http://179.1.14.75:14007/play/a04o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/usa-network-logo-png_seeklogo-433408.png" ,USA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA HD
 http://179.1.14.75:14007/play/0211/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/usa-network-logo-png_seeklogo-433408.png" ,USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA FHD
 http://190.14.238.115:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/usa-network-logo-png_seeklogo-433408.png" ,USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA FHD
 http://138.117.110.151:8000/play/a0dk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/43/2/usa-network-logo-png_seeklogo-433408.png" ,USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA FHD
 http://186.194.160.110:9002/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="A&amp;E.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" ,A&E SD
 http://181.78.71.4:9003/play/a03c/index.m3u8
@@ -1101,7 +1101,7 @@ http://179.63.191.36:8090/play/a02w/index.m3u8
 http://181.119.86.68:8000/play/b071/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" ,FMH REWIND HD
 http://181.78.21.174:8015/play/a06c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png" ,Golden Premier FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" ,Golden Premier FHD
 http://190.60.46.141:9876/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2-v2.png" ,Golden Premier 2 FHD
 http://190.60.46.141:9876/play/a0u2/index.m3u8
@@ -1119,23 +1119,23 @@ http://181.78.71.4:9003/play/a06d/index.m3u8
 http://181.78.71.4:9003/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="Universal.TV.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" ,Universal TV FHD
 http://181.78.7.90:12500/play/a0oc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" ,Universal Premiere SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere SD
 http://181.78.71.49:12000/play/a0je/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" ,Universal Premiere SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere SD
 http://181.78.71.49:1025/play/a0je/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" ,Universal Premiere SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere SD
 http://181.78.71.49:1011/play/a0je/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" ,Universal Premiere FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere FHD
 http://190.60.46.141:9876/play/weqtyii/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" ,Universal Premiere FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere FHD
 http://177.93.52.30:8001/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" ,Universal Cinema SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8xUR-ABNOcsrJwOt3qqFRjHjzTkqQnHiiA&s" ,Universal Cinema SD
 http://181.78.71.49:12000/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" ,Universal Cinema SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8xUR-ABNOcsrJwOt3qqFRjHjzTkqQnHiiA&s" ,Universal Cinema SD
 http://209.14.117.146:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" ,Universal Cinema SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8xUR-ABNOcsrJwOt3qqFRjHjzTkqQnHiiA&s" ,Universal Cinema SD
 http://181.78.71.49:1011/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" ,Universal Cinema FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8xUR-ABNOcsrJwOt3qqFRjHjzTkqQnHiiA&s" ,Universal Cinema FHD
 http://190.60.46.141:9876/play/tyqadfaqw3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWKR2OQscg5fPC3wW78MPy-de-h9B5OFDTg&s" ,Universal Comedy SD
 http://181.78.71.49:1011/play/a0jg/index.m3u8
@@ -1341,37 +1341,37 @@ http://181.78.71.4:9003/play/a01k/index.m3u8
 http://186.194.160.110:9002/play/a0js/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502118_A3D837B2E9C01F60.png" ,WIN Sports + FHD
 http://186.148.181.150:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports SD
 http://209.14.117.146:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports SD
 http://190.90.154.77:8091/play/a11h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports SD
 http://186.194.160.110:9002/play/a0hh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports FHD
 http://190.60.46.141:9876/play/a0eb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports FHD
 http://181.233.154.50:1010/play/a08h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports Premium SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium SD
 http://45.65.138.58:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports Premium SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium SD
 http://190.2.213.220:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports Premium SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium SD
 http://181.78.79.63:1010/play/a0j8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports Premium FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium FHD
 http://181.78.7.90:12500/play/a0jb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports Premium FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium FHD
 http://190.60.49.245:4000/play/a0jo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TNT Sports Premium FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium FHD
 http://190.60.49.245:4000/play/a0ng/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Directv Sports SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" ,Directv Sports SD
 http://190.242.61.124:9999/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Directv Sports SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" ,Directv Sports SD
 http://190.242.61.123:9999/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Directv Sports FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" ,Directv Sports FHD
 http://177.93.60.150:28301/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Directv Sports FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" ,Directv Sports FHD
 http://177.93.60.146:28301/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Directv Sports FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" ,Directv Sports FHD
 http://177.93.60.147:28301/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Claro Sports SD
 http://177.93.60.146:28301/play/a03s/index.m3u8
