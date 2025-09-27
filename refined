@@ -383,13 +383,13 @@ http://177.93.52.30:8001/play/a01t/index.m3u8
 http://186.148.178.214:8090/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="History.2.co" tvg-name="H2 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png" ,H2 FHD
 http://186.148.175.138:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" tvg-shift="+2",TNT SD
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" tvg-shift="-2",TNT SD
 http://209.14.119.206:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" tvg-shift="+2",TNT SD
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" tvg-shift="-2",TNT SD
 http://190.2.213.5:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" ,TNT FHD
 http://177.93.52.30:8001/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" tvg-shift="+2",TNT FHD
+#EXTINF:-1 tvg-id="TNT.co" tvg-name="TNT FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" tvg-shift="-2",TNT FHD
 http://186.148.178.214:8090/play/a07f/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536153_75E4A936092C1689.png" ,Sony Movies SD
 http://190.2.213.254:8000/play/a0f3/index.m3u8
