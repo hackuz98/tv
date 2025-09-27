@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz"
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital SD
 http://190.60.49.245:4000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital SD
