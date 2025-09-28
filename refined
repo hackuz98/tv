@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital SD
 http://190.60.49.245:4000/play/a0ha/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital SD
@@ -497,11 +497,11 @@ http://45.173.12.70:8000/play/a07x/index.m3u8
 http://177.93.52.30:8001/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="Comedy Central FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png" group-title="-" ,Comedy Central FHD
 http://186.148.178.214:8090/play/a03y/index.m3u8
-#EXTINF:-1 tvg-name="USA SD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,USA SD
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,USA SD
 http://186.148.178.214:8090/play/a050/index.m3u8
-#EXTINF:-1 tvg-name="USA SD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA SD
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA SD
 http://191.102.90.226:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-name="USA FHD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,USA FHD
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA FHD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,USA FHD
 http://24.152.58.11:2968/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="A&amp;E.co" tvg-name="A&E SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" group-title="-" ,A&E SD
 http://177.93.41.245:9002/play/a0dt/index.m3u8
