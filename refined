@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
-#EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital 
+#EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital SD
 http://190.2.213.254:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital 
+#EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital SD
 http://186.194.160.110:9002/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital FHD
 http://181.225.75.153:9086/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" ,City TV 
+#EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" ,City TV SD
 http://190.2.213.254:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" ,City TV 
+#EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" ,City TV SD
 http://186.194.160.110:9002/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" ,City TV HD
 http://181.225.75.153:9086/play/a001/index.m3u8
@@ -15,69 +15,69 @@ http://181.225.75.153:9086/play/a001/index.m3u8
 http://186.194.160.110:9002/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png" group-title="-" ,City TV FHD
 http://190.60.34.180:8000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737703_74477722C5CA4FB8.png" ,Teleantioquia 
+#EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737703_74477722C5CA4FB8.png" ,Teleantioquia SD
 http://190.2.213.254:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737703_74477722C5CA4FB8.png" ,Teleantioquia 
+#EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737703_74477722C5CA4FB8.png" ,Teleantioquia SD
 http://186.194.160.110:9002/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737703_74477722C5CA4FB8.png" ,Teleantioquia HD
 http://45.233.168.222:8000/play/a0h8/index.m3u8
-#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe SD" tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Logo-telecaribe.png" ,Telecaribe 
+#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe SD" tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Logo-telecaribe.png" ,Telecaribe SD
 http://190.2.213.254:8000/play/a028/index.m3u8
-#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe SD" tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Logo-telecaribe.png" ,Telecaribe 
+#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe SD" tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Logo-telecaribe.png" ,Telecaribe SD
 http://186.194.160.110:9002/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe FHD" tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Logo-telecaribe.png" ,Telecaribe FHD
 http://209.14.115.253:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe FHD" tvg-logo="https://telecaribe.co/wp-content/uploads/2024/04/Logo-telecaribe.png" ,Telecaribe FHD
 http://190.242.61.123:9999/play/a0kj/index.m3u8
-#EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777672_498DFB24EDD741CF.png" ,Telepacifico 
+#EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777672_498DFB24EDD741CF.png" ,Telepacifico SD
 http://190.2.213.254:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777672_498DFB24EDD741CF.png" ,Telepacifico 
+#EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777672_498DFB24EDD741CF.png" ,Telepacifico SD
 http://186.194.160.110:9002/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777672_498DFB24EDD741CF.png" ,Telepacifico FHD
 http://209.14.115.253:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766257_49048E2F6B098025.png" ,Canal TRO 
+#EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766257_49048E2F6B098025.png" ,Canal TRO SD
 http://186.194.160.110:9002/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766257_49048E2F6B098025.png" ,Canal TRO 
+#EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766257_49048E2F6B098025.png" ,Canal TRO SD
 http://190.2.213.254:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766257_49048E2F6B098025.png" ,Canal TRO HD
 http://209.14.115.253:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766257_49048E2F6B098025.png" ,Canal TRO FHD
 http://190.2.213.5:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766259_EF1557DB7D3B4F8E.png" ,Canal Trece 
+#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766259_EF1557DB7D3B4F8E.png" ,Canal Trece SD
 http://186.194.160.110:9002/play/a065/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766259_EF1557DB7D3B4F8E.png" ,Canal Trece 
+#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766259_EF1557DB7D3B4F8E.png" ,Canal Trece SD
 http://190.2.213.220:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766259_EF1557DB7D3B4F8E.png" ,Canal Trece FHD
 http://190.2.213.5:8000/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766259_EF1557DB7D3B4F8E.png" ,Canal Trece FHD
 http://45.173.12.70:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-name="Telecafe SD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" ,Telecafe 
+#EXTINF:-1 tvg-name="Telecafe SD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" ,Telecafe SD
 http://190.2.213.254:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-name="Telecafe SD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" ,Telecafe 
+#EXTINF:-1 tvg-name="Telecafe SD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" ,Telecafe SD
 http://186.194.160.110:9002/play/a06x/index.m3u8
 #EXTINF:-1 tvg-name="Telecafe FHD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" ,Telecafe FHD
 http://209.14.115.253:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777666_C276C345F6941321.png" ,Teleislas 
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777666_C276C345F6941321.png" ,Teleislas SD
 http://186.194.160.110:9002/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777666_C276C345F6941321.png" ,Teleislas 
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777666_C276C345F6941321.png" ,Teleislas SD
 http://190.2.213.5:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777666_C276C345F6941321.png" ,Teleislas FHD
 http://209.14.115.253:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,Nuestra Tele 
+#EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,Nuestra Tele SD
 http://186.194.160.110:9002/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" group-title="-" ,Nuestra Tele 
+#EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" group-title="-" ,Nuestra Tele SD
 http://186.194.160.110:9002/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,Nuestra Tele FHD
 http://177.93.38.108:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/06/12060356_830827B833FF4FD1.png" ,RCN Novelas 
+#EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/06/12060356_830827B833FF4FD1.png" ,RCN Novelas SD
 http://190.2.213.254:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/06/12060356_830827B833FF4FD1.png" ,RCN Novelas 
-http://209.14.119.206:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/06/12060356_830827B833FF4FD1.png" ,RCN Novelas SD
+http://148.222.228.3:9000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/06/12060356_830827B833FF4FD1.png" group-title="-" ,RCN Novelas FHD
 http://190.60.34.180:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,RCN 
+#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,RCN SD
 http://190.2.213.254:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,RCN 
+#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,RCN SD
 http://186.194.160.110:9002/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png" ,RCN HD
 http://186.148.181.148:8000/play/a04v/index.m3u8
@@ -91,9 +91,9 @@ http://190.2.213.254:8000/play/a08n/index.m3u8
 http://190.2.213.254:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-name="RCN 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png" ,RCN 2 FHD
 http://186.194.160.110:9002/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol 
+#EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol SD
 http://190.2.213.5:8000/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol 
+#EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol SD
 http://186.194.160.110:9002/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png" ,Caracol HD
 http://186.148.181.148:8000/play/a04u/index.m3u8
@@ -107,201 +107,201 @@ http://190.2.213.254:8000/play/a08o/index.m3u8
 http://186.194.160.110:9002/play/a010/index.m3u8
 #EXTINF:-1 tvg-name="Caracol 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/200?cb=20210218135243&path-prefix=es" ,Caracol 2 FHD
 http://190.242.61.123:9999/play/a0ko/index.m3u8
-#EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png" ,Canal Uno 
+#EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png" ,Canal Uno SD
 http://190.2.213.254:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png" ,Canal Uno 
-http://186.194.160.110:9002/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png" ,Canal Uno SD
+http://148.222.228.3:9000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png" ,Canal Uno FHD
 http://190.242.61.123:9999/play/a0ki/index.m3u8
 #EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png" ,Canal Uno FHD
 http://190.242.61.122:9999/play/a0ki/index.m3u8
-#EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png" ,Senal Colombia 
+#EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png" ,Senal Colombia SD
 http://190.2.213.254:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png" ,Senal Colombia 
+#EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png" ,Senal Colombia SD
 http://186.194.160.110:9002/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png" ,Senal Colombia FHD
 http://190.242.61.123:9999/play/a0kg/index.m3u8
 #EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png" ,Senal Colombia FHD
 http://190.242.61.122:9999/play/a0kg/index.m3u8
-#EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735845_B030513D3A93A004.png" ,Canal Institucional 
+#EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735845_B030513D3A93A004.png" ,Canal Institucional SD
 http://190.2.213.254:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735845_B030513D3A93A004.png" ,Canal Institucional 
+#EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735845_B030513D3A93A004.png" ,Canal Institucional SD
 http://186.194.160.110:9002/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735845_B030513D3A93A004.png" ,Canal Institucional FHD
 http://190.242.61.123:9999/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735845_B030513D3A93A004.png" ,Canal Institucional FHD
 http://190.242.61.122:9999/play/a0kh/index.m3u8
-#EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-name="Canal Congreso SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/87/6872963_B9A89B733937ACFE.png" ,Canal Congreso 
+#EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-name="Canal Congreso SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/87/6872963_B9A89B733937ACFE.png" ,Canal Congreso SD
 http://190.2.213.254:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-name="Canal Congreso SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/87/6872963_B9A89B733937ACFE.png" ,Canal Congreso 
+#EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-name="Canal Congreso SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/87/6872963_B9A89B733937ACFE.png" ,Canal Congreso SD
 http://186.194.160.110:9002/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Zoom.co" tvg-name="Zoom SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/18/12181188_7C0BFCC9CCEB3186.png" ,Zoom 
+#EXTINF:-1 tvg-id="Canal.Zoom.co" tvg-name="Zoom SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/18/12181188_7C0BFCC9CCEB3186.png" ,Zoom SD
 http://186.194.160.110:9002/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Zoom.co" tvg-name="Zoom SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/18/12181188_7C0BFCC9CCEB3186.png" ,Zoom 
+#EXTINF:-1 tvg-id="Canal.Zoom.co" tvg-name="Zoom SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/18/12181188_7C0BFCC9CCEB3186.png" ,Zoom SD
 http://190.2.213.5:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png" ,Discovery Kids 
+#EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png" ,Discovery Kids SD
 http://190.2.213.5:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png" ,Discovery Kids 
+#EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png" ,Discovery Kids SD
 http://190.60.41.107:8008/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png" ,Discovery Kids FHD
 http://190.2.213.254:8000/play/a0f1/index.m3u8
 #EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png" ,Discovery Kids FHD
-http://186.194.160.110:9002/play/a0m4/index.m3u8
-#EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" ,Disney 
+http://148.222.228.3:9000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" ,Disney SD
 http://190.2.213.254:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" ,Disney 
+#EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" ,Disney SD
 http://190.2.213.5:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" ,Disney FHD
-http://186.194.160.110:9002/play/a0jd/index.m3u8
+http://148.222.228.3:9000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png" ,Disney FHD
-http://190.2.213.5:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png" ,Disney Jr 
+http://186.194.160.110:9002/play/a0jd/index.m3u8
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png" ,Disney Jr SD
 http://186.194.160.110:9002/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png" ,Disney Jr 
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png" ,Disney Jr SD
 http://190.2.213.5:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png" group-title="-" ,Disney Jr FHD
 http://24.152.58.11:2968/play/a09n/index.m3u8
-#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png" ,Nick 
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png" ,Nick SD
 http://190.2.213.5:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png" ,Nick 
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png" ,Nick SD
 http://190.60.41.107:8008/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png" ,Nick FHD
-http://186.194.160.110:9002/play/a0be/index.m3u8
+http://148.222.228.3:9000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png" ,Nick FHD
-http://190.2.213.5:8000/play/a0be/index.m3u8
-#EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523299_3D2D15D8014926D6.png" ,Nick Jr 
+http://186.194.160.110:9002/play/a0be/index.m3u8
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523299_3D2D15D8014926D6.png" ,Nick Jr SD
 http://190.2.213.254:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523299_3D2D15D8014926D6.png" ,Nick Jr 
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523299_3D2D15D8014926D6.png" ,Nick Jr SD
 http://186.194.160.110:9002/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523299_3D2D15D8014926D6.png" group-title="-" ,Nick Jr FHD
 http://190.60.34.180:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" ,Cartoon Network 
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" ,Cartoon Network SD
+http://148.222.228.3:9000/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" ,Cartoon Network SD
 http://190.2.213.5:8000/play/a0ci/index.m3u8
-#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" ,Cartoon Network 
-http://190.60.41.107:8008/play/a0pj/index.m3u8
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" group-title="-" ,Cartoon Network FHD
 http://190.2.213.254:8000/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" group-title="-" ,Cartoon Network FHD
 http://186.194.160.110:9002/play/a0ma/index.m3u8
-#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito SD" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/10/11/10113697_F122B11142813549.png" group-title="-" ,Cartoonito 
+#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito SD" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/10/11/10113697_F122B11142813549.png" group-title="-" ,Cartoonito SD
 http://186.194.160.110:9002/play/a0md/index.m3u8
-#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito SD" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/10/11/10113697_F122B11142813549.png" ,Cartoonito 
+#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito SD" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/10/11/10113697_F122B11142813549.png" ,Cartoonito SD
 http://190.60.41.107:8008/play/a0mj/index.m3u8
 #EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea10/IMAGES/00/10/11/10113697_F122B11142813549.png" ,Cartoonito FHD
 http://190.60.34.180:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast SD" tvg-logo="https://static.wikia.nocookie.net/logofan/images/e/ee/Tooncast_Logo.png/revision/latest?cb=20230329201552&path-prefix=es" group-title="-" ,Tooncast 
+#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast SD" tvg-logo="https://static.wikia.nocookie.net/logofan/images/e/ee/Tooncast_Logo.png/revision/latest?cb=20230329201552&path-prefix=es" group-title="-" ,Tooncast SD
 http://186.194.160.110:9002/play/a0mf/index.m3u8
-#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast SD" tvg-logo="https://static.wikia.nocookie.net/logofan/images/e/ee/Tooncast_Logo.png/revision/latest?cb=20230329201552&path-prefix=es" ,Tooncast 
+#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast SD" tvg-logo="https://static.wikia.nocookie.net/logofan/images/e/ee/Tooncast_Logo.png/revision/latest?cb=20230329201552&path-prefix=es" ,Tooncast SD
 http://190.60.41.107:8008/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast HD" tvg-logo="https://static.wikia.nocookie.net/logofan/images/e/ee/Tooncast_Logo.png/revision/latest?cb=20230329201552&path-prefix=es" ,Tooncast HD
 http://209.14.115.253:8000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast FHD" tvg-logo="https://static.wikia.nocookie.net/logofan/images/e/ee/Tooncast_Logo.png/revision/latest?cb=20230329201552&path-prefix=es" group-title="-" ,Tooncast FHD
 http://190.60.34.180:8000/play/a039/index.m3u8
-#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523295_B3CDC74D14D25D9D.png" ,Baby TV 
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523295_B3CDC74D14D25D9D.png" ,Baby TV SD
 http://186.194.160.110:9002/play/a0li/index.m3u8
-#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523295_B3CDC74D14D25D9D.png" ,Baby TV 
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523295_B3CDC74D14D25D9D.png" ,Baby TV SD
 http://186.194.160.110:9002/play/a09w/index.m3u8
 #EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523295_B3CDC74D14D25D9D.png" group-title="-" ,Baby TV HD
 http://190.60.34.180:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-name="Baby First SD" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" ,Baby First 
+#EXTINF:-1 tvg-name="Baby First SD" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" ,Baby First SD
 http://190.2.213.5:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-name="Baby First SD" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" ,Baby First 
+#EXTINF:-1 tvg-name="Baby First SD" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" ,Baby First SD
 http://190.60.41.107:8008/play/a0o4/index.m3u8
-#EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" ,Discovery Home & Health 
+#EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" ,Discovery Home & Health SD
 http://190.2.213.254:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" ,Discovery Home & Health 
-http://177.93.41.82:7000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" ,Discovery Home & Health SD
+http://148.222.228.3:9000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" ,Discovery Home & Health FHD
 http://186.194.160.110:9002/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" ,Discovery Home & Health FHD
 http://190.60.41.107:8008/play/a0j2/index.m3u8
-#EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png" ,TLC 
+#EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png" ,TLC SD
 http://190.2.213.254:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png" ,TLC 
+#EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png" ,TLC SD
 http://186.194.160.110:9002/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png" group-title="-" ,TLC HD
 http://190.60.34.180:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551426_5546C17CCDC9C9C7.png" group-title="-" ,E! 
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551426_5546C17CCDC9C9C7.png" group-title="-" ,E! SD
 http://186.194.160.110:9002/play/a0me/index.m3u8
-#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551426_5546C17CCDC9C9C7.png" ,E! 
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551426_5546C17CCDC9C9C7.png" ,E! SD
 http://190.60.41.107:8008/play/a0nh/index.m3u8
 #EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551426_5546C17CCDC9C9C7.png" ,E! FHD
 http://186.194.160.110:9002/play/a0l4/index.m3u8
-#EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502146_B26126E65BFB4AE2.png" group-title="-" ,HGTV 
+#EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502146_B26126E65BFB4AE2.png" group-title="-" ,HGTV SD
 http://186.194.160.110:9002/play/a0mg/index.m3u8
-#EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502146_B26126E65BFB4AE2.png" ,HGTV 
+#EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502146_B26126E65BFB4AE2.png" ,HGTV SD
 http://190.60.41.107:8008/play/a085/index.m3u8
-#EXTINF:-1 tvg-id="233dtv.cl" tvg-name="Food Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551512_B3F3A42DB87F57A4.png" ,Food Network 
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-name="Food Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551512_B3F3A42DB87F57A4.png" ,Food Network SD
 http://186.194.160.110:9002/play/a0k6/index.m3u8
-#EXTINF:-1 tvg-id="233dtv.cl" tvg-name="Food Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551512_B3F3A42DB87F57A4.png" ,Food Network 
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-name="Food Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551512_B3F3A42DB87F57A4.png" ,Food Network SD
 http://190.60.41.107:8008/play/a0i5/index.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-name="Discovery World FHD" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0b/Hn_discovery-world-hd_m.png/revision/latest?cb=20200526235551&path-prefix=es" ,Discovery World FHD
-http://186.194.160.110:9002/play/a0jm/index.m3u8
+http://148.222.228.3:9000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-name="Discovery World FHD" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0b/Hn_discovery-world-hd_m.png/revision/latest?cb=20200526235551&path-prefix=es" ,Discovery World FHD
-http://190.60.41.107:8008/play/a0ii/index.m3u8
-#EXTINF:-1 tvg-id="8552mvstr.pe" tvg-name="WOBI SD" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQGY4Y3EeUbK_Q/company-logo_200_200/company-logo_200_200/0/1689320379854/wobi_logo?e=2147483647&v=beta&t=eUjPHETSUAwlKnqsZyUYSjdmUn8B1yXwI_lbn9TVvww" ,WOBI 
+http://186.194.160.110:9002/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-id="8552mvstr.pe" tvg-name="WOBI SD" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQGY4Y3EeUbK_Q/company-logo_200_200/company-logo_200_200/0/1689320379854/wobi_logo?e=2147483647&v=beta&t=eUjPHETSUAwlKnqsZyUYSjdmUn8B1yXwI_lbn9TVvww" ,WOBI SD
 http://186.194.160.110:9002/play/a0ln/index.m3u8
-#EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png" ,Telemundo 
+#EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png" ,Telemundo SD
 http://190.2.213.254:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png" ,Telemundo 
+#EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png" ,Telemundo SD
 http://186.194.160.110:9002/play/a0kc/index.m3u8
 #EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png" ,Telemundo FHD
 http://186.194.160.110:9002/play/a0l3/index.m3u8
-#EXTINF:-1 tvg-id="762dtv.cl" tvg-name="Antena 3 SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo.png" ,Antena 3 
+#EXTINF:-1 tvg-id="762dtv.cl" tvg-name="Antena 3 SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo.png" ,Antena 3 SD
 http://186.194.160.110:9002/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="762dtv.cl" tvg-name="Antena 3 SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo.png" ,Antena 3 
+#EXTINF:-1 tvg-id="762dtv.cl" tvg-name="Antena 3 SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo.png" ,Antena 3 SD
 http://209.14.117.146:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="124dtv.ar" tvg-name="El Trece SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" ,El Trece 
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-name="El Trece SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" ,El Trece SD
 http://209.14.117.146:8000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-id="124dtv.ar" tvg-name="El Trece SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="-" ,El Trece 
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-name="El Trece SD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="-" ,El Trece SD
 http://186.148.178.214:8090/play/a06b/index.m3u8
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es" ,Las estrellas 
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es" ,Las estrellas SD
 http://181.224.162.154:2897/play/a0fw/index.m3u8
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es" ,Las estrellas 
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es" ,Las estrellas SD
 http://190.60.34.227:6480/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es" ,Las estrellas FHD
+http://148.222.228.3:9000/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es" ,Las estrellas FHD
 http://190.60.41.107:8008/play/a0ln/index.m3u8
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es" group-title="-" ,Las estrellas FHD
-http://190.60.34.180:8000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas SD" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas 
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas SD" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas SD
 http://186.194.160.110:9002/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas SD" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" group-title="-" ,Tlnovelas 
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas SD" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" group-title="-" ,Tlnovelas SD
 http://186.194.160.110:9002/play/a0hs/index.m3u8
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas FHD" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" ,Tlnovelas FHD
 http://186.194.160.110:9002/play/a0gs/index.m3u8
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas FHD" tvg-logo="https://static.wikia.nocookie.net/televisa/images/6/62/Tlnovelas_logo_2021.png/revision/latest/thumbnail/width/360/height/450?cb=20240919155313&path-prefix=es" group-title="-" ,Tlnovelas FHD
 http://190.60.34.180:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" ,Pasiones 
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" ,Pasiones SD
 http://190.60.41.107:8008/play/a0fd/index.m3u8
-#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" ,Pasiones 
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" ,Pasiones SD
 http://191.97.9.94:8000/play/a0c9/index.m3u8
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" ,Pasiones FHD
+http://148.222.228.3:9000/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" group-title="-" ,Pasiones FHD
 http://186.194.160.110:9002/play/a0n6/index.m3u8
-#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" ,Pasiones FHD
-http://190.60.41.107:8008/play/a0lu/index.m3u8
-#EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film&Arts SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523543_31B3B8B0D0453776.png" ,Film&Arts 
+#EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film&Arts SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523543_31B3B8B0D0453776.png" ,Film&Arts SD
 http://186.194.160.110:9002/play/a02q/index.m3u8
-#EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film&Arts SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523543_31B3B8B0D0453776.png" ,Film&Arts 
+#EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film&Arts SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523543_31B3B8B0D0453776.png" ,Film&Arts SD
 http://190.60.41.107:8008/play/a0j9/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="-" ,Dpelicula 
+#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="-" ,Dpelicula SD
 http://186.194.160.110:9002/play/a0i5/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" ,Dpelicula 
+#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" ,Dpelicula SD
 http://190.60.41.107:8008/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" ,Dpelicula FHD
 http://186.194.160.110:9002/play/a0gn/index.m3u8
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_de-pelicula_m.png" group-title="-" ,Dpelicula FHD
 http://190.60.34.180:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="551" tvg-name="Golden Latino SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" ,Golden Latino 
+#EXTINF:-1 tvg-id="551" tvg-name="Golden Latino SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" ,Golden Latino SD
 http://186.194.160.110:9002/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-id="551" tvg-name="Golden Latino SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" ,Golden Latino 
+#EXTINF:-1 tvg-id="551" tvg-name="Golden Latino SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" ,Golden Latino SD
 http://186.194.160.110:9002/play/a0kf/index.m3u8
 #EXTINF:-1 tvg-id="551" tvg-name="Golden Latino FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" ,Golden Latino FHD
 http://186.194.160.110:9002/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-id="551" tvg-name="Golden Latino FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" group-title="-" ,Golden Latino FHD
 http://190.60.34.180:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge SD" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/golden-edgev-9ae69024.png?fit=500%2C500&ssl=1" group-title="-" ,Golden Edge 
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge SD" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/golden-edgev-9ae69024.png?fit=500%2C500&ssl=1" group-title="-" ,Golden Edge SD
 http://186.194.160.110:9002/play/a0i1/index.m3u8
-#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge SD" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/golden-edgev-9ae69024.png?fit=500%2C500&ssl=1" ,Golden Edge 
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge SD" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/golden-edgev-9ae69024.png?fit=500%2C500&ssl=1" ,Golden Edge SD
 http://190.60.41.107:8008/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge FHD" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/golden-edgev-9ae69024.png?fit=500%2C500&ssl=1" ,Golden Edge FHD
 http://186.194.160.110:9002/play/a0gp/index.m3u8
@@ -323,276 +323,276 @@ http://190.60.34.180:8000/play/a01c/index.m3u8
 http://186.194.160.110:9002/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-name="Hogar TV FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mWLsllzA61pju1PBQxrdxcoCRymD4_N-n7YuYDU8-q5w=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,Hogar TV FHD
 http://186.148.178.214:8090/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia SD" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="-" ,Distrito Comedia 
+#EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia SD" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="-" ,Distrito Comedia SD
 http://186.194.160.110:9002/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia SD" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="-" ,Distrito Comedia 
+#EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia SD" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="-" ,Distrito Comedia SD
 http://186.194.160.110:9002/play/a0i9/index.m3u8
 #EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia FHD" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" ,Distrito Comedia FHD
 http://186.194.160.110:9002/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia FHD" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="-" ,Distrito Comedia FHD
 http://24.152.58.11:2968/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" ,Animal Planet 
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" ,Animal Planet SD
 http://190.2.213.254:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" ,Animal Planet 
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" ,Animal Planet SD
 http://190.60.41.107:8008/play/a0ng/index.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" ,Animal Planet HD
 http://190.60.34.180:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" ,Animal Planet FHD
+http://148.222.228.3:9000/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" group-title="-" ,Animal Planet FHD
 http://186.194.160.110:9002/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png" ,Animal Planet FHD
-http://190.60.41.107:8008/play/a0lp/index.m3u8
-#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536141_959C9E4C0F14D84D.png" ,Love Nature 
+#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536141_959C9E4C0F14D84D.png" ,Love Nature SD
 http://186.194.160.110:9002/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536141_959C9E4C0F14D84D.png" ,Love Nature 
+#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536141_959C9E4C0F14D84D.png" ,Love Nature SD
 http://190.60.41.107:8008/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536141_959C9E4C0F14D84D.png" ,Love Nature FHD
 http://209.14.115.253:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" ,Discovery 
+#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" ,Discovery SD
 http://190.2.213.254:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" ,Discovery 
+#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" ,Discovery SD
 http://190.2.213.5:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" ,Discovery FHD
+http://148.222.228.3:9000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" group-title="-" ,Discovery FHD
 http://186.194.160.110:9002/play/a0n0/index.m3u8
-#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png" ,Discovery FHD
-http://190.2.213.5:8000/play/a0bh/index.m3u8
+#EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523537_4F688A020028689F.png" ,Discovery Theater FHD
+http://148.222.228.3:9000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523537_4F688A020028689F.png" ,Discovery Theater FHD
 http://186.194.160.110:9002/play/a0b9/index.m3u8
-#EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523537_4F688A020028689F.png" ,Discovery Theater FHD
-http://190.2.213.5:8000/play/a09w/index.m3u8
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png" ,Discovery Turbo 
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png" ,Discovery Turbo SD
 http://190.2.213.254:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png" ,Discovery Turbo 
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png" ,Discovery Turbo SD
 http://186.194.160.110:9002/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png" group-title="-" ,Discovery Turbo HD
 http://190.60.34.180:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png" group-title="-" ,Discovery Turbo HD
 http://190.60.34.180:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png" ,NAT GEO 
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png" ,NAT GEO SD
 http://190.2.213.5:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png" ,NAT GEO 
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png" ,NAT GEO SD
 http://190.60.41.107:8008/play/a0nu/index.m3u8
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png" ,NAT GEO FHD
 http://190.2.213.254:8000/play/a0ep/index.m3u8
-#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png" group-title="-" ,NAT GEO FHD
-http://186.194.160.110:9002/play/a0n2/index.m3u8
-#EXTINF:-1 tvg-name="CGTN Documentary SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest?cb=20210818143837" ,CGTN Documentary 
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png" ,NAT GEO FHD
+http://148.222.228.3:9000/play/a09e/index.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest?cb=20210818143837" ,CGTN Documentary SD
 http://191.97.15.194:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest?cb=20210818143837" group-title="-" ,CGTN Documentary FHD
 http://45.181.189.122:8000/play/a03l
-#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png" ,History 
+#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png" ,History SD
 http://190.2.213.5:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png" ,History 
+#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png" ,History SD
 http://190.60.41.107:8008/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png" ,History FHD
 http://190.2.213.254:8000/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png" ,History FHD
-http://186.194.160.110:9002/play/a0kt/index.m3u8
-#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science SD" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science 
+http://148.222.228.3:9000/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science SD" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science SD
 http://190.2.213.254:8000/play/a0ex/index.m3u8
-#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science SD" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science 
+#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science SD" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science SD
 http://186.194.160.110:9002/play/a0k1/index.m3u8
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science HD" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science HD
 http://186.31.37.99:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science FHD" tvg-logo="https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png" ,Discovery Science FHD
 http://186.148.175.138:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png" ,H2 
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png" ,H2 SD
 http://186.194.160.110:9002/play/a0ho/index.m3u8
-#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png" ,H2 
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png" ,H2 SD
 http://190.60.41.107:8008/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png" ,H2 FHD
 http://186.194.160.110:9002/play/a0ku/index.m3u8
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png" group-title="-" ,H2 FHD
 http://190.60.34.180:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" ,TNT 
+#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" ,TNT SD
 http://190.2.213.5:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" ,TNT 
+#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" ,TNT SD
 http://190.60.41.107:8008/play/a0ph/index.m3u8
+#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" ,TNT FHD
+http://148.222.228.3:9000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" group-title="-" ,TNT FHD
 http://186.194.160.110:9002/play/a0mz/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png" ,TNT FHD
-http://190.2.213.5:8000/play/a09x/index.m3u8
-#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536153_75E4A936092C1689.png" ,Sony Movies 
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536153_75E4A936092C1689.png" ,Sony Movies SD
 http://190.2.213.254:8000/play/a0f3/index.m3u8
-#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536153_75E4A936092C1689.png" ,Sony Movies 
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536153_75E4A936092C1689.png" ,Sony Movies SD
 http://186.194.160.110:9002/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536153_75E4A936092C1689.png" ,Sony Movies FHD
 http://186.194.160.110:9002/play/a0kx/index.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/53/21536153_75E4A936092C1689.png" group-title="-" ,Sony Movies FHD
 http://190.60.34.180:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="824dtv.cl" tvg-name="Paramount Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png" ,Paramount Network 
+#EXTINF:-1 tvg-id="824dtv.cl" tvg-name="Paramount Network SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png" ,Paramount Network SD
 http://209.14.115.253:8000/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-name="Paramount Network FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png" ,Paramount Network FHD
 http://190.2.213.254:8000/play/a0g5/index.m3u8
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-name="Paramount Network FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png" ,Paramount Network FHD
-http://186.194.160.110:9002/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png" ,Space 
+http://148.222.228.3:9000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png" ,Space SD
 http://190.2.213.254:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png" ,Space 
+#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png" ,Space SD
 http://190.2.213.5:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png" ,Space FHD
-http://186.194.160.110:9002/play/a0jc/index.m3u8
+http://148.222.228.3:9000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png" ,Space FHD
-http://190.2.213.5:8000/play/a0br/index.m3u8
-#EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png" ,CineCanal 
+http://186.194.160.110:9002/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png" ,CineCanal SD
 http://190.2.213.5:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png" ,CineCanal 
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png" ,CineCanal SD
 http://190.60.41.107:8008/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png" ,CineCanal FHD
 http://190.2.213.254:8000/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png" ,CineCanal FHD
-http://186.194.160.110:9002/play/a0j6/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png" group-title="-" ,Cinemax 
+http://148.222.228.3:9000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png" ,Cinemax SD
+http://148.222.228.3:9000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png" group-title="-" ,Cinemax SD
 http://190.2.213.254:8000/play/a0gm/index.m3u8
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png" group-title="-" ,Cinemax 
-http://186.194.160.110:9002/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" ,Studio Universal 
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" ,Studio Universal SD
 http://190.2.213.5:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" ,Studio Universal 
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" ,Studio Universal SD
 http://209.14.119.206:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" ,Studio Universal FHD
-http://186.194.160.110:9002/play/a0l1/index.m3u8
+http://148.222.228.3:9000/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png" ,Studio Universal FHD
-http://186.194.160.110:9002/play/a0ib/index.m3u8
-#EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover SD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" ,Clover 
+http://186.194.160.110:9002/play/a0l1/index.m3u8
+#EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover SD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" ,Clover SD
 http://186.194.160.110:9002/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover SD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" ,Clover 
+#EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover SD" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/01/Captura-de-pantalla-2022-01-13-171716.png" ,Clover SD
 http://190.60.41.107:8008/play/a0e4/index.m3u8
-#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM SD" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="-" ,TCM 
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM SD" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="-" ,TCM SD
 http://186.194.160.110:9002/play/a0i3/index.m3u8
-#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM SD" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM 
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM SD" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM SD
 http://190.2.213.5:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM FHD" tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" ,TCM FHD
 http://190.61.55.235:8000/play/a0zn/index.m3u8
-#EXTINF:-1 tvg-id="clarocinema.cl" tvg-name="Claro Cinema SD" tvg-logo="https://uspto.report/TM/86830508/mark.png" ,Claro Cinema 
+#EXTINF:-1 tvg-id="clarocinema.cl" tvg-name="Claro Cinema SD" tvg-logo="https://uspto.report/TM/86830508/mark.png" ,Claro Cinema SD
 http://190.2.213.5:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="clarocinema.cl" tvg-name="Claro Cinema SD" tvg-logo="https://uspto.report/TM/86830508/mark.png" ,Claro Cinema 
+#EXTINF:-1 tvg-id="clarocinema.cl" tvg-name="Claro Cinema SD" tvg-logo="https://uspto.report/TM/86830508/mark.png" ,Claro Cinema SD
 http://209.14.119.206:8000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png" ,ID 
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png" ,ID SD
 http://190.2.213.254:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png" ,ID 
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png" ,ID SD
 http://209.14.119.206:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png" ,ID FHD
-http://186.194.160.110:9002/play/a0jb/index.m3u8
+http://148.222.228.3:9000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png" ,ID FHD
-http://190.60.41.107:8008/play/a0lv/index.m3u8
-#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png" ,Warner Channel 
+http://186.194.160.110:9002/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png" ,Warner Channel SD
 http://190.2.213.5:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png" ,Warner Channel 
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png" ,Warner Channel SD
 http://177.93.41.82:7000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png" ,Warner Channel FHD
-http://186.194.160.110:9002/play/a0j9/index.m3u8
+http://148.222.228.3:9000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png" ,Warner Channel FHD
-http://190.60.41.107:8008/play/a0il/index.m3u8
-#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png" group-title="-" ,Sony 
+http://186.194.160.110:9002/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png" group-title="-" ,Sony SD
 http://186.194.160.110:9002/play/a0lq/index.m3u8
-#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png" ,Sony 
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png" ,Sony SD
 http://190.2.213.5:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png" ,Sony FHD
-http://186.194.160.110:9002/play/a0kw/index.m3u8
+http://148.222.228.3:9000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png" ,Sony FHD
-http://186.194.160.110:9002/play/a0j8/index.m3u8
-#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png" group-title="-" ,Comedy Central 
+http://186.194.160.110:9002/play/a0kw/index.m3u8
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png" group-title="-" ,Comedy Central SD
 http://186.194.160.110:9002/play/a0ls/index.m3u8
-#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png" ,Comedy Central 
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png" ,Comedy Central SD
 http://45.173.12.70:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png" ,Comedy Central FHD
-http://186.194.160.110:9002/play/a0at/index.m3u8
+http://148.222.228.3:9000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png" ,Comedy Central FHD
-http://190.60.41.107:8008/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,USA 
+http://186.194.160.110:9002/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,USA SD
 http://186.194.160.110:9002/play/a0i0/index.m3u8
-#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA 
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA SD
 http://190.2.213.5:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA FHD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" ,USA FHD
 http://186.194.160.110:9002/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA FHD" tvg-logo="https://yt3.googleusercontent.com/tmKkPQinwcr4OxbhANcj4mw0NAVYFNNzhLzqoQDQJEX6V2trFjIip2sHbF279MZT65MAQ1tkiQ=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,USA FHD
 http://190.60.34.180:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" ,A&E 
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" ,A&E SD
 http://190.2.213.5:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" ,A&E 
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" ,A&E SD
 http://190.60.41.107:8008/play/a0nl/index.m3u8
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" ,A&E FHD
-http://186.194.160.110:9002/play/a0kr/index.m3u8
+http://148.222.228.3:9000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png" ,A&E FHD
-http://186.194.160.110:9002/play/a0as/index.m3u8
-#EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" ,AXN 
+http://186.194.160.110:9002/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" ,AXN SD
 http://190.2.213.254:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" ,AXN 
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" ,AXN SD
 http://190.2.213.5:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" ,AXN FHD
-http://186.194.160.110:9002/play/a0ks/index.m3u8
+http://148.222.228.3:9000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png" ,AXN FHD
-http://186.194.160.110:9002/play/a0ja/index.m3u8
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png" ,FX 
+http://186.194.160.110:9002/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png" ,FX SD
 http://190.2.213.5:8000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png" ,FX 
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png" ,FX SD
 http://190.60.41.107:8008/play/a0os/index.m3u8
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png" ,FX FHD
-http://186.194.160.110:9002/play/a0c2/index.m3u8
+http://148.222.228.3:9000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png" ,FX FHD
-http://190.2.213.5:8000/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC 
+http://186.194.160.110:9002/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC SD
 http://200.69.80.179:5050/play/a0wt/index.m3u8
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC FHD
-http://186.194.160.110:9002/play/a0b4/index.m3u8
+http://148.222.228.3:9000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png" ,AMC FHD
-http://190.60.41.107:8008/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/35/8355168_71322F74BDD910DD.png" ,Star 
+http://186.194.160.110:9002/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/35/8355168_71322F74BDD910DD.png" ,Star SD
 http://190.2.213.5:8000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/35/8355168_71322F74BDD910DD.png" ,Star 
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/35/8355168_71322F74BDD910DD.png" ,Star SD
 http://190.60.41.107:8008/play/a0nz/index.m3u8
 #EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/35/8355168_71322F74BDD910DD.png" ,Star FHD
 http://190.2.213.254:8000/play/a0f9/index.m3u8
 #EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/35/8355168_71322F74BDD910DD.png" ,Star FHD
-http://186.194.160.110:9002/play/a0jh/index.m3u8
-#EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="https://e7.pngegg.com/pngimages/949/572/png-clipart-eurochannel-television-channel-television-show-euro-channel-channel-television-blue.png" ,Eurochannel 
+http://148.222.228.3:9000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="https://e7.pngegg.com/pngimages/949/572/png-clipart-eurochannel-television-channel-television-show-euro-channel-channel-television-blue.png" ,Eurochannel SD
 http://186.194.160.110:9002/play/a06e/index.m3u8
-#EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="https://e7.pngegg.com/pngimages/949/572/png-clipart-eurochannel-television-channel-television-show-euro-channel-channel-television-blue.png" group-title="-" ,Eurochannel 
+#EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="https://e7.pngegg.com/pngimages/949/572/png-clipart-eurochannel-television-channel-television-show-euro-channel-channel-television-blue.png" group-title="-" ,Eurochannel SD
 http://186.194.160.110:9002/play/a0mp/index.m3u8
-#EXTINF:-1 tvg-id="561" tvg-name="Adult Swim SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png" group-title="-" ,Adult Swim 
+#EXTINF:-1 tvg-id="561" tvg-name="Adult Swim SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png" group-title="-" ,Adult Swim SD
 http://186.194.160.110:9002/play/a0n4/index.m3u8
-#EXTINF:-1 tvg-id="561" tvg-name="Adult Swim SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png" ,Adult Swim 
+#EXTINF:-1 tvg-id="561" tvg-name="Adult Swim SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png" ,Adult Swim SD
 http://190.60.41.107:8008/play/a0fk/index.m3u8
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png" ,TNT Series 
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png" ,TNT Series SD
 http://190.242.61.123:9999/play/a0qi/index.m3u8
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png" ,TNT Series 
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png" ,TNT Series SD
 http://190.242.61.122:9999/play/a0qi/index.m3u8
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png" ,TNT Series FHD
 http://186.194.160.110:9002/play/a0jk/index.m3u8
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png" ,TNT Series FHD
 http://190.60.41.107:8008/play/a0j7/index.m3u8
-#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series 
-http://186.194.160.110:9002/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series 
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series SD
 http://148.222.228.3:9000/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series SD
+http://186.194.160.110:9002/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series FHD
 http://45.173.12.70:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series FHD
 http://209.14.117.146:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png" ,MTV 
+#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png" ,MTV SD
 http://190.2.213.5:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png" ,MTV 
+#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png" ,MTV SD
 http://190.60.41.107:8008/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png" ,MTV FHD
-http://186.194.160.110:9002/play/a0b6/index.m3u8
+http://148.222.228.3:9000/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png" ,MTV FHD
-http://190.60.41.107:8008/play/a0di/index.m3u8
-#EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/17/7174958_C8682663671689F2.png" ,Lifetime 
+http://186.194.160.110:9002/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/17/7174958_C8682663671689F2.png" ,Lifetime SD
 http://186.194.160.110:9002/play/a0kd/index.m3u8
-#EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/17/7174958_C8682663671689F2.png" ,Lifetime 
+#EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/17/7174958_C8682663671689F2.png" ,Lifetime SD
 http://190.2.213.5:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/17/7174958_C8682663671689F2.png" ,Lifetime FHD
 http://186.194.160.110:9002/play/a0kv/index.m3u8
 #EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/17/7174958_C8682663671689F2.png" group-title="-" ,Lifetime FHD
 http://190.60.34.180:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305195_BB6976196426344E.png" ,TNT Novelas 
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305195_BB6976196426344E.png" ,TNT Novelas SD
+http://148.222.228.3:9000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305195_BB6976196426344E.png" ,TNT Novelas SD
 http://209.14.119.206:8000/play/a07v/index.m3u8
-#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305195_BB6976196426344E.png" ,TNT Novelas 
-http://177.93.41.82:7000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305195_BB6976196426344E.png" ,TNT Novelas FHD
+http://148.222.228.3:9000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305195_BB6976196426344E.png" ,TNT Novelas FHD
 http://186.194.160.110:9002/play/a0jo/index.m3u8
-#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305195_BB6976196426344E.png" ,TNT Novelas FHD
-http://190.60.41.107:8008/play/a0kd/index.m3u8
 #EXTINF:-1 tvg-id="507" tvg-name="CINE FAMILIAR HD" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" group-title="-" ,CINE FAMILIAR HD
 http://190.60.34.180:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="507" tvg-name="CINE FAMILIAR HD" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" ,CINE FAMILIAR HD
@@ -621,137 +621,137 @@ http://186.148.178.214:8090/play/a03c/index.m3u8
 http://186.148.178.214:8090/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="550" tvg-name="Golden Premier FHD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" ,Golden Premier FHD
 http://190.242.61.123:9999/play/a0kv/index.m3u8
-#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" ,Universal TV 
+#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" ,Universal TV SD
 http://190.2.213.5:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" ,Universal TV 
+#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" ,Universal TV SD
 http://190.60.41.107:8008/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" ,Universal TV FHD
+http://148.222.228.3:9000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" ,Universal TV FHD
 http://186.194.160.110:9002/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png" group-title="-" ,Universal TV FHD
-http://186.194.160.110:9002/play/a0mx/index.m3u8
-#EXTINF:-1 tvg-id="571dtv.cl" tvg-name="Universal Premiere Este SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere Este 
+#EXTINF:-1 tvg-id="571dtv.cl" tvg-name="Universal Premiere Este SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere Este SD
 http://209.14.119.206:8000/play/a07d/index.m3u8
-#EXTINF:-1 tvg-id="571dtv.cl" tvg-name="Universal Premiere Este SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere Este 
+#EXTINF:-1 tvg-id="571dtv.cl" tvg-name="Universal Premiere Este SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLMBsSVH9H3KhEVUwiG709COClWjlFJziHbOAFg5X68eHFIL89kB0_Y1P-TRNZrei7hE&usqp=CAU" ,Universal Premiere Este SD
 http://209.14.117.146:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="Universal Cinema Este SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8xUR-ABNOcsrJwOt3qqFRjHjzTkqQnHiiA&s" ,Universal Cinema Este 
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="Universal Cinema Este SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8xUR-ABNOcsrJwOt3qqFRjHjzTkqQnHiiA&s" ,Universal Cinema Este SD
 http://209.14.119.206:8000/play/a07e/index.m3u8
-#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="Universal Cinema Este SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8xUR-ABNOcsrJwOt3qqFRjHjzTkqQnHiiA&s" ,Universal Cinema Este 
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="Universal Cinema Este SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8xUR-ABNOcsrJwOt3qqFRjHjzTkqQnHiiA&s" ,Universal Cinema Este SD
 http://209.14.117.146:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="Universal Comedy SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWKR2OQscg5fPC3wW78MPy-de-h9B5OFDTg&s" ,Universal Comedy 
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="Universal Comedy SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWKR2OQscg5fPC3wW78MPy-de-h9B5OFDTg&s" ,Universal Comedy SD
 http://209.14.119.206:8000/play/a07f/index.m3u8
-#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="Universal Comedy SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWKR2OQscg5fPC3wW78MPy-de-h9B5OFDTg&s" ,Universal Comedy 
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="Universal Comedy SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBWKR2OQscg5fPC3wW78MPy-de-h9B5OFDTg&s" ,Universal Comedy SD
 http://209.14.117.146:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png" ,HBO 
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png" ,HBO SD
 http://186.194.160.110:9002/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png" ,HBO 
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png" ,HBO SD
 http://190.2.213.5:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png" ,HBO FHD
 http://190.2.213.254:8000/play/a0g7/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png" ,HBO FHD
-http://186.194.160.110:9002/play/a0b5/index.m3u8
-#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519371_95895B596B5C8566.png" ,HBO 2 
+http://148.222.228.3:9000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519371_95895B596B5C8566.png" ,HBO 2 SD
 http://190.2.213.254:8000/play/a0g4/index.m3u8
-#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519371_95895B596B5C8566.png" ,HBO 2 
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519371_95895B596B5C8566.png" ,HBO 2 SD
 http://186.194.160.110:9002/play/a0m1/index.m3u8
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6404168_D505AFC331359E2E.png" group-title="-" ,HBO Plus 
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6404168_D505AFC331359E2E.png" group-title="-" ,HBO Plus SD
 http://186.194.160.110:9002/play/a0i6/index.m3u8
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6404168_D505AFC331359E2E.png" group-title="-" ,HBO Plus 
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6404168_D505AFC331359E2E.png" group-title="-" ,HBO Plus SD
 http://186.194.160.110:9002/play/a0lu/index.m3u8
-#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553112_DD5F4931A18250EE.png" group-title="-" ,HBO Family 
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553112_DD5F4931A18250EE.png" group-title="-" ,HBO Family SD
 http://186.194.160.110:9002/play/a0hd/index.m3u8
-#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553112_DD5F4931A18250EE.png" ,HBO Family 
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553112_DD5F4931A18250EE.png" ,HBO Family SD
 http://190.2.213.5:8000/play/a0cn/index.m3u8
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553112_DD5F4931A18250EE.png" ,HBO Family FHD
 http://45.173.12.70:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553112_DD5F4931A18250EE.png" ,HBO Family FHD
 http://209.14.117.146:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO Signature SD" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-signature.png" group-title="-" ,HBO Signature 
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO Signature SD" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-signature.png" group-title="-" ,HBO Signature SD
 http://186.194.160.110:9002/play/a0hg/index.m3u8
-#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO Signature SD" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-signature.png" group-title="-" ,HBO Signature 
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO Signature SD" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-signature.png" group-title="-" ,HBO Signature SD
 http://186.194.160.110:9002/play/a0mq/index.m3u8
-#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkswzblShLB5hg8Mh6JLeEJcNoNCUQklZCA&s" ,HBO Mundi 
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkswzblShLB5hg8Mh6JLeEJcNoNCUQklZCA&s" ,HBO Mundi SD
 http://186.194.160.110:9002/play/a0lv/index.m3u8
-#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkswzblShLB5hg8Mh6JLeEJcNoNCUQklZCA&s" group-title="-" ,HBO Mundi 
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkswzblShLB5hg8Mh6JLeEJcNoNCUQklZCA&s" group-title="-" ,HBO Mundi SD
 http://186.194.160.110:9002/play/a0mr/index.m3u8
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576554_D50CDAAE95539E82.png" ,HBO Pop FHD
+http://148.222.228.3:9000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576554_D50CDAAE95539E82.png" group-title="-" ,HBO Pop FHD
 http://186.194.160.110:9002/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576554_D50CDAAE95539E82.png" ,HBO Pop FHD
-http://45.173.12.70:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png" group-title="-" ,HBO Xtreme 
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png" group-title="-" ,HBO Xtreme SD
 http://186.194.160.110:9002/play/a0lt/index.m3u8
-#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png" ,HBO Xtreme 
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png" ,HBO Xtreme SD
 http://190.2.213.5:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png" ,HBO Xtreme FHD
 http://209.14.117.146:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png" ,HBO Xtreme FHD
 http://186.148.182.109:8100/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias SD" group-title="-" ,Cable Noticias 
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias SD" group-title="-" ,Cable Noticias SD
 http://186.194.160.110:9002/play/a0m6/index.m3u8
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias SD" ,Cable Noticias 
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias SD" ,Cable Noticias SD
 http://190.60.41.107:8008/play/a0ml/index.m3u8
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias HD" group-title="-" ,Cable Noticias HD
 http://190.60.34.180:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-name="El Tiempo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777670_C679F246B55CB21E.png" ,El Tiempo 
+#EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-name="El Tiempo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777670_C679F246B55CB21E.png" ,El Tiempo SD
 http://186.194.160.110:9002/play/a0ll/index.m3u8
-#EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-name="El Tiempo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777670_C679F246B55CB21E.png" ,El Tiempo 
+#EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-name="El Tiempo SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777670_C679F246B55CB21E.png" ,El Tiempo SD
 http://209.14.117.146:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 SD
 http://186.194.160.110:9002/play/a0lm/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" group-title="-" ,NTN24 
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" group-title="-" ,NTN24 SD
 http://186.194.160.110:9002/play/a0hw/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" group-title="-" ,NTN24 FHD
 http://190.60.34.180:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png" ,NTN24 FHD
 http://191.97.6.30:8000/play/a0i7/index.m3u8
-#EXTINF:-1 tvg-id="BBC.World.News.co" tvg-name="BBC World SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/84/15847199_AF8754416D1FD691.png" ,BBC World 
+#EXTINF:-1 tvg-id="BBC.World.News.co" tvg-name="BBC World SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/84/15847199_AF8754416D1FD691.png" ,BBC World SD
 http://181.78.21.162:9080/play/a09h/index.m3u8
-#EXTINF:-1 tvg-id="BBC.World.News.co" tvg-name="BBC World SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/84/15847199_AF8754416D1FD691.png" ,BBC World 
+#EXTINF:-1 tvg-id="BBC.World.News.co" tvg-name="BBC World SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/84/15847199_AF8754416D1FD691.png" ,BBC World SD
 http://200.69.80.179:5050/play/a144/index.m3u8
-#EXTINF:-1 tvg-name="CNN Espanol SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN Espanol 
+#EXTINF:-1 tvg-name="CNN Espanol SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN Espanol SD
 http://190.2.213.254:8000/play/a0ej/index.m3u8
-#EXTINF:-1 tvg-name="CNN Espanol SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" group-title="-" ,CNN Espanol 
+#EXTINF:-1 tvg-name="CNN Espanol SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" group-title="-" ,CNN Espanol SD
 http://186.194.160.110:9002/play/a0jx/index.m3u8
-#EXTINF:-1 tvg-name="CNN Chile SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" group-title="-" ,CNN Chile 
+#EXTINF:-1 tvg-name="CNN Chile SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" group-title="-" ,CNN Chile SD
 http://190.60.34.180:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-name="CNN Chile SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" group-title="-" ,CNN Chile 
+#EXTINF:-1 tvg-name="CNN Chile SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" group-title="-" ,CNN Chile SD
 http://186.148.178.214:8090/play/a06z/index.m3u8
-#EXTINF:-1 tvg-name="CNN International SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN International 
+#EXTINF:-1 tvg-name="CNN International SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN International SD
 http://186.194.160.110:9002/play/a09s/index.m3u8
-#EXTINF:-1 tvg-name="CNN International SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN International 
+#EXTINF:-1 tvg-name="CNN International SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN International SD
 http://181.224.162.154:2897/play/a0ic/index.m3u8
-#EXTINF:-1 tvg-name="DW SD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,DW 
+#EXTINF:-1 tvg-name="DW SD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,DW SD
 http://186.194.160.110:9002/play/a0mt/index.m3u8
-#EXTINF:-1 tvg-name="DW SD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" ,DW 
+#EXTINF:-1 tvg-name="DW SD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" ,DW SD
 http://45.173.12.70:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-name="DW HD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,DW HD
 http://24.152.58.11:2968/play/a00a/index.m3u8
-#EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,France 24 
-http://186.194.160.110:9002/play/a0ms/index.m3u8
-#EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" ,France 24 
+#EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" ,France 24 SD
 http://148.222.228.3:9000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-name="CGTN SD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN 
+#EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,France 24 SD
+http://186.194.160.110:9002/play/a0ms/index.m3u8
+#EXTINF:-1 tvg-name="CGTN SD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN SD
 http://186.194.160.110:9002/play/a07z/index.m3u8
-#EXTINF:-1 tvg-name="CGTN SD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN 
+#EXTINF:-1 tvg-name="CGTN SD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN SD
 http://191.97.15.194:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-name="CGTN FHD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,CGTN FHD
 http://45.181.189.122:8000/play/a03k
 #EXTINF:-1 tvg-name="CGTN FHD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN FHD
 http://200.69.80.179:5050/play/a0td/index.m3u8
-#EXTINF:-1 tvg-name="Fox News SD" ,Fox News 
+#EXTINF:-1 tvg-name="Fox News SD" ,Fox News SD
 http://186.194.160.110:9002/play/a0lw/index.m3u8
-#EXTINF:-1 tvg-name="Fox News SD" ,Fox News 
+#EXTINF:-1 tvg-name="Fox News SD" ,Fox News SD
 http://45.173.12.70:8000/play/a07u/index.m3u8
-#EXTINF:-1 tvg-name="BBC News SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/84/15847198_6C5566D38363CFF0.png" ,BBC News 
+#EXTINF:-1 tvg-name="BBC News SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/84/15847198_6C5566D38363CFF0.png" ,BBC News SD
 http://186.194.160.110:9002/play/a02t/index.m3u8
-#EXTINF:-1 tvg-name="BBC News SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/84/15847198_6C5566D38363CFF0.png" group-title="-" ,BBC News 
+#EXTINF:-1 tvg-name="BBC News SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/84/15847198_6C5566D38363CFF0.png" group-title="-" ,BBC News SD
 http://186.194.160.110:9002/play/a0mo/index.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="WIN Sports SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737707_F9A7AE02A016370E.png" ,WIN Sports 
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="WIN Sports SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737707_F9A7AE02A016370E.png" ,WIN Sports SD
 http://190.2.213.254:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="WIN Sports SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737707_F9A7AE02A016370E.png" ,WIN Sports 
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="WIN Sports SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737707_F9A7AE02A016370E.png" ,WIN Sports SD
 http://186.194.160.110:9002/play/a0fn/index.m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502118_A3D837B2E9C01F60.png" group-title="-" ,WIN Sports + 
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502118_A3D837B2E9C01F60.png" group-title="-" ,WIN Sports + SD
 http://186.194.160.110:9002/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502118_A3D837B2E9C01F60.png" ,WIN Sports + 
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502118_A3D837B2E9C01F60.png" ,WIN Sports + SD
 http://191.102.115.172:11011/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502118_A3D837B2E9C01F60.png" ,WIN Sports + HD
 http://191.97.9.94:8000/play/a0cl/index.m3u8
@@ -759,14 +759,14 @@ http://191.97.9.94:8000/play/a0cl/index.m3u8
 http://190.2.213.254:8000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502118_A3D837B2E9C01F60.png" ,WIN Sports + FHD
 http://186.194.160.110:9002/play/a0js/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports 
+#EXTINF:-1 tvg-name="TNT Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports SD
 http://186.194.160.110:9002/play/a0hh/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports 
+#EXTINF:-1 tvg-name="TNT Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports SD
 http://209.14.117.146:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Premium SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium 
+#EXTINF:-1 tvg-name="TNT Sports Premium SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium SD
 http://190.2.213.220:8000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Premium SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="-" ,TNT Sports Premium 
-http://186.148.178.214:8090/play/a06h/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Premium SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium SD
+http://190.2.213.220:18000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Premium FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium FHD
 http://45.173.12.70:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Premium FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium FHD
@@ -777,137 +777,137 @@ http://190.242.61.122:9999/play/a0kz/index.m3u8
 http://191.97.14.162:4000/play/a091/index.m3u8
 #EXTINF:-1 tvg-name="Directv Sports 2 HD" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" ,Directv Sports 2 HD
 http://190.242.61.122:9999/play/a0lb/index.m3u8
-#EXTINF:-1 tvg-name="Claro Sports SD" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" ,Claro Sports 
+#EXTINF:-1 tvg-name="Claro Sports SD" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" ,Claro Sports SD
 http://209.14.119.206:8000/play/a06u/index.m3u8
-#EXTINF:-1 tvg-name="Claro Sports SD" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" ,Claro Sports 
+#EXTINF:-1 tvg-name="Claro Sports SD" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" ,Claro Sports SD
 http://186.148.182.109:8100/play/a04f/index.m3u8
 #EXTINF:-1 tvg-name="Tigo Sports FHD" ,Tigo Sports FHD
 http://190.14.10.19:16000/play/a00ps/index.m3u8
-#EXTINF:-1 tvg-name="Movistar Sports SD" ,Movistar Sports 
+#EXTINF:-1 tvg-name="Movistar Sports SD" ,Movistar Sports SD
 http://186.194.160.110:9002/play/a0h7/index.m3u8
-#EXTINF:-1 tvg-name="Movistar Sports SD" ,Movistar Sports 
+#EXTINF:-1 tvg-name="Movistar Sports SD" ,Movistar Sports SD
 http://45.173.12.70:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-name="TyC SPorts SD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" ,TyC SPorts 
+#EXTINF:-1 tvg-name="TyC SPorts SD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" ,TyC SPorts SD
 http://186.194.160.110:9002/play/a031/index.m3u8
-#EXTINF:-1 tvg-name="TyC SPorts SD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" ,TyC SPorts 
+#EXTINF:-1 tvg-name="TyC SPorts SD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" ,TyC SPorts SD
 http://45.173.12.70:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN 
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN SD
 http://190.2.213.254:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN 
-http://190.2.213.254:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN SD
+http://148.222.228.3:9000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN HD
 http://190.2.213.254:8000/play/a0f8/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN HD
 http://186.194.160.110:9002/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN FHD
-http://190.2.213.5:8000/play/a0c3/index.m3u8
+http://148.222.228.3:9000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN FHD
-http://190.2.213.5:8000/play/a0bg/index.m3u8
+http://190.2.213.5:8000/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN Premium FHD
 http://45.173.12.70:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN Premium FHD
 http://209.14.119.206:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 SD
 http://190.2.213.254:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 SD
 http://186.194.160.110:9002/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 HD
 http://186.194.160.110:9002/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 HD
 http://186.194.160.110:9002/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 FHD
-http://209.14.117.146:8000/play/a084/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 FHD
 http://148.222.228.3:9000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" ,ESPN 3 
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" ,ESPN 2 FHD
+http://209.14.117.146:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" ,ESPN 3 SD
 http://190.2.213.254:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" ,ESPN 3 
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" ,ESPN 3 SD
 http://190.60.41.107:8008/play/a0ow/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" ,ESPN 3 HD
 http://186.194.160.110:9002/play/a0jp/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" ,ESPN 3 HD
 http://190.60.41.107:8008/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" ,ESPN 3 FHD
-http://190.2.213.5:8000/play/a09z/index.m3u8
+http://148.222.228.3:9000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" ,ESPN 3 FHD
-http://209.14.119.206:8000/play/a09e/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" ,ESPN 4 
+http://190.2.213.5:8000/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" ,ESPN 4 SD
 http://191.97.15.250:45000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" ,ESPN 4 
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" ,ESPN 4 SD
 http://191.97.9.94:8000/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" ,ESPN 4 HD
-http://186.194.160.110:9002/play/a0jf/index.m3u8
+http://148.222.228.3:9000/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" ,ESPN 4 HD
-http://190.60.41.107:8008/play/a0j4/index.m3u8
+http://186.194.160.110:9002/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" ,ESPN 4 FHD
+http://148.222.228.3:9000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" ,ESPN 4 FHD
 http://190.2.213.5:8000/play/a09y/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" group-title="-" ,ESPN 4 FHD
-http://190.60.34.180:8000/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png" ,ESPN 5 
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png" ,ESPN 5 SD
 http://190.2.213.254:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png" ,ESPN 5 
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png" ,ESPN 5 SD
 http://177.93.41.82:7000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png" group-title="-" ,ESPN 5 HD
 http://190.60.34.180:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png" ,ESPN 5 FHD
-http://190.2.213.5:8000/play/a0b9/index.m3u8
+http://148.222.228.3:9000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png" ,ESPN 5 FHD
-http://190.60.41.107:8008/play/a0iv/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" ,ESPN 6 
+http://190.2.213.5:8000/play/a0b9/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" ,ESPN 6 SD
 http://190.2.213.254:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" ,ESPN 6 
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" ,ESPN 6 SD
 http://190.2.213.5:8000/play/a08c/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" group-title="-" ,ESPN 6 HD
 http://190.60.34.180:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" ,ESPN 6 HD
 http://209.14.115.253:8000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" ,ESPN 6 FHD
-http://186.194.160.110:9002/play/a0an/index.m3u8
+http://148.222.228.3:9000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" ,ESPN 6 FHD
-http://190.2.213.5:8000/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" ,ESPN 7 
+http://186.194.160.110:9002/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" ,ESPN 7 SD
 http://190.2.213.254:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" ,ESPN 7 
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" ,ESPN 7 SD
 http://190.2.213.5:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" group-title="-" ,ESPN 7 HD
 http://190.60.34.180:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 HD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" ,ESPN 7 HD
 http://209.14.115.253:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" ,ESPN 7 FHD
-http://186.194.160.110:9002/play/a0j7/index.m3u8
+http://148.222.228.3:9000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" ,ESPN 7 FHD
-http://186.194.160.110:9002/play/a0c0/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 
+http://186.194.160.110:9002/play/a0j7/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports SD
 http://186.148.163.18:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 
+#EXTINF:-1 tvg-name="Fox Sports SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports SD
 http://186.148.163.18:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports FHD
 http://186.148.163.18:8000/play/a050/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 2 
+#EXTINF:-1 tvg-name="Fox Sports 2 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 2 SD
 http://190.2.213.5:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 2 
+#EXTINF:-1 tvg-name="Fox Sports 2 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 2 SD
 http://191.97.15.250:45000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 SD" ,Fox Sports 3 
+#EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 SD" ,Fox Sports 3 SD
 http://190.2.213.5:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 SD" ,Fox Sports 3 
+#EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 SD" ,Fox Sports 3 SD
 http://191.97.15.250:45000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 FHD" ,Fox Sports 3 FHD
 http://190.2.213.220:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 FHD" ,Fox Sports 3 FHD
-http://191.102.90.226:8000/play/a02f/index.m3u8
+http://191.102.90.229:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-name="SKY LA LIGA HD" tvg-logo="https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png" ,SKY LA LIGA HD
 http://190.14.10.19:16000/play/a09u/index.m3u8
-#EXTINF:-1 tvg-name="Golf Channel SD" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/a4787f0/2147483647/strip/true/crop/304x171+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2F8521681bbea7ad8b97e57cdcc1f2%2Fnew-golf-channel-logo-304.jpg" group-title="-" ,Golf Channel 
+#EXTINF:-1 tvg-name="Golf Channel SD" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/a4787f0/2147483647/strip/true/crop/304x171+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2F8521681bbea7ad8b97e57cdcc1f2%2Fnew-golf-channel-logo-304.jpg" group-title="-" ,Golf Channel SD
 http://186.194.160.110:9002/play/a0hc/index.m3u8
-#EXTINF:-1 tvg-name="Golf Channel SD" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/a4787f0/2147483647/strip/true/crop/304x171+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2F8521681bbea7ad8b97e57cdcc1f2%2Fnew-golf-channel-logo-304.jpg" ,Golf Channel 
+#EXTINF:-1 tvg-name="Golf Channel SD" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/a4787f0/2147483647/strip/true/crop/304x171+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2F8521681bbea7ad8b97e57cdcc1f2%2Fnew-golf-channel-logo-304.jpg" ,Golf Channel SD
 http://45.173.12.70:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-name="Via X Esports SD" ,Via X Esports 
+#EXTINF:-1 tvg-name="Via X Esports SD" ,Via X Esports SD
 http://45.173.12.70:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-name="Via X Esports SD" ,Via X Esports 
+#EXTINF:-1 tvg-name="Via X Esports SD" ,Via X Esports SD
 http://209.14.117.146:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" ,HTV 
+#EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" ,HTV SD
 http://186.194.160.110:9002/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" group-title="-" ,HTV 
+#EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" group-title="-" ,HTV SD
 http://186.194.160.110:9002/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" group-title="-" ,HTV FHD
 http://190.60.34.180:8000/play/a023/index.m3u8
@@ -917,9 +917,9 @@ http://209.14.115.253:8000/play/a00r/index.m3u8
 http://186.194.160.110:9002/play/a07m/index.m3u8
 #EXTINF:-1 tvg-name="Rumba TV FHD" group-title="-" ,Rumba TV FHD
 http://190.60.34.180:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-name="Nick Music SD" tvg-logo="https://dplnews.com/wp-content/uploads/2020/09/dplnews_NickMusic_mc120920.png" group-title="-" ,Nick Music 
+#EXTINF:-1 tvg-name="Nick Music SD" tvg-logo="https://dplnews.com/wp-content/uploads/2020/09/dplnews_NickMusic_mc120920.png" group-title="-" ,Nick Music SD
 http://186.194.160.110:9002/play/a0hp/index.m3u8
-#EXTINF:-1 tvg-name="Nick Music SD" tvg-logo="https://dplnews.com/wp-content/uploads/2020/09/dplnews_NickMusic_mc120920.png" ,Nick Music 
+#EXTINF:-1 tvg-name="Nick Music SD" tvg-logo="https://dplnews.com/wp-content/uploads/2020/09/dplnews_NickMusic_mc120920.png" ,Nick Music SD
 http://190.60.41.107:8008/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-name="La Kalle HD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" ,La Kalle HD
 http://190.60.48.85:9080/play/a1df/index.m3u8
@@ -927,22 +927,22 @@ http://190.60.48.85:9080/play/a1df/index.m3u8
 http://186.194.160.110:9002/play/a011/index.m3u8
 #EXTINF:-1 tvg-name="La Kalle FHD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="-" ,La Kalle FHD
 http://190.60.34.180:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-name="MTV 00s SD" ,MTV 00s 
-http://190.60.41.107:8008/play/a06l/index.m3u8
-#EXTINF:-1 tvg-name="MTV 00s SD" ,MTV 00s 
+#EXTINF:-1 tvg-name="MTV 00s SD" ,MTV 00s SD
 http://148.222.228.3:9000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-name="MTV 00s SD" ,MTV 00s SD
+http://190.60.41.107:8008/play/a06l/index.m3u8
 #EXTINF:-1 tvg-name="MTV 00s FHD" ,MTV 00s FHD
 http://209.14.117.146:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-name="MTV 00s FHD" ,MTV 00s FHD
 http://190.2.213.220:8000/play/a0av/index.m3u8
-#EXTINF:-1 tvg-name="MTV LIVE SD" ,MTV LIVE 
+#EXTINF:-1 tvg-name="MTV LIVE SD" ,MTV LIVE SD
 http://190.60.41.107:8008/play/a06k/index.m3u8
-#EXTINF:-1 tvg-name="MTV LIVE SD" ,MTV LIVE 
-http://8.243.64.201:2025/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE SD" ,MTV LIVE SD
+http://186.148.184.19:8000/play/a0cb/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE FHD" ,MTV LIVE FHD
+http://148.222.228.3:9000/play/a09i/index.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE FHD" ,MTV LIVE FHD
 http://186.194.160.110:9002/play/a0jn/index.m3u8
-#EXTINF:-1 tvg-name="MTV LIVE FHD" ,MTV LIVE FHD
-http://45.173.12.70:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-name="Telehit HD" ,Telehit HD
 http://186.148.175.138:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-name="Telehit FHD" group-title="-" ,Telehit FHD
@@ -951,19 +951,19 @@ http://186.148.178.214:8090/play/a01o/index.m3u8
 http://186.194.160.110:9002/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-name="Bandamax FHD" ,Bandamax FHD
 http://209.14.115.253:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-name="Playboy SD" group-title="-" ,Playboy 
+#EXTINF:-1 tvg-name="Playboy SD" group-title="-" ,Playboy SD
 http://186.194.160.110:9002/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-name="Playboy HD" ,Playboy HD
 http://209.14.117.146:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-name="Playboy HD" ,Playboy HD
 http://186.148.163.18:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-name="Venus SD" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" ,Venus 
+#EXTINF:-1 tvg-name="Venus SD" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" ,Venus SD
 http://186.194.160.110:9002/play/a0h8/index.m3u8
-#EXTINF:-1 tvg-name="Venus SD" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" group-title="-" ,Venus 
+#EXTINF:-1 tvg-name="Venus SD" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" group-title="-" ,Venus SD
 http://186.194.160.110:9002/play/a0i8/index.m3u8
 #EXTINF:-1 tvg-name="Venus FHD" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" group-title="-" ,Venus FHD
 http://24.152.58.11:2968/play/a01c/index.m3u8
-#EXTINF:-1 tvg-name="Sextreme SD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest/scale-to-width-down/287?cb=20110531221305&path-prefix=es" ,Sextreme 
+#EXTINF:-1 tvg-name="Sextreme SD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest/scale-to-width-down/287?cb=20110531221305&path-prefix=es" ,Sextreme SD
 http://186.194.160.110:9002/play/a0h9/index.m3u8
-#EXTINF:-1 tvg-name="Sextreme SD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest/scale-to-width-down/287?cb=20110531221305&path-prefix=es" ,Sextreme 
+#EXTINF:-1 tvg-name="Sextreme SD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest/scale-to-width-down/287?cb=20110531221305&path-prefix=es" ,Sextreme SD
 http://209.14.117.146:8000/play/a05y/index.m3u8
