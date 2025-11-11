@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital 
 http://190.2.213.254:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png" ,Canal Capital 
@@ -564,7 +564,7 @@ http://190.60.34.180:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series 
 http://148.222.228.3:9000/play/a09w/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series 
-http://186.194.160.110:9002/play/a05a/index.m3u8
+http://38.137.198.71:8585/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series FHD
 http://190.61.55.235:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series FHD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/26/7265849_80A656F053F25772.png" ,A3 Series FHD
@@ -727,8 +727,8 @@ http://209.14.117.146:8000/play/a060/index.m3u8
 http://24.152.58.11:2968/play/a00a/index.m3u8
 #EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" ,France 24 
 http://148.222.228.3:9000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,France 24 
-http://186.194.160.110:9002/play/a0ms/index.m3u8
+#EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" ,France 24 
+http://38.137.198.71:8585/play/a04a/index.m3u8
 #EXTINF:-1 tvg-name="CGTN SD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN 
 http://186.194.160.110:9002/play/a07z/index.m3u8
 #EXTINF:-1 tvg-name="CGTN SD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN 
@@ -739,6 +739,8 @@ http://45.181.189.122:8000/play/a03k
 http://200.69.80.179:5050/play/a0td/index.m3u8
 #EXTINF:-1 tvg-name="CCTV 4 FHD" ,CCTV 4 FHD
 http://148.222.228.3:9000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-name="CCTV 4 FHD" ,CCTV 4 FHD
+http://38.137.198.71:8585/play/a04x/index.m3u8
 #EXTINF:-1 tvg-name="RT SD" ,RT 
 http://191.102.90.229:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-name="RT SD" ,RT 
