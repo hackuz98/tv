@@ -3,286 +3,352 @@
 http://190.2.213.254:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" ,Canal Capital 
 http://190.61.55.235:8000/play/a0zd/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital SD" ,Canal Capital 
-http://45.173.12.70:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Capital.co" tvg-name="Canal Capital FHD" ,Canal Capital FHD
+http://181.225.75.153:9086/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV SD" ,City TV 
 http://190.2.213.254:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV SD" ,City TV 
 http://45.173.12.70:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV SD" ,City TV 
-http://209.14.119.206:8000/play/a089/index.m3u8
+#EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV HD" ,City TV HD
+http://181.225.75.153:9086/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="133dtv.co" tvg-name="City TV FHD" group-title="-" ,City TV FHD
+http://190.60.34.180:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia SD" ,Teleantioquia 
 http://190.2.213.254:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia SD" group-title="-" ,Teleantioquia 
 http://190.60.34.180:8000/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia SD" ,Teleantioquia 
-http://45.173.12.70:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="140dtv.co" tvg-name="Teleantioquia HD" ,Teleantioquia HD
+http://45.233.168.222:8000/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe SD" ,Telecaribe 
 http://190.2.213.254:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe SD" group-title="-" ,Telecaribe 
 http://190.60.34.180:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe SD" group-title="-" ,Telecaribe 
-http://190.60.34.180:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe FHD" ,Telecaribe FHD
+http://209.14.115.253:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="142dtv.co" tvg-name="Telecaribe FHD" ,Telecaribe FHD
+http://190.242.61.123:9999/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico SD" ,Telepacifico 
 http://190.2.213.254:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico SD" group-title="-" ,Telepacifico 
 http://190.60.34.180:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico SD" ,Telepacifico 
-http://45.173.12.70:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="141dtv.co" tvg-name="Telepacifico FHD" ,Telepacifico FHD
+http://209.14.115.253:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO SD" ,Canal TRO 
 http://190.2.213.254:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO SD" ,Canal TRO 
 http://45.173.12.70:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO SD" group-title="-" ,Canal TRO 
-http://190.60.34.180:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO HD" ,Canal TRO HD
+http://209.14.115.253:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="Canal.TRO.co" tvg-name="Canal TRO FHD" ,Canal TRO FHD
+http://190.2.213.5:8000/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece SD" ,Canal Trece 
 http://190.2.213.220:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece SD" ,Canal Trece 
 http://191.97.14.162:4000/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece SD" ,Canal Trece 
-http://190.2.213.220:18000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece FHD" ,Canal Trece FHD
+http://45.173.12.70:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece FHD" ,Canal Trece FHD
+http://190.61.55.235:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-name="Telecafe SD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" ,Telecafe 
 http://190.2.213.254:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-name="Telecafe SD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" group-title="-" ,Telecafe 
 http://190.60.34.180:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-name="Telecafe SD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" ,Telecafe 
-http://45.173.12.70:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-name="Telecafe FHD" tvg-logo="https://telecafe.gov.co/wp-content/uploads/2022/12/logo-telecafe.png" ,Telecafe FHD
+http://209.14.115.253:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas SD" ,Teleislas 
 http://45.173.12.70:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas SD" ,Teleislas 
 http://209.14.117.146:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas SD" ,Teleislas 
-http://190.2.213.220:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas FHD" ,Teleislas FHD
+http://209.14.115.253:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele SD" ,Nuestra Tele 
 http://190.60.41.107:8008/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele SD" group-title="-" ,Nuestra Tele 
 http://190.60.34.180:8000/play/a025/index.m3u8
-#EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele SD" ,Nuestra Tele 
-http://45.173.12.70:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="135dtv.co" tvg-name="Nuestra Tele FHD" ,Nuestra Tele FHD
+http://177.93.38.108:8000/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas SD" ,RCN Novelas 
 http://190.2.213.254:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas SD" ,RCN Novelas 
 http://148.222.228.3:9000/play/a048/index.m3u8
-#EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas SD" ,RCN Novelas 
-http://209.14.119.206:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="977mvstr.co" tvg-name="RCN Novelas FHD" group-title="-" ,RCN Novelas FHD
+http://190.60.34.180:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN SD" ,RCN 
 http://190.61.55.235:8000/play/a13h/index.m3u8
 #EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN SD" ,RCN 
 http://190.2.213.254:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN SD" ,RCN 
-http://190.60.41.107:8008/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN HD" ,RCN HD
+http://186.148.181.148:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="130dtv.co" tvg-name="RCN HD" ,RCN HD
+http://186.148.181.149:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-name="RCN 2 FHD" ,RCN 2 FHD
 http://190.2.213.254:8000/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-name="RCN 2 FHD" ,RCN 2 FHD
 http://190.61.55.235:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-name="RCN 2 FHD" ,RCN 2 FHD
 http://177.93.41.82:7000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-name="RCN 2 FHD" ,RCN 2 FHD
+http://186.194.160.110:9002/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol SD" ,Caracol 
 http://190.61.55.235:8000/play/a102/index.m3u8
 #EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol SD" group-title="-" ,Caracol 
 http://190.2.213.254:8000/play/a0gp/index.m3u8
-#EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol SD" ,Caracol 
-http://190.60.41.107:8008/play/a07v/index.m3u8
+#EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol HD" ,Caracol HD
+http://186.148.181.148:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-id="132dtv.co" tvg-name="Caracol HD" ,Caracol HD
+http://186.148.181.149:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-name="Caracol 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/200?cb=20210218135243&path-prefix=es" ,Caracol 2 FHD
 http://190.61.55.235:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-name="Caracol 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/200?cb=20210218135243&path-prefix=es" ,Caracol 2 FHD
 http://186.194.160.110:9002/play/a010/index.m3u8
 #EXTINF:-1 tvg-name="Caracol 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/200?cb=20210218135243&path-prefix=es" ,Caracol 2 FHD
 http://190.242.61.123:9999/play/a0ko/index.m3u8
+#EXTINF:-1 tvg-name="Caracol 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/200?cb=20210218135243&path-prefix=es" ,Caracol 2 FHD
+http://190.242.61.122:9999/play/a0ko/index.m3u8
 #EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno SD" ,Canal Uno 
 http://190.2.213.254:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno SD" ,Canal Uno 
 http://148.222.228.3:9000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno SD" group-title="-" ,Canal Uno 
-http://190.60.34.180:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno FHD" ,Canal Uno FHD
+http://190.242.61.123:9999/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-id="136dtv.co" tvg-name="Canal Uno FHD" ,Canal Uno FHD
+http://190.242.61.122:9999/play/a0ki/index.m3u8
 #EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia SD" ,Senal Colombia 
 http://190.2.213.254:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia SD" group-title="-" ,Senal Colombia 
 http://190.60.34.180:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia SD" ,Senal Colombia 
-http://45.173.12.70:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia FHD" ,Senal Colombia FHD
+http://190.242.61.123:9999/play/a0kg/index.m3u8
+#EXTINF:-1 tvg-id="137dtv.co" tvg-name="Senal Colombia FHD" ,Senal Colombia FHD
+http://190.242.61.122:9999/play/a0kg/index.m3u8
 #EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional SD" ,Canal Institucional 
 http://190.2.213.254:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional SD" ,Canal Institucional 
 http://45.173.12.70:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional SD" ,Canal Institucional 
-http://190.61.55.235:8000/play/a0afXC/index.m3u8
+#EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional FHD" ,Canal Institucional FHD
+http://190.242.61.123:9999/play/a0kh/index.m3u8
+#EXTINF:-1 tvg-id="138dtv.co" tvg-name="Canal Institucional FHD" ,Canal Institucional FHD
+http://190.242.61.122:9999/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-name="Canal Congreso SD" ,Canal Congreso 
 http://190.2.213.254:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-name="Canal Congreso SD" ,Canal Congreso 
 http://190.61.55.235:8000/play/a0zy/index.m3u8
 #EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-name="Canal Congreso SD" ,Canal Congreso 
 http://45.173.12.70:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-name="Canal Congreso SD" group-title="-" ,Canal Congreso 
+http://190.60.34.180:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Zoom.co" tvg-name="Zoom SD" ,Zoom 
 http://209.14.119.206:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Zoom.co" tvg-name="Zoom SD" ,Zoom 
 http://177.93.41.82:7000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Zoom.co" tvg-name="Zoom SD" ,Zoom 
 http://191.102.115.172:11011/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Zoom.co" tvg-name="Zoom SD" ,Zoom 
+http://191.97.6.30:8000/play/a0hg/index.m3u8
 #EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids SD" ,Discovery Kids 
 http://190.60.41.107:8008/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids SD" ,Discovery Kids 
 http://209.14.119.206:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids SD" ,Discovery Kids 
-http://177.93.41.82:7000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids FHD" ,Discovery Kids FHD
+http://190.2.213.254:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="330dtv.co" tvg-name="Discovery Kids FHD" ,Discovery Kids FHD
+http://148.222.228.3:9000/play/a09x/index.m3u8
 #EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney SD" ,Disney 
 http://190.2.213.254:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney SD" ,Disney 
 http://190.60.41.107:8008/play/a0ne/index.m3u8
-#EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney SD" ,Disney 
-http://209.14.119.206:8000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney FHD" ,Disney FHD
+http://148.222.228.3:9000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="314dtv.co" tvg-name="Disney FHD" ,Disney FHD
+http://190.60.41.107:8008/play/a0in/index.m3u8
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr SD" ,Disney Jr 
 http://190.60.41.107:8008/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr SD" ,Disney Jr 
 http://190.61.55.235:8000/play/a07x/index.m3u8
-#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr SD" ,Disney Jr 
-http://45.173.12.70:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-name="Disney Jr FHD" group-title="-" ,Disney Jr FHD
+http://24.152.58.11:2968/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick SD" ,Nick 
 http://190.60.41.107:8008/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick SD" ,Nick 
 http://177.93.41.82:7000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick SD" ,Nick 
-http://191.102.115.172:11011/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick FHD" ,Nick FHD
+http://148.222.228.3:9000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nick FHD" ,Nick FHD
+http://190.60.41.107:8008/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr SD" ,Nick Jr 
 http://190.2.213.254:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr SD" ,Nick Jr 
 http://190.60.41.107:8008/play/a0ou/index.m3u8
-#EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr SD" ,Nick Jr 
-http://45.173.12.70:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-name="Nick Jr FHD" group-title="-" ,Nick Jr FHD
+http://190.60.34.180:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network SD" ,Cartoon Network 
 http://148.222.228.3:9000/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network SD" ,Cartoon Network 
 http://190.60.41.107:8008/play/a0pj/index.m3u8
-#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network SD" ,Cartoon Network 
-http://45.173.12.70:8000/play/a07w/index.m3u8
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network FHD" group-title="-" ,Cartoon Network FHD
+http://190.2.213.254:8000/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-name="Cartoon Network FHD" ,Cartoon Network FHD
+http://190.60.41.107:8008/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito SD" ,Cartoonito 
 http://190.60.41.107:8008/play/a0mj/index.m3u8
 #EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito SD" ,Cartoonito 
 http://45.173.12.70:8000/play/a07i/index.m3u8
-#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito SD" ,Cartoonito 
-http://190.61.55.235:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="334dtv.cl" tvg-name="Cartoonito FHD" ,Cartoonito FHD
+http://190.60.34.180:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast SD" ,Tooncast 
 http://190.60.41.107:8008/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast SD" ,Tooncast 
 http://190.61.55.235:8000/play/a0bu/index.m3u8
-#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast SD" ,Tooncast 
-http://45.173.12.70:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast HD" ,Tooncast HD
+http://209.14.115.253:8000/play/a08i/index.m3u8
+#EXTINF:-1 tvg-id="tooncast.ar" tvg-name="Tooncast FHD" group-title="-" ,Tooncast FHD
+http://190.60.34.180:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV SD" ,Baby TV 
 http://190.61.55.235:8000/play/a100/index.m3u8
 #EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV SD" ,Baby TV 
 http://190.60.41.107:8008/play/a0mi/index.m3u8
-#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV SD" ,Baby TV 
-http://45.173.12.70:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="Baby TV HD" group-title="-" ,Baby TV HD
+http://190.60.34.180:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-name="Baby First SD" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" ,Baby First 
 http://190.60.41.107:8008/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-name="Baby First SD" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" ,Baby First 
 http://209.14.119.206:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-name="Baby First SD" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" ,Baby First 
 http://209.14.117.146:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-name="Baby First SD" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png" ,Baby First 
+http://177.93.41.82:7000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health SD" ,Discovery Home & Health 
 http://190.2.213.254:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health SD" ,Discovery Home & Health 
 http://148.222.228.3:9000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health SD" ,Discovery Home & Health 
-http://177.93.41.82:7000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health FHD" ,Discovery Home & Health FHD
+http://190.60.41.107:8008/play/a0j2/index.m3u8
+#EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health FHD" ,Discovery Home & Health FHD
+http://45.173.12.70:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC SD" ,TLC 
 http://190.2.213.254:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC SD" ,TLC 
 http://190.60.41.107:8008/play/a0nm/index.m3u8
-#EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC SD" ,TLC 
-http://45.173.12.70:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC HD" group-title="-" ,TLC HD
+http://190.60.34.180:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! SD" ,E! 
 http://190.60.41.107:8008/play/a0nh/index.m3u8
 #EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! SD" ,E! 
 http://190.61.55.235:8000/play/a0an/index.m3u8
-#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! SD" group-title="-" ,E! 
-http://190.60.34.180:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! FHD" ,E! FHD
+http://186.194.160.110:9002/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV SD" ,HGTV 
 http://190.60.41.107:8008/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV SD" ,HGTV 
 http://209.14.117.146:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV SD" ,HGTV 
 http://191.102.90.229:8000/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="hgtv.ar" tvg-name="HGTV SD" ,HGTV 
+http://191.102.90.224:8000/play/a0dv/index.m3u8
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-name="Food Network SD" ,Food Network 
 http://190.60.41.107:8008/play/a0i5/index.m3u8
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-name="Food Network SD" ,Food Network 
 http://190.61.55.235:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-name="Food Network SD" ,Food Network 
 http://209.14.117.146:8000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-name="Food Network SD" ,Food Network 
+http://191.102.90.229:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-name="Discovery World FHD" ,Discovery World FHD
 http://148.222.228.3:9000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-name="Discovery World FHD" ,Discovery World FHD
 http://190.60.41.107:8008/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-name="Discovery World FHD" ,Discovery World FHD
 http://190.61.55.235:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="1738dtv.cl" tvg-name="Discovery World FHD" ,Discovery World FHD
+http://45.173.12.70:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="8552mvstr.pe" tvg-name="WOBI SD" ,WOBI 
 http://186.194.160.110:9002/play/a0ln/index.m3u8
 #EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo SD" ,Telemundo 
 http://190.2.213.254:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo SD" ,Telemundo 
 http://190.60.41.107:8008/play/a0nq/index.m3u8
-#EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo SD" group-title="-" ,Telemundo 
-http://190.60.34.180:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="942mvstr.co" tvg-name="Telemundo FHD" ,Telemundo FHD
+http://186.194.160.110:9002/play/a0l3/index.m3u8
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-name="Antena 3 SD" ,Antena 3 
 http://209.14.117.146:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-name="Antena 3 SD" ,Antena 3 
 http://191.97.14.162:4000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-name="Antena 3 SD" ,Antena 3 
 http://186.194.160.110:9002/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="762dtv.cl" tvg-name="Antena 3 SD" ,Antena 3 
+http://8.243.64.201:2025/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-name="El Trece SD" ,El Trece 
 http://209.14.117.146:8000/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-name="El Trece SD" group-title="-" ,El Trece 
 http://186.148.178.214:8090/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-name="El Trece SD" ,El Trece 
 http://181.78.21.162:9080/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-name="El Trece SD" ,El Trece 
+http://200.69.80.179:5050/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas SD" ,Las estrellas 
 http://181.224.162.154:2897/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas SD" ,Las estrellas 
 http://190.60.34.227:6480/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas SD" ,Las estrellas 
-http://200.69.80.179:5050/play/a0wg/index.m3u8
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas FHD" ,Las estrellas FHD
+http://148.222.228.3:9000/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-name="Las estrellas FHD" ,Las estrellas FHD
+http://190.60.41.107:8008/play/a0ln/index.m3u8
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas SD" ,Tlnovelas 
 http://190.60.41.107:8008/play/a0j8/index.m3u8
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas SD" ,Tlnovelas 
 http://45.173.12.70:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas SD" ,Tlnovelas 
-http://209.14.119.206:8000/play/ao5r/index.m3u8
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas FHD" group-title="-" ,Tlnovelas FHD
+http://190.60.34.180:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="Tlnovelas FHD" ,Tlnovelas FHD
+http://209.14.115.253:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones SD" ,Pasiones 
 http://190.60.41.107:8008/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones SD" ,Pasiones 
 http://191.97.9.94:8000/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones SD" ,Pasiones 
-http://186.148.181.148:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones FHD" ,Pasiones FHD
+http://148.222.228.3:9000/play/a09z/index.m3u8
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="Pasiones FHD" ,Pasiones FHD
+http://190.60.41.107:8008/play/a0lu/index.m3u8
 #EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film&Arts SD" ,Film&Arts 
 http://190.60.41.107:8008/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film&Arts SD" ,Film&Arts 
 http://190.61.55.235:8000/play/a0ja/index.m3u8
 #EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film&Arts SD" ,Film&Arts 
 http://190.61.55.235:8000/play/a0tn/index.m3u8
+#EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film&Arts SD" ,Film&Arts 
+http://209.14.117.146:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula SD" ,Dpelicula 
 http://190.60.41.107:8008/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula SD" ,Dpelicula 
 http://45.173.12.70:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula SD" ,Dpelicula 
-http://209.14.117.146:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula FHD" group-title="-" ,Dpelicula FHD
+http://190.60.34.180:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="Dpelicula FHD" ,Dpelicula FHD
+http://186.194.160.110:9002/play/a0gn/index.m3u8
 #EXTINF:-1 tvg-id="551" tvg-name="Golden Latino SD" ,Golden Latino 
 http://190.60.41.107:8008/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="551" tvg-name="Golden Latino SD" ,Golden Latino 
 http://45.173.12.70:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="551" tvg-name="Golden Latino SD" ,Golden Latino 
-http://177.93.41.82:7000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="551" tvg-name="Golden Latino FHD" group-title="-" ,Golden Latino FHD
+http://190.60.34.180:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="551" tvg-name="Golden Latino FHD" ,Golden Latino FHD
+http://186.194.160.110:9002/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge SD" ,Golden Edge 
 http://190.60.41.107:8008/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge SD" ,Golden Edge 
 http://45.173.12.70:8000/play/a037/index.m3u8
-#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge SD" ,Golden Edge 
-http://209.14.117.146:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge FHD" ,Golden Edge FHD
+http://190.61.55.235:8000/play/a0tl/index.m3u8
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge FHD" group-title="-" ,Golden Edge FHD
+http://190.60.34.180:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="760dtv.cl" tvg-name="Univision FHD" group-title="-" ,Univision FHD
 http://190.60.34.180:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="760dtv.cl" tvg-name="Univision FHD" ,Univision FHD
 http://186.148.175.138:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="760dtv.cl" tvg-name="Univision FHD" ,Univision FHD
 http://186.194.160.110:9002/play/a0gj/index.m3u8
+#EXTINF:-1 tvg-id="760dtv.cl" tvg-name="Univision FHD" group-title="-" ,Univision FHD
+http://24.152.58.11:2968/play/a012/index.m3u8
 #EXTINF:-1 tvg-name="Bitme FHD" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/FGLRGVOCCRKS7HM4UBKQ7VOM74.jpg?auth=f71032f6e53d61c91b96244dbc6c22c41f7f9679340cefc7884254e760539df2&width=1200&height=1200&smart=true" ,Bitme FHD
 http://186.194.160.110:9002/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-name="Bitme FHD" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/FGLRGVOCCRKS7HM4UBKQ7VOM74.jpg?auth=f71032f6e53d61c91b96244dbc6c22c41f7f9679340cefc7884254e760539df2&width=1200&height=1200&smart=true" ,Bitme FHD
@@ -299,48 +365,62 @@ http://186.194.160.110:9002/play/a0fo/index.m3u8
 http://186.148.178.214:8090/play/a015/index.m3u8
 #EXTINF:-1 tvg-name="Hogar TV FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mWLsllzA61pju1PBQxrdxcoCRymD4_N-n7YuYDU8-q5w=s900-c-k-c0x00ffffff-no-rj" ,Hogar TV FHD
 http://186.148.181.152:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-name="Hogar TV FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mWLsllzA61pju1PBQxrdxcoCRymD4_N-n7YuYDU8-q5w=s900-c-k-c0x00ffffff-no-rj" ,Hogar TV FHD
+http://186.148.181.147:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia SD" ,Distrito Comedia 
 http://190.60.41.107:8008/play/a0c6/index.m3u8
 #EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia SD" ,Distrito Comedia 
 http://45.173.12.70:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia SD" ,Distrito Comedia 
-http://209.14.117.146:8000/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia FHD" ,Distrito Comedia FHD
+http://186.194.160.110:9002/play/a0go/index.m3u8
+#EXTINF:-1 tvg-id="629" tvg-name="Distrito Comedia FHD" group-title="-" ,Distrito Comedia FHD
+http://24.152.58.11:2968/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet SD" ,Animal Planet 
 http://190.2.213.254:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet SD" ,Animal Planet 
 http://190.60.41.107:8008/play/a0ng/index.m3u8
-#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet SD" ,Animal Planet 
-http://209.14.119.206:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet HD" ,Animal Planet HD
+http://190.60.34.180:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-name="Animal Planet FHD" ,Animal Planet FHD
+http://148.222.228.3:9000/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature SD" ,Love Nature 
 http://190.60.41.107:8008/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature SD" ,Love Nature 
 http://190.61.55.235:8000/play/a06m/index.m3u8
-#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature SD" ,Love Nature 
-http://45.173.12.70:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="Love Nature FHD" ,Love Nature FHD
+http://209.14.115.253:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery SD" ,Discovery 
 http://190.2.213.254:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery SD" ,Discovery 
 http://190.60.41.107:8008/play/a0nf/index.m3u8
-#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery SD" ,Discovery 
-http://191.97.14.162:4000/play/a08u/index.m3u8
+#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery FHD" ,Discovery FHD
+http://148.222.228.3:9000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="732dtv.co" tvg-name="Discovery FHD" ,Discovery FHD
+http://190.60.41.107:8008/play/a0ij/index.m3u8
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater FHD" ,Discovery Theater FHD
 http://148.222.228.3:9000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater FHD" ,Discovery Theater FHD
 http://190.60.41.107:8008/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater FHD" ,Discovery Theater FHD
 http://190.61.55.235:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater FHD" ,Discovery Theater FHD
+http://45.173.12.70:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo SD" ,Discovery Turbo 
 http://190.2.213.254:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo SD" ,Discovery Turbo 
 http://190.60.41.107:8008/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo SD" ,Discovery Turbo 
-http://190.61.55.235:8000/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo HD" group-title="-" ,Discovery Turbo HD
+http://190.60.34.180:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo HD" group-title="-" ,Discovery Turbo HD
+http://190.60.34.180:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO SD" ,NAT GEO 
 http://190.60.41.107:8008/play/a0nu/index.m3u8
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO SD" ,NAT GEO 
 http://45.173.12.70:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO SD" ,NAT GEO 
-http://209.14.119.206:8000/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO FHD" ,NAT GEO FHD
+http://190.2.213.254:8000/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-name="NAT GEO FHD" ,NAT GEO FHD
+http://148.222.228.3:9000/play/a09e/index.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest?cb=20210818143837" ,CGTN Documentary 
 http://191.97.15.194:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest?cb=20210818143837" group-title="-" ,CGTN Documentary FHD
@@ -349,32 +429,42 @@ http://45.181.189.122:8000/play/a03l
 http://190.60.41.107:8008/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History SD" ,History 
 http://209.14.119.206:8000/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History SD" ,History 
-http://177.93.41.82:7000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History FHD" ,History FHD
+http://190.2.213.254:8000/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="History FHD" ,History FHD
+http://148.222.228.3:9000/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science SD" ,Discovery Science 
 http://190.2.213.254:8000/play/a0ex/index.m3u8
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science SD" ,Discovery Science 
 http://190.60.41.107:8008/play/a0i4/index.m3u8
-#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science SD" ,Discovery Science 
-http://190.61.55.235:8000/play/a0w9/index.m3u8
+#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science HD" ,Discovery Science HD
+http://186.31.37.99:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science FHD" ,Discovery Science FHD
+http://186.148.175.138:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 SD" ,H2 
 http://190.60.41.107:8008/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 SD" ,H2 
 http://190.61.55.235:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 SD" ,H2 
-http://45.173.12.70:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 FHD" group-title="-" ,H2 FHD
+http://190.60.34.180:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="H2 FHD" ,H2 FHD
+http://190.61.55.235:8000/play/a0zl/index.m3u8
 #EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT SD" ,TNT 
 http://190.60.41.107:8008/play/a0ph/index.m3u8
 #EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT SD" ,TNT 
 http://191.97.15.250:45000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT SD" ,TNT 
-http://191.97.9.94:8000/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT FHD" ,TNT FHD
+http://148.222.228.3:9000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="502dtv.co" tvg-name="TNT FHD" ,TNT FHD
+http://190.60.41.107:8008/play/a0go/index.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies SD" ,Sony Movies 
 http://190.2.213.254:8000/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies SD" ,Sony Movies 
 http://190.60.41.107:8008/play/a0cd/index.m3u8
-#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies SD" ,Sony Movies 
-http://190.61.55.235:8000/play/a0xj123/index.m3u8
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies FHD" group-title="-" ,Sony Movies FHD
+http://190.60.34.180:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies FHD" ,Sony Movies FHD
+http://190.61.55.235:8000/play/a0xj/index.m3u8
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-name="Paramount Network SD" ,Paramount Network 
 http://209.14.115.253:8000/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-name="Paramount Network FHD" ,Paramount Network FHD
@@ -385,92 +475,120 @@ http://148.222.228.3:9000/play/a05w/index.m3u8
 http://190.2.213.254:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space SD" ,Space 
 http://190.60.41.107:8008/play/a0pi/index.m3u8
-#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space SD" ,Space 
-http://209.14.119.206:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space FHD" ,Space FHD
+http://148.222.228.3:9000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="518dtv.cl" tvg-name="Space FHD" ,Space FHD
+http://190.60.41.107:8008/play/a0im/index.m3u8
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal SD" ,CineCanal 
 http://190.60.41.107:8008/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal SD" ,CineCanal 
 http://209.14.119.206:8000/play/a06m/index.m3u8
-#EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal SD" ,CineCanal 
-http://177.93.41.82:7000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal FHD" ,CineCanal FHD
+http://190.2.213.254:8000/play/a0gg/index.m3u8
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="CineCanal FHD" ,CineCanal FHD
+http://148.222.228.3:9000/play/a09l/index.m3u8
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax SD" ,Cinemax 
 http://148.222.228.3:9000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax SD" ,Cinemax 
 http://190.60.41.107:8008/play/a0oo/index.m3u8
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax SD" ,Cinemax 
 http://190.61.55.235:8000/play/a09o/index.m3u8
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax SD" ,Cinemax 
+http://45.173.12.70:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal SD" ,Studio Universal 
 http://209.14.119.206:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal SD" ,Studio Universal 
 http://177.93.41.82:7000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal SD" ,Studio Universal 
-http://191.102.115.172:11011/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal FHD" ,Studio Universal FHD
+http://148.222.228.3:9000/play/a09o/index.m3u8
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-name="Studio Universal FHD" ,Studio Universal FHD
+http://190.60.41.107:8008/play/a0n2/index.m3u8
 #EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover SD" ,Clover 
 http://190.60.41.107:8008/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover SD" ,Clover 
 http://45.173.12.70:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover SD" ,Clover 
 http://209.14.117.146:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover SD" ,Clover 
+http://191.102.90.229:8000/play/a0ei/index.m3u8
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM SD" ,TCM 
 http://190.60.41.107:8008/play/a0o0/index.m3u8
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM SD" group-title="-" ,TCM 
 http://190.60.34.180:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM SD" ,TCM 
-http://209.14.119.206:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM FHD" ,TCM FHD
+http://190.61.55.235:8000/play/a0zn/index.m3u8
 #EXTINF:-1 tvg-id="clarocinema.cl" tvg-name="Claro Cinema SD" ,Claro Cinema 
 http://209.14.119.206:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="clarocinema.cl" tvg-name="Claro Cinema SD" ,Claro Cinema 
 http://186.148.163.18:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="clarocinema.cl" tvg-name="Claro Cinema SD" ,Claro Cinema 
 http://190.2.213.5:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="clarocinema.cl" tvg-name="Claro Cinema SD" group-title="-" ,Claro Cinema 
+http://181.63.102.150:8000/play/a1kv/index.m3u8
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID SD" ,ID 
 http://190.2.213.254:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID SD" ,ID 
 http://209.14.119.206:8000/play/a07u/index.m3u8
-#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID SD" ,ID 
-http://177.93.41.82:7000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID FHD" ,ID FHD
+http://148.222.228.3:9000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-name="ID FHD" ,ID FHD
+http://190.60.41.107:8008/play/a0lv/index.m3u8
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel SD" ,Warner Channel 
 http://177.93.41.82:7000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel SD" ,Warner Channel 
 http://191.97.15.250:45000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel SD" ,Warner Channel 
-http://186.148.163.18:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel FHD" ,Warner Channel FHD
+http://148.222.228.3:9000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel FHD" ,Warner Channel FHD
+http://190.60.41.107:8008/play/a0il/index.m3u8
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony SD" ,Sony 
 http://177.93.41.82:7000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony SD" ,Sony 
 http://191.97.14.162:4000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony SD" ,Sony 
-http://186.148.163.18:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony FHD" ,Sony FHD
+http://148.222.228.3:9000/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="Sony FHD" ,Sony FHD
+http://190.60.41.107:8008/play/a0gp/index.m3u8
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central SD" ,Comedy Central 
 http://45.173.12.70:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central SD" group-title="-" ,Comedy Central 
 http://186.194.160.110:9002/play/a0ls/index.m3u8
-#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central SD" ,Comedy Central 
-http://190.60.34.227:6480/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central FHD" ,Comedy Central FHD
+http://148.222.228.3:9000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="Comedy Central FHD" ,Comedy Central FHD
+http://190.60.41.107:8008/play/a0d7/index.m3u8
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" ,USA 
 http://190.60.41.107:8008/play/a0o6/index.m3u8
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" ,USA 
 http://45.173.12.70:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA SD" ,USA 
-http://209.14.117.146:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA FHD" group-title="-" ,USA FHD
+http://190.60.34.180:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-name="USA FHD" ,USA FHD
+http://186.194.160.110:9002/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E SD" ,A&E 
 http://190.60.41.107:8008/play/a0nl/index.m3u8
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E SD" ,A&E 
 http://177.93.41.82:7000/play/a02i/index.m3u8
-#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E SD" ,A&E 
-http://186.148.163.18:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E FHD" ,A&E FHD
+http://148.222.228.3:9000/play/a08l/index.m3u8
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E FHD" ,A&E FHD
+http://190.60.41.107:8008/play/a0d6/index.m3u8
 #EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN SD" ,AXN 
 http://190.2.213.254:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN SD" ,AXN 
 http://190.60.41.107:8008/play/a0oq/index.m3u8
-#EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN SD" ,AXN 
-http://209.14.119.206:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN FHD" ,AXN FHD
+http://148.222.228.3:9000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="AXN FHD" ,AXN FHD
+http://190.60.41.107:8008/play/a0kc/index.m3u8
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX SD" ,FX 
 http://190.60.41.107:8008/play/a0os/index.m3u8
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX SD" ,FX 
 http://209.14.119.206:8000/play/a08g/index.m3u8
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX SD" ,FX 
-http://177.93.41.82:7000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX FHD" ,FX FHD
+http://148.222.228.3:9000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX FHD" ,FX FHD
+http://190.60.41.107:8008/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC SD" ,AMC 
 http://200.69.80.179:5050/play/a0wt/index.m3u8
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-name="AMC FHD" ,AMC FHD
@@ -481,68 +599,90 @@ http://190.60.41.107:8008/play/a0dh/index.m3u8
 http://190.60.41.107:8008/play/a0nz/index.m3u8
 #EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star SD" ,Star 
 http://209.14.119.206:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star SD" ,Star 
-http://177.93.41.82:7000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star FHD" ,Star FHD
+http://190.2.213.254:8000/play/a0f9/index.m3u8
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="Star FHD" ,Star FHD
+http://148.222.228.3:9000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="https://e7.pngegg.com/pngimages/949/572/png-clipart-eurochannel-television-channel-television-show-euro-channel-channel-television-blue.png" ,Eurochannel 
 http://190.61.55.235:8000/play/a0vo/index.m3u8
 #EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="https://e7.pngegg.com/pngimages/949/572/png-clipart-eurochannel-television-channel-television-show-euro-channel-channel-television-blue.png" ,Eurochannel 
 http://45.173.12.70:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="https://e7.pngegg.com/pngimages/949/572/png-clipart-eurochannel-television-channel-television-show-euro-channel-channel-television-blue.png" ,Eurochannel 
 http://209.14.117.146:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-name="Eurochannel SD" tvg-logo="https://e7.pngegg.com/pngimages/949/572/png-clipart-eurochannel-television-channel-television-show-euro-channel-channel-television-blue.png" ,Eurochannel 
+http://191.102.90.229:8000/play/a0c4/index.m3u8
 #EXTINF:-1 tvg-id="561" tvg-name="Adult Swim SD" ,Adult Swim 
 http://190.60.41.107:8008/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-id="561" tvg-name="Adult Swim SD" ,Adult Swim 
 http://45.173.12.70:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="561" tvg-name="Adult Swim SD" ,Adult Swim 
 http://209.14.115.253:8000/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-id="561" tvg-name="Adult Swim SD" ,Adult Swim 
+http://209.14.117.146:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series SD" ,TNT Series 
 http://190.242.61.123:9999/play/a0qi/index.m3u8
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series SD" ,TNT Series 
 http://190.242.61.122:9999/play/a0qi/index.m3u8
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series FHD" ,TNT Series FHD
 http://190.60.41.107:8008/play/a0j7/index.m3u8
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="TNT Series FHD" group-title="-" ,TNT Series FHD
+http://190.60.34.180:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" ,A3 Series 
 http://148.222.228.3:9000/play/a09w/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" ,A3 Series 
 http://38.137.198.71:8585/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series SD" ,A3 Series 
-http://186.194.160.110:9002/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series FHD" ,A3 Series FHD
+http://190.61.55.235:8000/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series FHD" ,A3 Series FHD
+http://45.173.12.70:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV SD" ,MTV 
 http://190.60.41.107:8008/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV SD" ,MTV 
 http://209.14.119.206:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV SD" ,MTV 
-http://177.93.41.82:7000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV FHD" ,MTV FHD
+http://148.222.228.3:9000/play/a080/index.m3u8
+#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV FHD" ,MTV FHD
+http://190.60.41.107:8008/play/a0di/index.m3u8
 #EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime SD" ,Lifetime 
 http://190.60.41.107:8008/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime SD" ,Lifetime 
 http://45.173.12.70:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime SD" ,Lifetime 
-http://209.14.119.206:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime FHD" group-title="-" ,Lifetime FHD
+http://190.60.34.180:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="228dtv.cl" tvg-name="Lifetime FHD" ,Lifetime FHD
+http://186.194.160.110:9002/play/a0kv/index.m3u8
 #EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas SD" ,TNT Novelas 
 http://148.222.228.3:9000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas SD" ,TNT Novelas 
 http://209.14.119.206:8000/play/a07v/index.m3u8
-#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas SD" ,TNT Novelas 
-http://177.93.41.82:7000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas FHD" ,TNT Novelas FHD
+http://148.222.228.3:9000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-name="TNT Novelas FHD" ,TNT Novelas FHD
+http://190.60.41.107:8008/play/a0kd/index.m3u8
 #EXTINF:-1 tvg-id="507" tvg-name="CINE FAMILIAR HD" group-title="-" ,CINE FAMILIAR HD
 http://190.60.34.180:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="507" tvg-name="CINE FAMILIAR HD" ,CINE FAMILIAR HD
 http://190.2.213.220:8000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="507" tvg-name="CINE FAMILIAR HD" ,CINE FAMILIAR HD
 http://191.102.90.226:8000/play/CINEFAMILIAR/index.m3u8
+#EXTINF:-1 tvg-id="507" tvg-name="CINE FAMILIAR HD" ,CINE FAMILIAR HD
+http://152.231.30.108:8000/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1 tvg-id="506" tvg-name="CINE PREMIUM HD" group-title="-" ,CINE PREMIUM HD
 http://190.60.34.180:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="506" tvg-name="CINE PREMIUM HD" ,CINE PREMIUM HD
 http://190.2.213.220:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="506" tvg-name="CINE PREMIUM HD" ,CINE PREMIUM HD
 http://191.102.90.229:8000/play/CINEPREMIUM/index.m3u8
+#EXTINF:-1 tvg-id="506" tvg-name="CINE PREMIUM HD" ,CINE PREMIUM HD
+http://191.102.90.224:8000/play/CINEPREMIUM/index.m3u8
 #EXTINF:-1 tvg-id="508" tvg-name="CINE HISPANO HD" group-title="-" ,CINE HISPANO HD
 http://190.60.34.180:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="508" tvg-name="CINE HISPANO HD" ,CINE HISPANO HD
 http://190.2.213.220:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="508" tvg-name="CINE HISPANO HD" ,CINE HISPANO HD
 http://191.102.90.229:8000/play/CINEHISPANO/index.m3u8
+#EXTINF:-1 tvg-id="508" tvg-name="CINE HISPANO HD" ,CINE HISPANO HD
+http://191.102.90.224:8000/play/CINEHISPANO/index.m3u8
 #EXTINF:-1 tvg-id="535" tvg-name="FMH KIDS HD" group-title="-" ,FMH KIDS HD
 http://186.148.178.214:8090/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="504" tvg-name="FMH MOVIES HD" group-title="-" ,FMH MOVIES HD
@@ -563,98 +703,128 @@ http://190.242.61.123:9999/play/a0kv/index.m3u8
 http://190.60.41.107:8008/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV SD" ,Universal TV 
 http://209.14.119.206:8000/play/a06n/index.m3u8
-#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV SD" ,Universal TV 
-http://209.14.117.146:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV FHD" ,Universal TV FHD
+http://148.222.228.3:9000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="218dtv.co" tvg-name="Universal TV FHD" ,Universal TV FHD
+http://190.60.41.107:8008/play/a0l3/index.m3u8
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-name="Universal Premiere Este SD" ,Universal Premiere Este 
 http://209.14.119.206:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-name="Universal Premiere Este SD" ,Universal Premiere Este 
 http://209.14.117.146:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-name="Universal Premiere Este SD" ,Universal Premiere Este 
 http://191.97.15.250:45000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-id="571dtv.cl" tvg-name="Universal Premiere Este SD" ,Universal Premiere Este 
+http://186.148.163.18:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="Universal Cinema Este SD" ,Universal Cinema Este 
 http://209.14.119.206:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="Universal Cinema Este SD" ,Universal Cinema Este 
 http://209.14.117.146:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="Universal Cinema Este SD" ,Universal Cinema Este 
 http://191.97.15.250:45000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="Universal Cinema Este SD" ,Universal Cinema Este 
+http://186.148.163.18:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="Universal Comedy SD" ,Universal Comedy 
 http://209.14.119.206:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="Universal Comedy SD" ,Universal Comedy 
 http://209.14.117.146:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="Universal Comedy SD" ,Universal Comedy 
 http://191.97.15.250:45000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="Universal Comedy SD" ,Universal Comedy 
+http://186.148.163.18:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO SD" ,HBO 
 http://191.97.14.162:4000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO SD" ,HBO 
 http://186.194.160.110:9002/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO SD" group-title="-" ,HBO 
-http://181.143.18.45:8002/play/a075/index.m3u8
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO FHD" ,HBO FHD
+http://190.2.213.254:8000/play/a0g7/index.m3u8
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO FHD" ,HBO FHD
+http://148.222.228.3:9000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO Chile SD" ,HBO Chile 
 http://209.14.119.206:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO Chile SD" ,HBO Chile 
 http://191.97.15.250:45000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO Chile SD" ,HBO Chile 
 http://186.148.163.18:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="HBO Chile SD" ,HBO Chile 
+http://190.2.213.5:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 SD" ,HBO 2 
 http://190.2.213.254:8000/play/a0g4/index.m3u8
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 SD" ,HBO 2 
 http://190.61.55.235:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 SD" ,HBO 2 
 http://45.173.12.70:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="HBO 2 SD" ,HBO 2 
+http://209.14.119.206:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus SD" ,HBO Plus 
 http://190.61.55.235:8000/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus SD" ,HBO Plus 
 http://45.173.12.70:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus SD" ,HBO Plus 
 http://209.14.119.206:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="HBO Plus SD" ,HBO Plus 
+http://209.14.117.146:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family SD" ,HBO Family 
 http://209.14.119.206:8000/play/a079/index.m3u8
 #EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family SD" ,HBO Family 
 http://191.97.15.250:45000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family SD" ,HBO Family 
-http://186.148.163.18:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family FHD" ,HBO Family FHD
+http://190.61.55.235:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="HBO Family FHD" ,HBO Family FHD
+http://45.173.12.70:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO Signature SD" ,HBO Signature 
 http://190.61.55.235:8000/play/a10a/index.m3u8
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO Signature SD" ,HBO Signature 
 http://45.173.12.70:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO Signature SD" ,HBO Signature 
 http://209.14.117.146:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-name="HBO Signature SD" ,HBO Signature 
+http://190.2.213.220:8000/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi SD" ,HBO Mundi 
 http://190.61.55.235:8000/play/a10b/index.m3u8
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi SD" ,HBO Mundi 
 http://45.173.12.70:8000/play/a07h/index.m3u8
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi SD" ,HBO Mundi 
 http://209.14.117.146:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="HBO Mundi SD" ,HBO Mundi 
+http://190.2.213.220:8000/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop FHD" ,HBO Pop FHD
 http://148.222.228.3:9000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop FHD" ,HBO Pop FHD
 http://190.61.55.235:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop FHD" ,HBO Pop FHD
 http://45.173.12.70:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-name="HBO Pop FHD" ,HBO Pop FHD
+http://209.14.117.146:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme SD" ,HBO Xtreme 
 http://186.148.163.18:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme SD" group-title="-" ,HBO Xtreme 
 http://186.194.160.110:9002/play/a0lt/index.m3u8
-#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme SD" ,HBO Xtreme 
-http://190.2.213.5:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme FHD" ,HBO Xtreme FHD
+http://190.61.55.235:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="HBO Xtreme FHD" ,HBO Xtreme FHD
+http://209.14.117.146:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias SD" ,Cable Noticias 
 http://190.60.41.107:8008/play/a0ml/index.m3u8
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias SD" ,Cable Noticias 
 http://45.173.12.70:8000/play/a07d/index.m3u8
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias SD" ,Cable Noticias 
-http://209.14.117.146:8000/play/a07y/index.m3u8
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png" tvg-name="Cable Noticias HD" group-title="-" ,Cable Noticias HD
+http://190.60.34.180:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-name="El Tiempo SD" ,El Tiempo 
 http://209.14.117.146:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-name="El Tiempo SD" ,El Tiempo 
 http://186.194.160.110:9002/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-name="El Tiempo SD" ,El Tiempo 
 http://191.97.15.194:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="El.Tiempo.Televisión.co" tvg-name="El Tiempo SD" ,El Tiempo 
+http://200.69.80.179:5050/play/a191/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 SD" ,NTN24 
 http://190.60.41.107:8008/play/a0mn/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 SD" ,NTN24 
 http://45.173.12.70:8000/play/a07e/index.m3u8
-#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 SD" ,NTN24 
-http://209.14.117.146:8000/play/a07u/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 FHD" group-title="-" ,NTN24 FHD
+http://190.60.34.180:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 FHD" ,NTN24 FHD
+http://191.97.6.30:8000/play/a0i7/index.m3u8
 #EXTINF:-1 tvg-id="BBC.World.News.co" tvg-name="BBC World SD" ,BBC World 
 http://181.78.21.162:9080/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="BBC.World.News.co" tvg-name="BBC World SD" ,BBC World 
@@ -665,6 +835,8 @@ http://190.2.213.254:8000/play/a0ej/index.m3u8
 http://190.60.41.107:8008/play/a04b/index.m3u8
 #EXTINF:-1 tvg-name="CNN Espanol SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN Espanol 
 http://45.173.12.70:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-name="CNN Espanol SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN Espanol 
+http://190.61.55.235:8000/play/a0j8/index.m3u8
 #EXTINF:-1 tvg-name="CNN Chile SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" group-title="-" ,CNN Chile 
 http://190.60.34.180:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-name="CNN Chile SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" group-title="-" ,CNN Chile 
@@ -677,24 +849,30 @@ http://186.194.160.110:9002/play/a09s/index.m3u8
 http://181.224.162.154:2897/play/a0ic/index.m3u8
 #EXTINF:-1 tvg-name="CNN International SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN International 
 http://8.243.64.201:2025/play/a0c8/index.m3u8
+#EXTINF:-1 tvg-name="CNN International SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/40/6402293_ED7DBFA4CA85ED1C.png" ,CNN International 
+http://191.97.15.194:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-name="DW SD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" ,DW 
 http://45.173.12.70:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-name="DW SD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" ,DW 
 http://209.14.117.146:8000/play/a060/index.m3u8
-#EXTINF:-1 tvg-name="DW SD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" ,DW 
-http://186.148.181.148:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-name="DW HD" tvg-logo="https://yt3.googleusercontent.com/TOHGshxAMW2Meq-N9EWB3T71en-ziaWoiFYWcjrhxQpOW4Wog3HwrAjDZIeCvj1q9VLPt_YsCA=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,DW HD
+http://24.152.58.11:2968/play/a00a/index.m3u8
 #EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" ,France 24 
 http://148.222.228.3:9000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" ,France 24 
 http://38.137.198.71:8585/play/a04a/index.m3u8
 #EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,France 24 
 http://186.194.160.110:9002/play/a0ms/index.m3u8
+#EXTINF:-1 tvg-name="France 24 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" ,France 24 
+http://200.110.169.127:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-name="CGTN SD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN 
 http://186.194.160.110:9002/play/a07z/index.m3u8
 #EXTINF:-1 tvg-name="CGTN SD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN 
 http://191.97.15.194:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-name="CGTN FHD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" group-title="-" ,CGTN FHD
 http://45.181.189.122:8000/play/a03k
+#EXTINF:-1 tvg-name="CGTN FHD" tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" ,CGTN FHD
+http://200.69.80.179:5050/play/a0td/index.m3u8
 #EXTINF:-1 tvg-name="CCTV 4 FHD" ,CCTV 4 FHD
 http://148.222.228.3:9000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-name="CCTV 4 FHD" ,CCTV 4 FHD
@@ -703,8 +881,8 @@ http://38.137.198.71:8585/play/a04x/index.m3u8
 http://191.102.90.229:8000/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-name="RT SD" ,RT 
 http://191.102.90.224:8000/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-name="RT SD" ,RT 
-http://191.102.90.226:8000/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-name="RT FHD" group-title="-" ,RT FHD
+http://24.152.58.11:2968/play/a00o/index.m3u8
 #EXTINF:-1 tvg-name="Fox News SD" ,Fox News 
 http://45.173.12.70:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-name="Fox News SD" ,Fox News 
@@ -715,30 +893,40 @@ http://186.194.160.110:9002/play/a02t/index.m3u8
 http://186.194.160.110:9002/play/a0mo/index.m3u8
 #EXTINF:-1 tvg-name="BBC News SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/84/15847198_6C5566D38363CFF0.png" ,BBC News 
 http://181.224.162.154:2897/play/a0hh/index.m3u8
+#EXTINF:-1 tvg-name="BBC News SD" tvg-logo="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/84/15847198_6C5566D38363CFF0.png" ,BBC News 
+http://191.97.15.194:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="WIN Sports SD" ,WIN Sports 
 http://190.2.213.254:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="WIN Sports SD" ,WIN Sports 
 http://190.60.41.107:8008/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="WIN Sports SD" ,WIN Sports 
 http://190.60.41.107:8008/play/a0ot/index.m3u8
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="WIN Sports SD" ,WIN Sports 
+http://190.61.55.235:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + SD" ,WIN Sports + 
 http://190.61.55.235:8000/play/a101awer/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + SD" ,WIN Sports + 
 http://191.102.115.172:11011/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + SD" group-title="-" ,WIN Sports + 
-http://186.194.160.110:9002/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + HD" ,WIN Sports + HD
+http://191.97.9.94:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN Sports + FHD" group-title="-" ,WIN Sports + FHD
+http://190.2.213.254:8000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-name="TNT Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports 
 http://209.14.117.146:8000/play/a054/index.m3u8
 #EXTINF:-1 tvg-name="TNT Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports 
 http://186.194.160.110:9002/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-name="TNT Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" group-title="-" ,TNT Sports 
 http://186.148.178.214:8090/play/a07a/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK23sidObOE9hIHLVl_H5P4WMYli3ujJZujYqdu-sP1U4UgFjQqXEogWQWihdB1ZJ3W7M&usqp=CAU" ,TNT Sports 
+http://181.224.162.154:2897/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Premium SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium 
 http://190.2.213.220:8000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Premium SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium 
 http://190.2.213.220:18000/play/a09v/index.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Premium SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="-" ,TNT Sports Premium 
-http://186.148.178.214:8090/play/a06h/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Premium FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium FHD
+http://190.61.55.235:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Premium FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" ,TNT Sports Premium FHD
+http://45.173.12.70:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-name="Directv Sports HD" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" ,Directv Sports HD
 http://190.242.61.122:9999/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-name="Directv Sports FHD" tvg-logo="https://www.trecebits.com/wp-content/uploads/2023/06/DirecTV-Sports-1.webp" ,Directv Sports FHD
@@ -751,6 +939,8 @@ http://209.14.119.206:8000/play/a06u/index.m3u8
 http://186.148.182.109:8100/play/a04f/index.m3u8
 #EXTINF:-1 tvg-name="Claro Sports SD" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" ,Claro Sports 
 http://191.97.14.162:4000/play/a07q/index.m3u8
+#EXTINF:-1 tvg-name="Claro Sports SD" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" ,Claro Sports 
+http://186.148.163.18:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-name="Tigo Sports FHD" ,Tigo Sports FHD
 http://190.14.10.19:16000/play/a00ps/index.m3u8
 #EXTINF:-1 tvg-name="Movistar Sports SD" ,Movistar Sports 
@@ -759,60 +949,80 @@ http://190.61.55.235:8000/play/a0aj/index.m3u8
 http://45.173.12.70:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-name="Movistar Sports SD" ,Movistar Sports 
 http://186.194.160.110:9002/play/a0h7/index.m3u8
+#EXTINF:-1 tvg-name="Movistar Sports SD" ,Movistar Sports 
+http://8.243.64.201:2025/play/a0hd/index.m3u8
 #EXTINF:-1 tvg-name="TyC SPorts SD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" ,TyC SPorts 
 http://190.61.55.235:8000/play/a0um/index.m3u8
 #EXTINF:-1 tvg-name="TyC SPorts SD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" ,TyC SPorts 
 http://45.173.12.70:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-name="TyC SPorts SD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" ,TyC SPorts 
 http://209.14.117.146:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-name="TyC SPorts SD" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q" ,TyC SPorts 
+http://190.2.213.220:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN SD" ,ESPN 
 http://190.2.213.254:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN SD" ,ESPN 
 http://148.222.228.3:9000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN SD" ,ESPN 
-http://190.2.213.254:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN HD" ,ESPN HD
+http://190.2.213.254:8000/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN HD" ,ESPN HD
+http://190.60.41.107:8008/play/a0mw/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN Premium FHD
 http://190.61.55.235:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN Premium FHD
 http://45.173.12.70:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN Premium FHD
 http://209.14.119.206:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium FHD" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" ,ESPN Premium FHD
+http://209.14.117.146:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 SD" ,ESPN 2 
 http://190.2.213.254:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 SD" ,ESPN 2 
 http://190.60.41.107:8008/play/a0nj/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 SD" ,ESPN 2 
-http://177.93.41.82:7000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 HD" ,ESPN 2 HD
+http://190.61.55.235:8000/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="ESPN 2 HD" ,ESPN 2 HD
+http://45.173.12.70:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 SD" ,ESPN 3 
 http://190.2.213.254:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 SD" ,ESPN 3 
 http://190.60.41.107:8008/play/a0ow/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 SD" ,ESPN 3 
-http://177.93.41.82:7000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 HD" ,ESPN 3 HD
+http://190.60.41.107:8008/play/a0j5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-name="ESPN 3 HD" ,ESPN 3 HD
+http://190.61.55.235:8000/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 SD" ,ESPN 4 
 http://191.97.15.250:45000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 SD" ,ESPN 4 
 http://191.97.9.94:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 SD" ,ESPN 4 
-http://8.243.67.3:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 HD" ,ESPN 4 HD
+http://148.222.228.3:9000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.co" tvg-name="ESPN 4 HD" ,ESPN 4 HD
+http://190.60.41.107:8008/play/a0j4/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 SD" ,ESPN 5 
 http://190.2.213.254:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 SD" ,ESPN 5 
 http://177.93.41.82:7000/play/a030/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 SD" ,ESPN 5 
-http://191.97.6.30:8000/play/a0gv/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 HD" group-title="-" ,ESPN 5 HD
+http://190.60.34.180:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="ESPN 5 FHD" ,ESPN 5 FHD
+http://148.222.228.3:9000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 SD" ,ESPN 6 
 http://190.2.213.254:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 SD" ,ESPN 6 
 http://190.60.41.107:8008/play/a0ob/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 SD" ,ESPN 6 
-http://209.14.119.206:8000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 HD" group-title="-" ,ESPN 6 HD
+http://190.60.34.180:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="ESPN 6 HD" ,ESPN 6 HD
+http://209.14.115.253:8000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 SD" ,ESPN 7 
 http://190.2.213.254:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 SD" ,ESPN 7 
 http://190.60.41.107:8008/play/a0no/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 SD" ,ESPN 7 
-http://177.93.41.82:7000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 HD" group-title="-" ,ESPN 7 HD
+http://190.60.34.180:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="ESPN 7 HD" ,ESPN 7 HD
+http://209.14.115.253:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 
 http://186.148.163.18:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 
@@ -825,12 +1035,16 @@ http://191.97.15.250:45000/play/a05i/index.m3u8
 http://191.97.14.162:4000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 2 
 http://190.2.213.5:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2 SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" ,Fox Sports 2 
+http://181.225.73.189:8001/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 SD" ,Fox Sports 3 
 http://191.97.15.250:45000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 SD" ,Fox Sports 3 
 http://191.97.14.162:4000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 SD" ,Fox Sports 3 
-http://190.2.213.5:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 FHD" ,Fox Sports 3 FHD
+http://190.2.213.220:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" tvg-name="Fox Sports 3 FHD" ,Fox Sports 3 FHD
+http://191.102.90.229:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-name="SKY LA LIGA HD" tvg-logo="https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png" ,SKY LA LIGA HD
 http://190.14.10.19:16000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-name="Golf Channel SD" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/a4787f0/2147483647/strip/true/crop/304x171+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2F8521681bbea7ad8b97e57cdcc1f2%2Fnew-golf-channel-logo-304.jpg" ,Golf Channel 
@@ -839,30 +1053,40 @@ http://45.173.12.70:8000/play/a02e/index.m3u8
 http://209.14.117.146:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-name="Golf Channel SD" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/a4787f0/2147483647/strip/true/crop/304x171+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2F8521681bbea7ad8b97e57cdcc1f2%2Fnew-golf-channel-logo-304.jpg" ,Golf Channel 
 http://190.2.213.220:8000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-name="Golf Channel SD" tvg-logo="https://nbcsports.brightspotcdn.com/dims4/default/a4787f0/2147483647/strip/true/crop/304x171+0+3/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2F8521681bbea7ad8b97e57cdcc1f2%2Fnew-golf-channel-logo-304.jpg" ,Golf Channel 
+http://190.2.213.220:18000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-name="Via X Esports SD" ,Via X Esports 
 http://45.173.12.70:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-name="Via X Esports SD" ,Via X Esports 
 http://209.14.117.146:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-name="Via X Esports SD" ,Via X Esports 
 http://177.93.41.82:7000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-name="Via X Esports SD" ,Via X Esports 
+http://190.2.213.220:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV SD" ,HTV 
 http://190.60.41.107:8008/play/a0lj/index.m3u8
 #EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV SD" ,HTV 
 http://45.173.12.70:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV SD" ,HTV 
-http://209.14.117.146:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV FHD" group-title="-" ,HTV FHD
+http://190.60.34.180:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV FHD" ,HTV FHD
+http://209.14.115.253:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-name="Rumba TV FHD" group-title="-" ,Rumba TV FHD
 http://190.60.34.180:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-name="Rumba TV FHD" ,Rumba TV FHD
 http://209.14.115.253:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-name="Rumba TV FHD" ,Rumba TV FHD
 http://190.2.213.220:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-name="Rumba TV FHD" ,Rumba TV FHD
+http://190.2.213.220:18000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-name="Nick Music SD" tvg-logo="https://dplnews.com/wp-content/uploads/2020/09/dplnews_NickMusic_mc120920.png" ,Nick Music 
 http://190.60.41.107:8008/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-name="Nick Music SD" tvg-logo="https://dplnews.com/wp-content/uploads/2020/09/dplnews_NickMusic_mc120920.png" ,Nick Music 
 http://45.173.12.70:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-name="Nick Music SD" tvg-logo="https://dplnews.com/wp-content/uploads/2020/09/dplnews_NickMusic_mc120920.png" ,Nick Music 
 http://190.61.55.235:8000/play/a0y0/index.m3u8
+#EXTINF:-1 tvg-name="Nick Music SD" tvg-logo="https://dplnews.com/wp-content/uploads/2020/09/dplnews_NickMusic_mc120920.png" ,Nick Music 
+http://209.14.117.146:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-name="La Kalle HD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" ,La Kalle HD
 http://190.60.48.85:9080/play/a1df/index.m3u8
 #EXTINF:-1 tvg-name="La Kalle FHD" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="-" ,La Kalle FHD
@@ -873,14 +1097,18 @@ http://209.14.115.253:8000/play/a00q/index.m3u8
 http://148.222.228.3:9000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-name="MTV 00s SD" ,MTV 00s 
 http://190.60.41.107:8008/play/a06l/index.m3u8
-#EXTINF:-1 tvg-name="MTV 00s SD" ,MTV 00s 
-http://186.148.184.19:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-name="MTV 00s FHD" ,MTV 00s FHD
+http://190.61.55.235:8000/play/a09m/index.m3u8
+#EXTINF:-1 tvg-name="MTV 00s FHD" ,MTV 00s FHD
+http://209.14.117.146:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE SD" ,MTV LIVE 
 http://190.60.41.107:8008/play/a06k/index.m3u8
 #EXTINF:-1 tvg-name="MTV LIVE SD" ,MTV LIVE 
 http://186.148.184.19:8000/play/a0cb/index.m3u8
-#EXTINF:-1 tvg-name="MTV LIVE SD" ,MTV LIVE 
-http://8.243.64.201:2025/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE FHD" ,MTV LIVE FHD
+http://148.222.228.3:9000/play/a09i/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE FHD" ,MTV LIVE FHD
+http://190.61.55.235:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-name="Telehit HD" ,Telehit HD
 http://186.148.175.138:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-name="Telehit FHD" group-title="-" ,Telehit FHD
@@ -891,6 +1119,8 @@ http://209.14.115.253:8000/play/a0a7/index.m3u8
 http://186.148.175.138:8000/play/a04z/index.m3u8
 #EXTINF:-1 tvg-name="Bandamax FHD" ,Bandamax FHD
 http://186.194.160.110:9002/play/a0gi/index.m3u8
+#EXTINF:-1 tvg-name="Bandamax FHD" group-title="-" ,Bandamax FHD
+http://186.148.178.214:8090/play/a014/index.m3u8
 #EXTINF:-1 tvg-name="Playboy SD" group-title="-" ,Playboy 
 http://186.194.160.110:9002/play/a0hb/index.m3u8
 #EXTINF:-1 tvg-name="Playboy HD" ,Playboy HD
@@ -901,8 +1131,8 @@ http://186.148.163.18:8000/play/a07j/index.m3u8
 http://190.61.55.235:8000/play/a0vj/index.m3u8
 #EXTINF:-1 tvg-name="Venus SD" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" ,Venus 
 http://209.14.117.146:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-name="Venus SD" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" ,Venus 
-http://186.194.160.110:9002/play/a0h8/index.m3u8
+#EXTINF:-1 tvg-name="Venus FHD" tvg-logo="https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png" group-title="-" ,Venus FHD
+http://24.152.58.11:2968/play/a01c/index.m3u8
 #EXTINF:-1 tvg-name="Sextreme SD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest/scale-to-width-down/287?cb=20110531221305&path-prefix=es" ,Sextreme 
 http://209.14.117.146:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-name="Sextreme SD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest/scale-to-width-down/287?cb=20110531221305&path-prefix=es" ,Sextreme 
